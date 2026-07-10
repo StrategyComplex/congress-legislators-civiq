@@ -1619,7 +1619,7 @@
   - id: C000880-coeur_d__alene
     address: 610 Hubbard Ave
     suite: Suite 209
-    city: Coeur d' Alene
+    city: Coeur d'Alene
     state: ID
     zip: '83814'
     fax: 208-664-0889
@@ -2794,28 +2794,6 @@
     latitude: 39.9597032
     longitude: -82.99609939999999
     phone: 614-927-6902
-- id:
-    bioguide: C001127
-    govtrack: 456865
-  offices:
-  - id: C001127-tamarac
-    address: 5701 NW 88th Avenue
-    suite: Suite 200
-    city: Tamarac
-    state: FL
-    zip: '33321'
-    latitude: 26.1953246
-    longitude: -80.26880729999999
-    phone: 954-733-2800
-  - id: C001127-west_palm_beach
-    address: 5725 Corporate Way
-    suite: Suite 208
-    city: West Palm Beach
-    state: FL
-    zip: '33407'
-    latitude: 26.7622223
-    longitude: -80.0913358
-    phone: 561-461-6767
 - id:
     bioguide: C001129
     govtrack: 456895
@@ -4909,57 +4887,6 @@
     latitude: 25.6567885
     longitude: -80.42425399999999
     phone: 305-222-0160
-- id:
-    bioguide: G000594
-    govtrack: 456849
-  offices:
-  - id: G000594-san_antonio
-    address: 4372 N. Loop 1604 W
-    suite: Suite 205
-    city: San Antonio
-    state: TX
-    zip: '78249'
-    latitude: 29.5959788
-    longitude: -98.572084
-    hours: By appointment only
-    fax: 210-927-4903
-    phone: 210-806-9920
-  - id: G000594-uvalde
-    address: 2401 Garner Field Rd
-    building: Building Q
-    city: Uvalde
-    state: TX
-    zip: '78801'
-    latitude: 29.21959
-    longitude: -99.74042569999999
-    hours: By appointment only
-    phone: 830-333-7410
-  - id: G000594-del_rio
-    address: 712 East Gibbs St.
-    city: Del Rio
-    state: TX
-    zip: '78840'
-    latitude: 29.36716509999999
-    longitude: -100.8947025
-    phone: 830-308-6200
-  - id: G000594-fort_stockton
-    address: 103 West Callaghan
-    city: Fort Stockton
-    state: TX
-    zip: '79735'
-    latitude: 30.88280039999999
-    longitude: -102.8797441
-    phone: 432-299-6200
-  - id: G000594-socorro
-    address: 10167 Socorro Rd.
-    building: Casa Ortiz
-    city: Socorro
-    state: TX
-    zip: '79927'
-    latitude: 31.6547697
-    longitude: -106.303233
-    hours: By appointment only
-    phone: 915-990-1500
 - id:
     bioguide: G000597
     govtrack: 456836
@@ -8319,29 +8246,6 @@
     longitude: -73.83085919999999
     hours: By appointment only
 - id:
-    bioguide: M001190
-    govtrack: 412568
-    thomas: '02156'
-  offices:
-  - id: M001190-oklahoma_city
-    address: 3817 NW Expressway
-    suite: '#780'
-    city: Oklahoma City
-    state: OK
-    zip: '73112'
-    latitude: 35.5361791
-    longitude: -97.58577269999999
-    phone: 405-246-0025
-  - id: M001190-tulsa
-    address: 15 W 6th St.
-    suite: 'Suite #2100'
-    city: Tulsa
-    state: OK
-    zip: '74119'
-    latitude: 36.1509086
-    longitude: -95.99073519999999
-    phone: 918-921-8520
-- id:
     bioguide: M001194
     govtrack: 412634
     thomas: '02248'
@@ -10704,21 +10608,6 @@
     fax: 771-200-5828
     phone: 562-860-5050
 - id:
-    bioguide: S001157
-    govtrack: 400363
-    thomas: '01722'
-  offices:
-  - id: S001157-stockbridge
-    address: 5 Gresham Landing
-    suite: Suite A
-    city: Stockbridge
-    state: GA
-    zip: '30281'
-    latitude: 33.5078517
-    longitude: -84.2185254
-    fax: 770-991-9797
-    phone: 770-210-5073
-- id:
     bioguide: S001159
     govtrack: 456854
   offices:
@@ -11019,19 +10908,6 @@
     hours: By appointment only
     fax: 847-793-0677
     phone: 847-383-4870
-- id:
-    bioguide: S001193
-    govtrack: 412514
-    thomas: '02104'
-  offices:
-  - id: S001193-castro_valley
-    address: 20990 Redwood Road
-    city: Castro Valley
-    state: CA
-    zip: '94546'
-    latitude: 37.693352
-    longitude: -122.072426
-    phone: 510-370-3322
 - id:
     bioguide: S001194
     govtrack: 412507
@@ -14741,3 +14617,131 @@
     zip: '96951'
     phone: 670-532-2647
     fax: 670-532-2649
+- id:
+    bioguide: W000831
+    govtrack: 457036
+  offices:
+  - id: W000831-fairfax
+    address: 10680 Main Street District
+    suite: Suite 140
+    city: Fairfax
+    state: VA
+    zip: '22030'
+    phone: 703-256-3071
+    latitude: 38.8492741
+    longitude: -77.3142244
+- id:
+    bioguide: G000606
+    govtrack: 457037
+  offices:
+  - id: G000606-tucson
+    address: 101 W. Irvington Road
+    building: Building 4
+    city: Tucson
+    state: AZ
+    zip: '85714'
+    fax: 520-622-0198
+    phone: 520-622-6788
+    latitude: 32.160536
+    longitude: -110.9694903
+- id:
+    bioguide: V000139
+    govtrack: 457038
+  offices:
+  - id: V000139-clarksville
+    address: 128 N Second St
+    suite: Suite 104
+    city: Clarksville
+    state: TN
+    zip: '37040'
+    hours: By appointment only
+    phone: 931-266-4483
+    latitude: 36.5285985
+    longitude: -87.3594237
+  - id: V000139-franklin
+    address: 305 Public Square
+    suite: Suite 212
+    city: Franklin
+    state: TN
+    zip: '37064'
+    hours: By appointment only
+    phone: 629-223-6050
+    latitude: 35.9247753
+    longitude: -86.86896159999999
+  - id: V000139-nashville
+    address: 801 Broadway
+    suite: Suite C 507
+    city: Nashville
+    state: TN
+    zip: '37203'
+    phone: 629-999-4950
+    latitude: 36.15826
+    longitude: -86.7825982
+- id:
+    bioguide: M001245
+    govtrack: 457039
+  offices:
+  - id: M001245-houston
+    address: 15651 North Freeway
+    city: Houston
+    state: TX
+    zip: '77090'
+    phone: 281-891-4899
+    latitude: 29.9944134
+    longitude: -95.4261625
+  - id: M001245-houston-1
+    address: 2020 Solo Street
+    city: Houston
+    state: TX
+    zip: '77020'
+    phone: 713-227-7740
+    latitude: 29.7794665
+    longitude: -95.3203801
+  - id: M001245-houston-2
+    address: 1919 Smith Street
+    suite: Suite 1180
+    city: Houston
+    state: TX
+    zip: '77002'
+    phone: 713-655-0050
+    latitude: 29.7518958
+    longitude: -95.3736327
+- id:
+    bioguide: A000383
+    govtrack: 457040
+  offices:
+  - id: A000383-oklahoma_city
+    address: 3817 NW Expressway
+    suite: '#780'
+    city: Oklahoma City
+    state: OK
+    zip: '73112'
+    phone: 405-246-0025
+    fax: 405-604-0917
+    latitude: 35.5359239
+    longitude: -97.5858215
+- id:
+    bioguide: F000485
+    govtrack: 457041
+  offices:
+  - id: F000485-dalton
+    address: P.O. Box 829
+    city: Dalton
+    state: GA
+    zip: '30722'
+    phone: 706-226-5320
+    latitude: 34.7698021
+    longitude: -84.9702228
+- id:
+    bioguide: M001246
+    govtrack: 457042
+  offices:
+  - id: M001246-livingston
+    address: 357 S. Livingston Avenue
+    suite: Suite 201
+    city: Livingston
+    state: NJ
+    zip: '07039'
+    phone: 973-526-5668
+    latitude: 40.7824091
+    longitude: -74.3146206

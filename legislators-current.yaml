@@ -8361,7 +8361,7 @@
     cspan: 1022879
     wikipedia: Jim Jordan
     house_history: 16067
-    ballotpedia: Jim Jordan
+    ballotpedia: Jim Jordan (Ohio)
     maplight: 711
     icpsr: 20738
     wikidata: Q186215
@@ -8699,7 +8699,7 @@
     fec:
     - H0MA10082
     cspan: 61856
-    wikipedia: Bill Keating (politician)
+    wikipedia: Bill Keating
     house_history: 16570
     maplight: 1446
     icpsr: 21140
@@ -9341,7 +9341,7 @@
     cspan: 1028071
     wikipedia: Bob Latta
     house_history: 17309
-    ballotpedia: Robert E. Latta
+    ballotpedia: Bob Latta
     maplight: 737
     icpsr: 20755
     wikidata: Q888061
@@ -14306,7 +14306,7 @@
     fec:
     - H0GA08099
     cspan: 623344
-    wikipedia: Austin Scott (politician)
+    wikipedia: Austin Scott
     ballotpedia: Austin Scott
     maplight: 1429
     icpsr: 21123
@@ -14415,153 +14415,6 @@
     address: 2185 Rayburn House Office Building Washington DC 20515-1008
     office: 2185 Rayburn House Office Building
     phone: 202-225-6531
-- id:
-    bioguide: S001157
-    thomas: '01722'
-    govtrack: 400363
-    opensecrets: N00024871
-    votesmart: 7826
-    fec:
-    - H2GA13012
-    cspan: 1003567
-    wikipedia: David Scott (Georgia politician)
-    ballotpedia: David Scott (Georgia)
-    maplight: 454
-    icpsr: 20321
-    house_history: 22574
-    wikidata: Q132071
-    google_entity_id: kg:/m/0255r4
-    pictorial: 13590
-  name:
-    first: David
-    last: Scott
-    official_full: David Scott
-  bio:
-    birthday: '1945-06-27'
-    gender: M
-  terms:
-  - type: rep
-    start: '2003-01-07'
-    end: '2005-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: http://www.house.gov/davidscott
-  - type: rep
-    start: '2005-01-04'
-    end: '2007-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: http://www.house.gov/davidscott
-  - type: rep
-    start: '2007-01-04'
-    end: '2009-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: http://davidscott.house.gov
-  - type: rep
-    start: '2009-01-06'
-    end: '2011-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: http://davidscott.house.gov
-  - type: rep
-    start: '2011-01-05'
-    end: '2013-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: http://davidscott.house.gov
-    address: 225 Cannon HOB; Washington DC 20515-1013
-    phone: 202-225-2939
-    fax: 202-225-4628
-    contact_form: http://www.house.gov/writerep
-    office: 225 Cannon House Office Building
-  - type: rep
-    start: '2013-01-03'
-    end: '2015-01-03'
-    state: GA
-    party: Democrat
-    district: 13
-    url: http://davidscott.house.gov
-    address: 225 Cannon HOB; Washington DC 20515-1013
-    phone: 202-225-2939
-    fax: 202-225-4628
-    contact_form: https://davidscott.house.gov/contact/contactform.htm
-    office: 225 Cannon House Office Building
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-  - type: rep
-    start: '2015-01-06'
-    end: '2017-01-03'
-    state: GA
-    party: Democrat
-    district: 13
-    url: http://davidscott.house.gov
-    address: 225 Cannon HOB; Washington DC 20515-1013
-    phone: 202-225-2939
-    fax: 202-225-4628
-    contact_form: https://davidscott.house.gov/contact/contactform.htm
-    office: 225 Cannon House Office Building
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-  - type: rep
-    start: '2017-01-03'
-    end: '2019-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    phone: 202-225-2939
-    url: https://davidscott.house.gov
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-    address: 225 Cannon House Office Building; Washington DC 20515-1013
-    office: 225 Cannon House Office Building
-    fax: 202-225-4628
-  - type: rep
-    start: '2019-01-03'
-    end: '2021-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    phone: 202-225-2939
-    address: 225 Cannon House Office Building Washington DC 20515-1013
-    office: 225 Cannon House Office Building
-    url: https://davidscott.house.gov
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-  - type: rep
-    start: '2021-01-03'
-    end: '2023-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: https://davidscott.house.gov
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-    address: 468 Cannon House Office Building Washington DC 20515-1013
-    office: 468 Cannon House Office Building
-    phone: 202-225-2939
-  - type: rep
-    start: '2023-01-03'
-    end: '2025-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: https://davidscott.house.gov
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-    address: 468 Cannon House Office Building Washington DC 20515-1013
-    office: 468 Cannon House Office Building
-    phone: 202-225-2939
-  - type: rep
-    start: '2025-01-03'
-    end: '2027-01-03'
-    state: GA
-    district: 13
-    party: Democrat
-    url: https://davidscott.house.gov
-    rss_url: http://davidscott.house.gov/news/rss.aspx
-    address: 468 Cannon House Office Building Washington DC 20515-1013
-    office: 468 Cannon House Office Building
-    phone: 202-225-2939
 - id:
     bioguide: S000185
     thomas: '01037'
@@ -16137,7 +15990,7 @@
     fec:
     - H8CA01109
     cspan: 57872
-    wikipedia: Mike Thompson (California politician)
+    wikipedia: Mike Thompson
     maplight: 489
     icpsr: 29901
     house_history: 23200
@@ -16664,7 +16517,7 @@
     - H2OH03091
     cspan: 1003607
     wikipedia: Mike Turner
-    ballotpedia: Michael R. Turner
+    ballotpedia: Michael Turner (Ohio)
     maplight: 496
     icpsr: 20342
     house_history: 23206
@@ -17792,7 +17645,7 @@
     fec:
     - H2SC02059
     cspan: 1002567
-    wikipedia: Joe Wilson (American politician)
+    wikipedia: Joe Wilson
     ballotpedia: Joe Wilson
     maplight: 519
     icpsr: 20138
@@ -19608,102 +19461,6 @@
     office: 172 Cannon House Office Building
     phone: 202-225-5716
 - id:
-    govtrack: 412514
-    bioguide: S001193
-    thomas: '02104'
-    cspan: 79729
-    opensecrets: N00033508
-    votesmart: 129529
-    wikipedia: Eric Swalwell
-    fec:
-    - H2CA15094
-    ballotpedia: Eric Swalwell
-    maplight: 1738
-    icpsr: 21306
-    wikidata: Q3466996
-    google_entity_id: kg:/m/0ncq55g
-    pictorial: 13498
-  name:
-    first: Eric
-    last: Swalwell
-    official_full: Eric Swalwell
-  bio:
-    gender: M
-    birthday: '1980-11-16'
-  terms:
-  - type: rep
-    start: '2013-01-03'
-    end: '2015-01-03'
-    state: CA
-    party: Democrat
-    district: 15
-    office: 501 Cannon House Office Building
-    address: 501 Cannon HOB; Washington DC 20515-0515
-    phone: 202-225-5065
-    url: http://swalwell.house.gov
-    contact_form: http://swalwell.house.gov/contact-me/email-eric/
-  - type: rep
-    start: '2015-01-06'
-    end: '2017-01-03'
-    state: CA
-    party: Democrat
-    district: 15
-    office: 129 Cannon House Office Building
-    address: 129 Cannon HOB; Washington DC 20515-0515
-    phone: 202-225-5065
-    url: http://swalwell.house.gov
-    contact_form: http://swalwell.house.gov/contact-me/email-eric/
-  - type: rep
-    start: '2017-01-03'
-    end: '2019-01-03'
-    state: CA
-    district: 15
-    party: Democrat
-    phone: 202-225-5065
-    url: https://swalwell.house.gov
-    address: 129 Cannon House Office Building; Washington DC 20515-0515
-    office: 129 Cannon House Office Building
-  - type: rep
-    start: '2019-01-03'
-    end: '2021-01-03'
-    state: CA
-    district: 15
-    party: Democrat
-    phone: 202-225-5065
-    address: 407 Cannon House Office Building Washington DC 20515-0515
-    office: 407 Cannon House Office Building
-    url: https://swalwell.house.gov
-  - type: rep
-    start: '2021-01-03'
-    end: '2023-01-03'
-    state: CA
-    district: 15
-    party: Democrat
-    url: https://swalwell.house.gov
-    address: 174 Cannon House Office Building Washington DC 20515-0515
-    office: 174 Cannon House Office Building
-    phone: 202-225-5065
-  - type: rep
-    start: '2023-01-03'
-    end: '2025-01-03'
-    state: CA
-    district: 14
-    party: Democrat
-    url: https://swalwell.house.gov
-    address: 174 Cannon House Office Building Washington DC 20515-0514
-    office: 174 Cannon House Office Building
-    phone: 202-225-5065
-  - type: rep
-    start: '2025-01-03'
-    end: '2027-01-03'
-    state: CA
-    district: 14
-    party: Democrat
-    url: https://swalwell.house.gov
-    address: 174 Cannon House Office Building Washington DC 20515-0514
-    office: 174 Cannon House Office Building
-    phone: 202-225-5065
-- id:
     govtrack: 412516
     bioguide: B001285
     thomas: '02106'
@@ -20422,7 +20179,7 @@
     thomas: '02131'
     cspan: 61848
     votesmart: 117290
-    wikipedia: Andy Barr (American politician)
+    wikipedia: Andy Barr
     fec:
     - H0KY06104
     opensecrets: N00031233
@@ -21544,110 +21301,12 @@
     office: 2065 Rayburn House Office Building
     phone: 202-225-5731
 - id:
-    govtrack: 412568
-    bioguide: M001190
-    thomas: '02156'
-    lis: S419
-    cspan: 1034045
-    votesmart: 135898
-    wikipedia: Markwayne Mullin
-    fec:
-    - H2OK02083
-    - S2OK00186
-    opensecrets: N00033410
-    ballotpedia: Markwayne Mullin
-    maplight: 1792
-    icpsr: 21355
-    wikidata: Q3448772
-    google_entity_id: kg:/m/0lq78pn
-    pictorial: 13425
-  name:
-    first: Markwayne
-    last: Mullin
-    official_full: Markwayne Mullin
-  bio:
-    gender: M
-    birthday: '1977-07-26'
-  terms:
-  - type: rep
-    start: '2013-01-03'
-    end: '2015-01-03'
-    state: OK
-    party: Republican
-    district: 2
-    office: 1113 Longworth House Office Building
-    address: 1113 Longworth HOB; Washington DC 20515-3602
-    phone: 202-225-2701
-    url: http://mullin.house.gov
-    rss_url: http://mullin.house.gov/rss.xml
-    contact_form: https://mullin.house.gov/contact/email-me
-    fax: 202-225-3038
-  - type: rep
-    start: '2015-01-06'
-    end: '2017-01-03'
-    state: OK
-    party: Republican
-    district: 2
-    office: 1113 Longworth House Office Building
-    address: 1113 Longworth HOB; Washington DC 20515-3602
-    phone: 202-225-2701
-    url: http://mullin.house.gov
-    rss_url: http://mullin.house.gov/rss.xml
-    contact_form: https://mullin.house.gov/contact/email-me
-    fax: 202-225-3038
-  - type: rep
-    start: '2017-01-03'
-    end: '2019-01-03'
-    state: OK
-    district: 2
-    party: Republican
-    phone: 202-225-2701
-    url: https://mullin.house.gov
-    rss_url: http://mullin.house.gov/news/rss.aspx
-    address: 1113 Longworth House Office Building; Washington DC 20515-3602
-    office: 1113 Longworth House Office Building
-    fax: 202-225-3038
-  - type: rep
-    start: '2019-01-03'
-    end: '2021-01-03'
-    state: OK
-    district: 2
-    party: Republican
-    phone: 202-225-2701
-    address: 2421 Rayburn House Office Building Washington DC 20515-3602
-    office: 2421 Rayburn House Office Building
-    url: https://mullin.house.gov
-    rss_url: http://mullin.house.gov/news/rss.aspx
-  - type: rep
-    start: '2021-01-03'
-    end: '2023-01-03'
-    state: OK
-    district: 2
-    party: Republican
-    url: https://mullin.house.gov
-    rss_url: http://mullin.house.gov/news/rss.aspx
-    address: 2421 Rayburn House Office Building Washington DC 20515-3602
-    office: 2421 Rayburn House Office Building
-    phone: 202-225-2701
-  - type: sen
-    start: '2023-01-03'
-    end: '2027-01-03'
-    state: OK
-    class: 2
-    state_rank: junior
-    party: Republican
-    url: https://www.mullin.senate.gov
-    contact_form: https://www.mullin.senate.gov/contact/
-    address: 330 Hart Senate Office Building Washington DC 20510
-    office: 330 Hart Senate Office Building
-    phone: 202-224-4721
-- id:
     govtrack: 412569
     bioguide: P000605
     thomas: '02157'
     cspan: 79873
     votesmart: 59980
-    wikipedia: Scott Perry (politician)
+    wikipedia: Scott Perry
     fec:
     - H2PA04135
     opensecrets: N00034120
@@ -23015,7 +22674,7 @@
     thomas: '02221'
     maplight: 2064
     wikidata: Q17386504
-    wikipedia: Gary Palmer (politician)
+    wikipedia: Gary Palmer
     google_entity_id: kg:/m/0115nklq
     votesmart: 146274
     cspan: 76094
@@ -24529,6 +24188,7 @@
     cspan: 79091
     icpsr: 21538
     pictorial: 13729
+    ballotpedia: Bonnie Watson Coleman
   name:
     first: Bonnie
     last: Watson Coleman
@@ -25775,7 +25435,7 @@
     fec:
     - H6KY01110
     cspan: 76619
-    wikipedia: James Comer (politician)
+    wikipedia: James Comer
     ballotpedia: James Comer Jr.
     google_entity_id: kg:/m/0j65cf0
     wikidata: Q6131602
@@ -26650,7 +26310,7 @@
     - S4DE00060
     opensecrets: N00038414
     maplight: 2201
-    google_entity_id: kg:/g/11c3yvwbvn
+    google_entity_id: kg:/g/11c328y56v
     cspan: 104772
     icpsr: 21706
     ballotpedia: Lisa Blunt Rochester
@@ -27743,7 +27403,7 @@
     - S8NV00156
     opensecrets: N00038734
     maplight: 2227
-    google_entity_id: kg:/g/11cntnvwkg
+    google_entity_id: kg:/g/11c5qshznp
     cspan: 104738
     icpsr: 21743
     pictorial: 13955
@@ -28087,7 +27747,7 @@
 - id:
     bioguide: G000581
     govtrack: 412725
-    wikipedia: Vicente Gonzalez (politician)
+    wikipedia: Vicente Gonzalez (American politician)
     wikidata: Q27924921
     votesmart: 166483
     fec:
@@ -28537,7 +28197,7 @@
     govtrack: 412740
     opensecrets: N00041221
     votesmart: 123390
-    wikipedia: John Curtis (Utah politician)
+    wikipedia: John Curtis
     wikidata: Q6253810
     ballotpedia: John Curtis (Utah)
     google_entity_id: kg:/m/0bmdhtb
@@ -29383,6 +29043,7 @@
     icpsr: 21939
     google_entity_id: kg:/g/11gfd5mdpc
     pictorial: 13533
+    ballotpedia: Mike Levin
   name:
     first: Mike
     last: Levin
@@ -29942,6 +29603,7 @@
     icpsr: 21979
     google_entity_id: kg:/g/11gfm73_1z
     pictorial: 13614
+    ballotpedia: Lauren Underwood
   name:
     first: Lauren
     last: Underwood
@@ -30617,6 +30279,7 @@
     google_entity_id: kg:/g/11fjx_n80p
     ballotpedia: Michael Guest
     pictorial: 13694
+    votesmart: 179667
   name:
     first: Michael
     last: Guest
@@ -30801,7 +30464,7 @@
     - H8NJ03206
     - S4NJ00466
     govtrack: 412797
-    wikipedia: Andy Kim (politician)
+    wikipedia: Andy Kim
     wikidata: Q55639180
     opensecrets: N00041370
     icpsr: 21937
@@ -31302,7 +30965,7 @@
     fec:
     - H8SC04250
     govtrack: 412815
-    wikipedia: William Timmons (politician)
+    wikipedia: William Timmons
     wikidata: Q28837296
     opensecrets: N00042715
     google_entity_id: kg:/g/11g6ns21_f
@@ -33417,6 +33080,8 @@
     wikipedia: Kat Cammack
     google_entity_id: kg:/g/11fsp_lppx
     pictorial: 13553
+    votesmart: 191306
+    ballotpedia: Kat Cammack
   name:
     first: Katherine
     nickname: Kat
@@ -33620,6 +33285,7 @@
     google_entity_id: kg:/g/1hb_g7r18
     votesmart: 182300
     pictorial: 13576
+    ballotpedia: Maria Elvira Salazar
   name:
     first: Maria
     middle: Elvira
@@ -33670,6 +33336,7 @@
     google_entity_id: kg:/g/11fctqx0jy
     ballotpedia: Nikema Williams
     pictorial: 13582
+    votesmart: 176751
   name:
     first: Nikema
     middle: Natassha
@@ -33719,6 +33386,8 @@
     wikipedia: Andrew Clyde
     google_entity_id: kg:/g/11j32tm4v4
     pictorial: 13586
+    votesmart: 189770
+    ballotpedia: Andrew Clyde
   name:
     first: Andrew
     middle: S.
@@ -33971,6 +33640,8 @@
     wikipedia: Frank J. Mrvan
     google_entity_id: kg:/g/11gtz3tlbh
     pictorial: 13618
+    votesmart: 113775
+    ballotpedia: Frank Mrvan (Indiana congressional member)
   name:
     first: Frank
     middle: John
@@ -34070,6 +33741,8 @@
     wikipedia: Tracey Mann
     google_entity_id: kg:/g/11hcbb5b38
     pictorial: 13627
+    votesmart: 125007
+    ballotpedia: Tracey Mann
   name:
     first: Tracey
     middle: Robert
@@ -34119,6 +33792,8 @@
     wikipedia: Jake Auchincloss
     google_entity_id: kg:/g/11f0xw2_p4
     pictorial: 13646
+    votesmart: 173832
+    ballotpedia: Jake Auchincloss
   name:
     first: Jake
     middle: Daniel
@@ -34275,6 +33950,7 @@
     google_entity_id: kg:/m/02b3x2
     ballotpedia: Deborah Ross
     pictorial: 13699
+    votesmart: 41560
   name:
     first: Deborah
     middle: Koff
@@ -34321,9 +33997,11 @@
     opensecrets: N00044559
     govtrack: 456835
     wikidata: Q96054905
-    wikipedia: Teresa Leger Fernandez
+    wikipedia: Teresa Leger Fernández
     google_entity_id: kg:/g/11h_x7n8f5
     pictorial: 13732
+    votesmart: 189882
+    ballotpedia: Teresa Leger Fernandez
   name:
     first: Teresa
     last: Leger Fernandez
@@ -34372,6 +34050,8 @@
     wikipedia: Andrew Garbarino
     google_entity_id: kg:/g/11bw8f4j8q
     pictorial: 13738
+    votesmart: 143103
+    ballotpedia: Andrew Garbarino
   name:
     first: Andrew
     middle: R.
@@ -34421,6 +34101,8 @@
     wikipedia: Nicole Malliotakis
     google_entity_id: kg:/m/0g5817m
     pictorial: 13747
+    votesmart: 127929
+    ballotpedia: Nicole Malliotakis
   name:
     first: Nicole
     last: Malliotakis
@@ -34521,6 +34203,7 @@
     google_entity_id: kg:/g/11h2hmkrv8
     ballotpedia: Stephanie Bice
     pictorial: 13782
+    votesmart: 152294
   name:
     first: Stephanie
     middle: I.
@@ -34570,6 +34253,8 @@
     wikipedia: Cliff Bentz
     google_entity_id: kg:/m/0gfdsjb
     pictorial: 13784
+    votesmart: 102400
+    ballotpedia: Cliff Bentz
   name:
     first: Cliff
     middle: Stewart
@@ -34771,6 +34456,8 @@
     wikipedia: August Pfluger
     google_entity_id: kg:/g/11f3szpd4x
     pictorial: 13836
+    votesmart: 188165
+    ballotpedia: August Pfluger
   name:
     first: August
     middle: Lee
@@ -34913,56 +34600,6 @@
     address: 1104 Longworth House Office Building Washington DC 20515-4322
     office: 1104 Longworth House Office Building
     phone: 202-225-5951
-- id:
-    bioguide: G000594
-    fec:
-    - H0TX35015
-    opensecrets: N00044592
-    govtrack: 456849
-    wikidata: Q104648170
-    google_entity_id: kg:/g/11fs52clcr
-    wikipedia: Tony Gonzales
-    pictorial: 13848
-  name:
-    first: Ernest
-    middle: Anthony
-    nickname: Tony
-    last: Gonzales
-    official_full: Tony Gonzales
-  bio:
-    gender: M
-    birthday: '1980-10-10'
-  terms:
-  - type: rep
-    start: '2021-01-03'
-    end: '2023-01-03'
-    state: TX
-    district: 23
-    party: Republican
-    address: 1009 Longworth House Office Building Washington DC 20515-4323
-    office: 1009 Longworth House Office Building
-    phone: 202-225-4511
-    url: https://gonzales.house.gov
-  - type: rep
-    start: '2023-01-03'
-    end: '2025-01-03'
-    state: TX
-    district: 23
-    party: Republican
-    url: https://gonzales.house.gov
-    address: 2244 Rayburn House Office Building Washington DC 20515-4323
-    office: 2244 Rayburn House Office Building
-    phone: 202-225-4511
-  - type: rep
-    start: '2025-01-03'
-    end: '2027-01-03'
-    state: TX
-    district: 23
-    party: Republican
-    url: https://gonzales.house.gov
-    address: 2239 Rayburn House Office Building Washington DC 20515-4323
-    office: 2239 Rayburn House Office Building
-    phone: 202-225-4511
 - id:
     bioguide: V000134
     fec:
@@ -35124,6 +34761,8 @@
     wikipedia: Marilyn Strickland
     google_entity_id: kg:/m/0bhb38l
     pictorial: 13890
+    votesmart: 80596
+    ballotpedia: Marilyn Strickland
   name:
     first: Marilyn
     last: Strickland
@@ -35626,6 +35265,8 @@
     wikidata: Q107863952
     pictorial: 13773
     google_entity_id: kg:/g/11pqpwbhlx
+    votesmart: 161622
+    ballotpedia: Shontel Brown
   name:
     first: Shontel
     middle: M.
@@ -35676,6 +35317,7 @@
     pictorial: 13777
     ballotpedia: Mike Carey (Ohio)
     google_entity_id: kg:/g/11q1q1bh32
+    votesmart: 196349
   name:
     first: Mike
     last: Carey
@@ -35714,54 +35356,6 @@
     address: 1433 Longworth House Office Building Washington DC 20515-3515
     office: 1433 Longworth House Office Building
     phone: 202-225-2015
-- id:
-    bioguide: C001127
-    fec:
-    - H8FL20032
-    govtrack: 456865
-    opensecrets: N00043504
-    wikipedia: Sheila Cherfilus-McCormick
-    wikidata: Q109560948
-    pictorial: 13569
-    google_entity_id: kg:/g/11j8p2mk08
-  name:
-    first: Sheila
-    last: Cherfilus-McCormick
-    official_full: Sheila Cherfilus-McCormick
-  bio:
-    gender: F
-    birthday: '1979-01-25'
-  terms:
-  - type: rep
-    start: '2022-01-18'
-    end: '2023-01-03'
-    state: FL
-    district: 20
-    party: Democrat
-    url: https://cherfilus-mccormick.house.gov
-    address: 2365 Rayburn House Office Building Washington DC 20515-0920
-    office: 2365 Rayburn House Office Building
-    phone: 202-225-1313
-  - type: rep
-    start: '2023-01-03'
-    end: '2025-01-03'
-    state: FL
-    district: 20
-    party: Democrat
-    url: https://cherfilus-mccormick.house.gov
-    address: 242 Cannon House Office Building Washington DC 20515-0920
-    office: 242 Cannon House Office Building
-    phone: 202-225-1313
-  - type: rep
-    start: '2025-01-03'
-    end: '2027-01-03'
-    state: FL
-    district: 20
-    party: Democrat
-    url: https://cherfilus-mccormick.house.gov
-    address: 2442 Rayburn House Office Building Washington DC 20515-0920
-    office: 2442 Rayburn House Office Building
-    phone: 202-225-1313
 - id:
     bioguide: F000474
     fec:
@@ -35973,6 +35567,7 @@
     google_entity_id: kg:/m/0gkz1jg
     votesmart: 104073
     pictorial: 13696
+    ballotpedia: Ryan Zinke
   name:
     first: Ryan
     last: Zinke
@@ -36280,7 +35875,16 @@
     end: '2027-01-03'
     state: CA
     district: 3
-    party: Republican
+    party: Independent
+    caucus: Republican
+    party_affiliations:
+    - start: '2025-01-03'
+      end: '2026-03-08'
+      party: Republican
+    - start: '2026-03-09'
+      end: '2027-01-03'
+      party: Independent
+      caucus: Republican
     url: https://kiley.house.gov
     address: 2445 Rayburn House Office Building Washington DC 20515-0503
     office: 2445 Rayburn House Office Building
@@ -36414,6 +36018,7 @@
     wikipedia: Brittany Pettersen
     votesmart: 138744
     pictorial: 13543
+    ballotpedia: Brittany Pettersen
   name:
     first: Brittany
     middle: Louise
@@ -36494,6 +36099,7 @@
     votesmart: 209085
     pictorial: 13556
     google_entity_id: kg:/g/11lkx217y6
+    ballotpedia: Cory Mills
   name:
     first: Cory
     last: Mills
@@ -36533,6 +36139,7 @@
     google_entity_id: kg:/g/11p01k7h4b
     votesmart: 209096
     pictorial: 13559
+    ballotpedia: Maxwell Alejandro Frost
   name:
     first: Maxwell
     middle: Alejandro
@@ -36614,6 +36221,7 @@
     google_entity_id: kg:/g/11h3cbjvc3
     votesmart: 186114
     pictorial: 13564
+    ballotpedia: Laurel Lee
   name:
     first: Laurel
     middle: Frances
@@ -36653,6 +36261,7 @@
     wikipedia: Jared Moskowitz
     votesmart: 138155
     pictorial: 13572
+    ballotpedia: Jared Moskowitz
   name:
     first: Jared
     middle: Evan
@@ -36693,6 +36302,7 @@
     votesmart: 189765
     pictorial: 13584
     google_entity_id: kg:/g/11h4hhl04s
+    ballotpedia: Rich McCormick
   name:
     first: Rich
     middle: Dean
@@ -36733,6 +36343,7 @@
     wikidata: Q115806750
     pictorial: 13587
     google_entity_id: kg:/g/11nnr438zm
+    ballotpedia: Mike Collins (Georgia)
   name:
     first: Mike
     middle: Allen
@@ -36976,6 +36587,7 @@
     votesmart: 204328
     pictorial: 13613
     google_entity_id: kg:/g/11rxhx_k14
+    ballotpedia: Nikki Budzinski
   name:
     first: Nicole (Nikki)
     middle: Jai
@@ -37016,6 +36628,7 @@
     votesmart: 204339
     pictorial: 13617
     google_entity_id: kg:/g/11pd33ph93
+    ballotpedia: Eric Sorensen
   name:
     first: Eric
     last: Sorensen
@@ -37055,6 +36668,7 @@
     google_entity_id: kg:/g/11b81xpwnd
     votesmart: 149614
     pictorial: 13626
+    ballotpedia: Erin Houchin
   name:
     first: Erin
     middle: Suzanne
@@ -37094,6 +36708,7 @@
     wikipedia: Morgan McGarvey
     votesmart: 139826
     pictorial: 13633
+    ballotpedia: Morgan McGarvey
   name:
     first: Morgan
     last: McGarvey
@@ -37133,6 +36748,7 @@
     google_entity_id: kg:/g/11bxfgrf12
     votesmart: 166279
     pictorial: 13655
+    ballotpedia: Glenn Ivey
   name:
     first: Glenn
     middle: Frederick
@@ -37173,6 +36789,7 @@
     votesmart: 191584
     pictorial: 13664
     google_entity_id: kg:/g/11j2tyrlxq
+    ballotpedia: Hillary Scholten
   name:
     first: Hillary
     middle: Jeanne
@@ -37289,9 +36906,10 @@
     govtrack: 456909
     opensecrets: N00049617
     wikidata: Q115137637
-    wikipedia: Mark Alford (politician)
+    wikipedia: Mark Alford
     votesmart: 205858
     pictorial: 13686
+    ballotpedia: Mark Alford
   name:
     first: Mark
     middle: Allen
@@ -37372,6 +36990,7 @@
     votesmart: 202526
     pictorial: 13695
     google_entity_id: kg:/g/11nfmh8y4w
+    ballotpedia: Mike Ezell
   name:
     first: Mike
     last: Ezell
@@ -37450,6 +37069,7 @@
     wikipedia: Valerie Foushee
     votesmart: 93091
     pictorial: 13701
+    ballotpedia: Valerie Foushee
   name:
     first: Valerie
     middle: Jean
@@ -37490,6 +37110,7 @@
     google_entity_id: kg:/g/11ghxw1t29
     votesmart: 166600
     pictorial: 13708
+    ballotpedia: Chuck Edwards
   name:
     first: Charles (Chuck)
     middle: Marion
@@ -37652,6 +37273,7 @@
     wikipedia: Nick LaLota
     votesmart: 191957
     pictorial: 13737
+    ballotpedia: Nicholas J. LaLota
   name:
     first: Nicolas
     middle: Joseph
@@ -37730,9 +37352,10 @@
     opensecrets: N00051208
     wikidata: Q105179052
     wikipedia: Mike Lawler
-    google_entity_id: kg:/g/11qwsdzzd6
+    google_entity_id: kg:/g/11jfwsx5qv
     votesmart: 192271
     pictorial: 13753
+    ballotpedia: Michael Lawler (New York)
   name:
     first: Michael
     middle: Vincent
@@ -37773,6 +37396,7 @@
     google_entity_id: kg:/g/11g119yyj8
     votesmart: 208663
     pictorial: 13759
+    ballotpedia: Nick Langworthy
   name:
     first: Nicholas
     middle: A.
@@ -37813,6 +37437,7 @@
     votesmart: 186237
     google_entity_id: kg:/g/11rn585y5q
     pictorial: 13763
+    ballotpedia: Greg Landsman
   name:
     first: Greg
     middle: John
@@ -37853,6 +37478,7 @@
     votesmart: 206947
     pictorial: 13769
     google_entity_id: kg:/g/11gtz3n8gr
+    ballotpedia: Max Miller
   name:
     first: Max
     middle: Leonard
@@ -37892,6 +37518,7 @@
     wikipedia: Emilia Sykes
     votesmart: 152164
     pictorial: 13775
+    ballotpedia: Emilia Sykes
   name:
     first: Emilia
     middle: Strong
@@ -38095,6 +37722,7 @@
     votesmart: 202954
     pictorial: 13805
     google_entity_id: kg:/g/11qgyjrb66
+    ballotpedia: Chris Deluzio
   name:
     first: Chris
     middle: Raphael
@@ -38171,7 +37799,7 @@
     govtrack: 456938
     opensecrets: N00049165
     wikidata: Q96015883
-    wikipedia: Russell Fry (politician)
+    wikipedia: Russell Fry
     google_entity_id: kg:/g/11f0r9q6_r
     votesmart: 157265
     pictorial: 13815
@@ -38418,6 +38046,7 @@
     google_entity_id: kg:/g/11j90m9942
     votesmart: 188486
     pictorial: 13855
+    ballotpedia: Jasmine Crockett
   name:
     first: Jasmine
     middle: Felicia
@@ -38539,6 +38168,7 @@
     google_entity_id: kg:/g/11gbjlv65q
     votesmart: 186387
     pictorial: 13869
+    ballotpedia: Jennifer Kiggans
   name:
     first: Jennifer
     middle: Ann
@@ -38657,7 +38287,7 @@
     opensecrets: N00046843
     wikidata: Q115155627
     wikipedia: Derrick Van Orden
-    google_entity_id: kg:/g/11j5bmd2d3
+    google_entity_id: kg:/g/11c0xnmrvx
     ballotpedia: Derrick Van Orden
     votesmart: 192343
     pictorial: 13893
@@ -38828,6 +38458,8 @@
     wikidata: Q118901875
     ballotpedia: Gabe Amo
     pictorial: 13807
+    google_entity_id: kg:/g/11gbhzs7wg
+    votesmart: 212295
   name:
     first: Gabe
     last: Amo
@@ -39186,6 +38818,8 @@
     wikidata: Q1100451
     google_entity_id: kg:/m/09930w
     pictorial: 13642
+    ballotpedia: Cleo Fields
+    votesmart: 26878
   name:
     first: Cleo
     last: Fields
@@ -39350,6 +38984,9 @@
     opensecrets: N00053033
     wikipedia: Angela Alsobrooks
     wikidata: Q58755148
+    votesmart: 212637
+    ballotpedia: Angela Alsobrooks
+    google_entity_id: kg:/g/11fhksj8jt
   name:
     first: Angela
     middle: Deneece
@@ -39378,9 +39015,12 @@
     - S4MT00183
     govtrack: 456966
     opensecrets: N00053174
-    wikipedia: Tim Sheehy (American politician)
+    wikipedia: Tim Sheehy
     wikidata: Q124433916
     pictorial: 14024
+    votesmart: 215303
+    ballotpedia: Tim Sheehy
+    google_entity_id: kg:/g/11f_jbs1jf
   name:
     first: Tim
     middle: Patrick
@@ -39411,6 +39051,9 @@
     wikipedia: Bernie Moreno
     wikidata: Q124858476
     pictorial: 14026
+    votesmart: 201791
+    ballotpedia: Bernie Moreno
+    google_entity_id: kg:/g/11r97h3rzn
   name:
     first: Bernie
     last: Moreno
@@ -39440,6 +39083,7 @@
     wikipedia: Dave McCormick
     wikidata: Q5234544
     pictorial: 13969
+    ballotpedia: David McCormick (Pennsylvania)
   name:
     first: Dave
     middle: Harold
@@ -39470,6 +39114,9 @@
     wikipedia: Nick Begich III
     wikidata: Q113676482
     pictorial: 13463
+    google_entity_id: kg:/g/11tc3qp2lx
+    votesmart: 207684
+    ballotpedia: Nicholas Begich
   name:
     first: Nicholas
     middle: Joseph
@@ -39499,6 +39146,8 @@
     wikipedia: Shomari Figures
     wikidata: Q129431158
     pictorial: 13465
+    votesmart: 212889
+    ballotpedia: Shomari Figures
   name:
     first: Shomari
     middle: Coleman
@@ -39527,6 +39176,9 @@
     wikipedia: Yassamin Ansari
     wikidata: Q122226202
     pictorial: 13478
+    votesmart: 201437
+    ballotpedia: Yassamin Ansari
+    google_entity_id: kg:/g/11l246bt1h
   name:
     first: Yassamin
     last: Ansari
@@ -39554,6 +39206,9 @@
     wikipedia: Abraham Hamadeh
     wikidata: Q124307977
     pictorial: 13483
+    votesmart: 205532
+    ballotpedia: Abraham Hamadeh
+    google_entity_id: kg:/g/11rj4xtrgt
   name:
     first: Abraham
     middle: Jamal
@@ -39582,6 +39237,8 @@
     wikipedia: Lateefah Simon
     wikidata: Q6495426
     pictorial: 13496
+    votesmart: 213551
+    ballotpedia: Lateefah Simon
   name:
     first: Lateefah
     middle: Aaliyah
@@ -39610,6 +39267,8 @@
     wikipedia: Adam Gray
     wikidata: Q3000097
     pictorial: 13497
+    votesmart: 138552
+    ballotpedia: Adam Gray
   name:
     first: Adam
     middle: Channing
@@ -39638,6 +39297,8 @@
     wikipedia: Sam Liccardo
     wikidata: Q16731481
     pictorial: 13500
+    votesmart: 70450
+    ballotpedia: Sam Liccardo
   name:
     first: Sam
     middle: Theodore
@@ -39666,6 +39327,8 @@
     wikipedia: George T. Whitesides
     wikidata: Q3511804
     pictorial: 13511
+    votesmart: 213585
+    ballotpedia: George Whitesides
   name:
     first: George
     middle: Thomas
@@ -39694,6 +39357,9 @@
     wikipedia: Luz Rivas
     wikidata: Q54861699
     pictorial: 13513
+    votesmart: 178070
+    ballotpedia: Luz Maria Rivas
+    google_entity_id: kg:/g/11f66696qy
   name:
     first: Luz
     middle: Maria
@@ -39722,6 +39388,8 @@
     wikipedia: Laura Friedman
     wikidata: Q6498920
     pictorial: 13514
+    votesmart: 111792
+    ballotpedia: Laura Friedman
   name:
     first: Laura
     middle: Syril
@@ -39750,6 +39418,9 @@
     wikipedia: Derek Tran
     wikidata: Q131339671
     pictorial: 13529
+    google_entity_id: kg:/g/11vbwrj3mq
+    votesmart: 213645
+    ballotpedia: Derek Tran
   name:
     first: Derek
     middle: Truyen
@@ -39778,6 +39449,9 @@
     wikipedia: Dave Min
     wikidata: Q31213321
     pictorial: 13531
+    votesmart: 179392
+    ballotpedia: Dave Min
+    google_entity_id: kg:/g/11fx8l8rg9
   name:
     first: Dave
     middle: Kunnghee
@@ -39803,9 +39477,11 @@
     - H4CO03357
     govtrack: 456982
     opensecrets: N00053367
-    wikipedia: Jeff Hurd (politician)
+    wikipedia: Jeff Hurd
     wikidata: Q131101500
     pictorial: 13539
+    votesmart: 217034
+    ballotpedia: Jeff Hurd
   name:
     first: Jeff
     middle: Stephen
@@ -39834,6 +39510,9 @@
     wikipedia: Jeff Crank
     wikidata: Q27663361
     pictorial: 13541
+    google_entity_id: kg:/g/11c5b6072s
+    votesmart: 66946
+    ballotpedia: Jeff Crank
   name:
     first: Jeff
     middle: George
@@ -39862,6 +39541,9 @@
     wikipedia: Gabe Evans
     wikidata: Q115458993
     pictorial: 13544
+    google_entity_id: kg:/g/11rzqxsg01
+    votesmart: 206217
+    ballotpedia: Gabe Evans
   name:
     first: Gabe
     last: Evans
@@ -39889,6 +39571,8 @@
     wikipedia: Sarah McBride
     wikidata: Q17011236
     pictorial: 13551
+    votesmart: 195142
+    ballotpedia: Sarah McBride
   name:
     first: Sarah
     middle: Elizabeth
@@ -39917,6 +39601,8 @@
     wikipedia: Mike Haridopolos
     wikidata: Q6847137
     pictorial: 13557
+    votesmart: 53952
+    ballotpedia: Mike Haridopolos
   name:
     first: Mike
     middle: John
@@ -39945,6 +39631,9 @@
     wikipedia: Brian Jack
     wikidata: Q86493775
     pictorial: 13580
+    votesmart: 215141
+    ballotpedia: Brian Jack
+    google_entity_id: kg:/g/11f4kg7dlk
   name:
     first: Brian
     middle: Timothy
@@ -39973,6 +39662,8 @@
     wikipedia: Jefferson Shreve
     wikidata: Q130979817
     pictorial: 13623
+    votesmart: 148154
+    ballotpedia: Jefferson Shreve
   name:
     first: Jefferson
     middle: Scott
@@ -40001,6 +39692,8 @@
     wikipedia: Mark Messmer
     wikidata: Q6768869
     pictorial: 13625
+    ballotpedia: Mark Messmer
+    votesmart: 102958
   name:
     first: Mark
     last: Messmer
@@ -40028,6 +39721,8 @@
     wikipedia: Derek Schmidt
     wikidata: Q5262335
     pictorial: 13628
+    votesmart: 34451
+    ballotpedia: Derek Schmidt
   name:
     first: Derek
     middle: Larkin
@@ -40056,6 +39751,8 @@
     wikipedia: Johnny Olszewski
     wikidata: Q6217866
     pictorial: 13653
+    votesmart: 67095
+    ballotpedia: John Olszewski Jr.
   name:
     first: Johnny
     middle: Anthony
@@ -40085,6 +39782,9 @@
     wikipedia: Sarah Elfreth
     wikidata: Q61970401
     pictorial: 13654
+    votesmart: 178463
+    ballotpedia: Sarah Elfreth
+    google_entity_id: kg:/g/11h5snsfyt
   name:
     first: Sarah
     middle: Kelly
@@ -40110,9 +39810,12 @@
     - H4MD06340
     govtrack: 456993
     opensecrets: N00053899
-    wikipedia: April McClain-Delaney
+    wikipedia: April McClain Delaney
     wikidata: Q125935301
     pictorial: 13657
+    google_entity_id: kg:/g/11fym2333d
+    votesmart: 214608
+    ballotpedia: April McClain-Delaney
   name:
     first: April
     middle: Lynn
@@ -40141,6 +39844,8 @@
     wikipedia: Tom Barrett (Michigan politician)
     wikidata: Q18684588
     pictorial: 13668
+    votesmart: 153540
+    ballotpedia: Tom Barrett (Michigan)
   name:
     first: Tom
     middle: More
@@ -40169,6 +39874,9 @@
     wikipedia: Kristen McDonald Rivet
     wikidata: Q115227000
     pictorial: 13669
+    google_entity_id: kg:/g/11swd0vjj8
+    votesmart: 199213
+    ballotpedia: Kristen McDonald Rivet
   name:
     first: Kristen
     middle: Lee
@@ -40197,6 +39905,9 @@
     wikipedia: Kelly Morrison
     wikidata: Q58416636
     pictorial: 13677
+    votesmart: 183781
+    ballotpedia: Kelly Morrison
+    google_entity_id: kg:/g/11gzs6zmll
   name:
     first: Kelly
     middle: Louise
@@ -40225,6 +39936,9 @@
     wikipedia: Wesley Bell
     wikidata: Q23806350
     pictorial: 13683
+    google_entity_id: kg:/g/11g234cdqy
+    votesmart: 217416
+    ballotpedia: Wesley Bell
   name:
     first: Wesley
     middle: Jonell-Cleavon
@@ -40254,6 +39968,9 @@
     wikipedia: Bob Onder
     wikidata: Q27064117
     pictorial: 13685
+    google_entity_id: kg:/g/11c1tl91ch
+    votesmart: 66719
+    ballotpedia: Bob Onder
   name:
     first: Robert
     middle: F.
@@ -40282,6 +39999,7 @@
     wikipedia: Kimberlyn King-Hinds
     wikidata: Q130942218
     pictorial: 13691
+    google_entity_id: kg:/g/11ldv50j57
   name:
     first: Kimberlyn
     middle: Kay
@@ -40310,6 +40028,9 @@
     wikipedia: Troy Downing
     wikidata: Q103158011
     pictorial: 13697
+    google_entity_id: kg:/g/11m_kv__8j
+    votesmart: 178611
+    ballotpedia: Troy Downing
   name:
     first: Troy
     middle: Bryan
@@ -40338,6 +40059,8 @@
     wikipedia: Addison McDowell
     wikidata: Q130979819
     pictorial: 13703
+    votesmart: 213685
+    ballotpedia: Addison McDowell
   name:
     first: Addison
     middle: Parker
@@ -40367,6 +40090,9 @@
     wikipedia: Mark Harris (North Carolina politician)
     wikidata: Q55622212
     pictorial: 13705
+    votesmart: 146230
+    ballotpedia: Mark Harris (North Carolina)
+    google_entity_id: kg:/g/11f6156x_t
   name:
     first: Mark
     middle: Everette
@@ -40395,6 +40121,8 @@
     wikipedia: Pat Harrigan
     wikidata: Q131179069
     pictorial: 13707
+    votesmart: 202557
+    ballotpedia: Pat Harrigan
   name:
     first: Pat
     last: Harrigan
@@ -40422,6 +40150,8 @@
     wikipedia: Brad Knott
     wikidata: Q130979816
     pictorial: 13710
+    votesmart: 213703
+    ballotpedia: Brad Knott
   name:
     first: Brad
     last: Knott
@@ -40449,6 +40179,8 @@
     wikipedia: Tim Moore (North Carolina politician)
     wikidata: Q7804002
     pictorial: 13711
+    votesmart: 41316
+    ballotpedia: Timothy K. Moore
   name:
     first: Tim
     middle: Keith
@@ -40477,6 +40209,9 @@
     wikipedia: Julie Fedorchak
     wikidata: Q37824664
     pictorial: 13712
+    votesmart: 144276
+    ballotpedia: Julie Fedorchak
+    google_entity_id: kg:/g/11f06k2mb2
   name:
     first: Julie
     middle: Ann
@@ -40505,6 +40240,9 @@
     wikipedia: Maggie Goodlander
     wikidata: Q126718734
     pictorial: 13717
+    google_entity_id: kg:/g/11c31t9glt
+    votesmart: 218522
+    ballotpedia: Maggie Goodlander
   name:
     first: Maggie
     middle: Vivian
@@ -40533,6 +40271,8 @@
     wikipedia: Herb Conaway
     wikidata: Q14596151
     pictorial: 13720
+    votesmart: 24716
+    ballotpedia: Herbert Conaway Jr.
   name:
     first: Herbert
     middle: Clark Hoover
@@ -40562,6 +40302,8 @@
     wikipedia: Nellie Pou
     wikidata: Q6990132
     pictorial: 13726
+    votesmart: 15181
+    ballotpedia: Nellie Pou
   name:
     first: Nellie
     middle: Avila
@@ -40590,6 +40332,9 @@
     wikipedia: Laura Gillen
     wikidata: Q131105202
     pictorial: 13740
+    google_entity_id: kg:/g/11sqq7tb5k
+    votesmart: 208621
+    ballotpedia: Laura Gillen
   name:
     first: Laura
     middle: Anne
@@ -40618,6 +40363,8 @@
     wikipedia: George Latimer (New York politician)
     wikidata: Q5544169
     pictorial: 13752
+    votesmart: 44173
+    ballotpedia: George Latimer (New York)
   name:
     first: George
     middle: Stephen
@@ -40646,6 +40393,8 @@
     wikipedia: Josh Riley
     wikidata: Q113988129
     pictorial: 13755
+    votesmart: 205997
+    ballotpedia: Josh Riley
   name:
     first: Josh
     middle: Paul
@@ -40674,6 +40423,9 @@
     wikipedia: John Mannion (American politician)
     wikidata: Q106089566
     pictorial: 13758
+    google_entity_id: kg:/g/11j384z6dz
+    votesmart: 185053
+    ballotpedia: John Mannion
   name:
     first: John
     middle: W.
@@ -40702,6 +40454,8 @@
     wikipedia: David Taylor (Ohio politician)
     wikidata: Q131123679
     pictorial: 13764
+    votesmart: 213920
+    ballotpedia: David Taylor (Ohio)
   name:
     first: David
     middle: J.
@@ -40730,6 +40484,9 @@
     wikipedia: Maxine Dexter
     wikidata: Q96777172
     pictorial: 13785
+    votesmart: 190844
+    ballotpedia: Maxine Dexter
+    google_entity_id: kg:/g/11f0x2q9dn
   name:
     first: Maxine
     middle: Elizabeth
@@ -40758,6 +40515,9 @@
     wikipedia: Janelle Bynum
     wikidata: Q28507879
     pictorial: 13787
+    votesmart: 168102
+    ballotpedia: Janelle Bynum
+    google_entity_id: kg:/g/11c311drkv
   name:
     first: Janelle
     middle: S.
@@ -40786,6 +40546,8 @@
     wikipedia: Ryan Mackenzie
     wikidata: Q7384273
     pictorial: 13795
+    votesmart: 136465
+    ballotpedia: Ryan Mackenzie
   name:
     first: Ryan
     middle: Edward
@@ -40814,6 +40576,9 @@
     wikipedia: Rob Bresnahan
     wikidata: Q130963821
     pictorial: 13796
+    google_entity_id: kg:/g/11l388y1tr
+    votesmart: 214735
+    ballotpedia: Rob Bresnahan Jr.
   name:
     first: Robert
     middle: P.
@@ -40842,6 +40607,8 @@
     opensecrets: N00052286
     wikipedia: Pablo Hernández Rivera
     wikidata: Q130997176
+    google_entity_id: kg:/g/11k9b2cmvf
+    ballotpedia: Pablo Jose Hernandez Rivera
   name:
     first: Pablo José
     last: Hernández Rivera
@@ -40869,6 +40636,8 @@
     wikipedia: Sheri Biggs
     wikidata: Q130979821
     pictorial: 13811
+    votesmart: 216183
+    ballotpedia: Sheri Biggs
   name:
     first: Sheri
     middle: Lynn
@@ -40925,6 +40694,8 @@
     wikipedia: Brandon Gill
     wikidata: Q124753679
     pictorial: 13851
+    ballotpedia: Brandon Gill
+    google_entity_id: kg:/g/11l7366d8s
   name:
     first: Brandon
     middle: Gene
@@ -40953,6 +40724,9 @@
     wikipedia: Julie Johnson (politician)
     wikidata: Q64753063
     pictorial: 13857
+    votesmart: 177532
+    ballotpedia: Julie Johnson
+    google_entity_id: kg:/g/11h3qrpcmw
   name:
     first: Julie
     middle: Elizabeth
@@ -40978,9 +40752,10 @@
     - H4UT03260
     govtrack: 457025
     opensecrets: N00043086
-    wikipedia: Mike Kennedy (politician)
+    wikipedia: Mike Kennedy
     wikidata: Q16730723
     pictorial: 13866
+    votesmart: 137469
   name:
     first: Mike
     middle: Steven
@@ -41010,6 +40785,9 @@
     wikipedia: John McGuire (Virginia politician)
     wikidata: Q47545631
     pictorial: 13872
+    votesmart: 176388
+    ballotpedia: John McGuire
+    google_entity_id: kg:/g/11f3w6hjlp
   name:
     first: John
     middle: J.
@@ -41039,6 +40817,9 @@
     wikipedia: Eugene Vindman
     wikidata: Q112610369
     pictorial: 13874
+    google_entity_id: kg:/g/11s1y2g_4c
+    votesmart: 216844
+    ballotpedia: Eugene Vindman
   name:
     first: Eugene
     middle: Simon
@@ -41067,6 +40848,9 @@
     wikipedia: Suhas Subramanyam
     wikidata: Q83250082
     pictorial: 13877
+    votesmart: 186400
+    ballotpedia: Suhas Subramanyam
+    google_entity_id: kg:/g/11dxq46slq
   name:
     first: Suhas
     last: Subramanyam
@@ -41094,6 +40878,7 @@
     wikipedia: Michael Baumgartner
     wikidata: Q6828508
     pictorial: 13885
+    votesmart: 126301
   name:
     first: Michael
     middle: James
@@ -41122,6 +40907,9 @@
     wikipedia: Emily Randall
     wikidata: Q60473885
     pictorial: 13886
+    votesmart: 183038
+    ballotpedia: Emily Randall
+    google_entity_id: kg:/g/11gyb032d1
   name:
     first: Emily
     middle: Elissa
@@ -41150,6 +40938,7 @@
     wikipedia: Riley Moore
     wikidata: Q93769958
     pictorial: 13900
+    google_entity_id: kg:/g/11c506zp3v
   name:
     first: Riley
     middle: M.
@@ -41209,6 +40998,8 @@
     wikipedia: Jon Husted
     wikidata: Q6270269
     pictorial: 14025
+    votesmart: 45796
+    ballotpedia: Jon Husted
   name:
     first: Jon
     middle: Allen
@@ -41240,6 +41031,9 @@
     wikipedia: Ashley Moody
     wikidata: Q58333626
     pictorial: 13948
+    votesmart: 183198
+    ballotpedia: Ashley B. Moody
+    google_entity_id: kg:/g/11gzrp7jtr
   name:
     first: Ashley
     middle: Brooke
@@ -41337,6 +41131,7 @@
     wikipedia: James Walkinshaw
     wikidata: Q135132001
     ballotpedia: James Walkinshaw
+    votesmart: 196546
   name:
     first: James
     middle: R.
@@ -41352,6 +41147,7 @@
     state: VA
     district: 11
     party: Democrat
+    url: https://walkinshaw.house.gov
     address: 2265 Rayburn House Office Building Washington DC 20515-4611
     office: 2265 Rayburn House Office Building
     phone: 202-225-1492
@@ -41364,6 +41160,7 @@
     wikidata: Q134612342
     ballotpedia: Adelita Grijalva
     house_history: 36507227802
+    votesmart: 196554
   name:
     first: Adelita
     middle: S.
@@ -41379,7 +41176,7 @@
     state: AZ
     district: 7
     party: Democrat
-    url: https://grijalva.house.gov/
+    url: https://grijalva.house.gov
     address: 1203 Longworth House Office Building Washington DC 20515-0307
     office: 1203 Longworth House Office Building
     phone: 202-225-2435
@@ -41392,6 +41189,7 @@
     wikidata: Q136749822
     ballotpedia: Matt Van Epps
     house_history: 36507227933
+    google_entity_id: kg:/g/11yfbrb4jl
   name:
     first: Matt
     last: Van Epps
@@ -41406,7 +41204,7 @@
     state: TN
     district: 7
     party: Republican
-    url: https://vanepps.house.gov/
+    url: https://vanepps.house.gov
     address: 2446 Rayburn House Office Building Washington DC 20515-4207
     office: 2446 Rayburn House Office Building
     phone: 202-225-2811
@@ -41419,10 +41217,12 @@
     wikidata: Q114397549
     ballotpedia: Christian Menefee
     house_history: 36507228199
+    google_entity_id: kg:/g/11tf71x7c1
   name:
     first: Christian
     middle: Dashaun
     last: Menefee
+    official_full: Christian D. Menefee
   bio:
     gender: M
     birthday: '1988-04-18'
@@ -41433,7 +41233,107 @@
     state: TX
     district: 18
     party: Democrat
-    url: https://menefee.house.gov/
+    url: https://menefee.house.gov
     address: 1318 Longworth House Office Building Washington DC 20515-4318
     office: 1318 Longworth House Office Building
     phone: 202-225-3816
+- id:
+    bioguide: A000383
+    lis: S440
+    govtrack: 457040
+    wikipedia: Alan S. Armstrong
+    wikidata: Q138781196
+    ballotpedia: Alan Armstrong
+    votesmart: 237497
+  name:
+    first: Alan
+    last: Armstrong
+    official_full: Alan Armstrong
+  bio:
+    gender: M
+    birthday: '1962-07-11'
+  terms:
+  - type: sen
+    start: '2026-03-24'
+    end: '2027-01-03'
+    how: appointment
+    state: OK
+    class: 2
+    party: Republican
+    state_rank: junior
+    url: https://www.armstrong.senate.gov
+    address: G12 Dirksen Senate Office Building Washington DC 20510
+    office: G12 Dirksen Senate Office Building
+    phone: 202-224-4721
+    fax: 202-228-0380
+- id:
+    bioguide: F000485
+    fec:
+    - H0GA14030
+    govtrack: 457041
+    wikipedia: Clay Fuller
+    wikidata: Q138355765
+    votesmart: 189784
+    ballotpedia: Clayton Fuller
+  name:
+    first: Clay
+    last: Fuller
+    official_full: Clay Fuller
+  bio:
+    gender: M
+    birthday: '1981-04-09'
+  terms:
+  - type: rep
+    start: '2026-04-14'
+    end: '2027-01-03'
+    state: GA
+    district: 14
+    party: Republican
+    address: 2201 Rayburn House Office Building Washington DC 20515-1014
+    office: 2201 Rayburn House Office Building
+    phone: 202-225-5211
+    url: https://fuller.house.gov
+- id:
+    bioguide: M001246
+    fec:
+    - H6NJ11286
+    govtrack: 457042
+    wikipedia: Analilia Mejia
+    wikidata: Q138142530
+    ballotpedia: Analilia Mejia
+  name:
+    first: Analilia
+    last: Mejia
+  bio:
+    gender: F
+    birthday: '1977-08-19'
+  terms:
+  - type: rep
+    start: '2026-04-20'
+    end: '2027-01-03'
+    state: NJ
+    district: 11
+    party: Democrat
+    address: 1427 Longworth House Office Building Washington DC 20515-3011
+    office: 1427 Longworth House Office Building
+    phone: 202-225-5034
+    fax: 202-225-3186
+    url: https://mejia.house.gov
+- id:
+    bioguide: G000607
+    fec:
+    - H6CA01285
+    govtrack: 457043
+  name:
+    first: James
+    last: Gallagher
+  bio:
+    gender: M
+    birthday: '1981-03-07'
+  terms:
+  - type: rep
+    start: '2026-06-10'
+    end: '2027-01-03'
+    state: CA
+    district: 1
+    party: Republican
