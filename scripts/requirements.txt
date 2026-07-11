@@ -1,4 +1,5 @@
 pyyaml
+requests
 rtyaml
 scrapelib==0.10.1
 ipython

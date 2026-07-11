@@ -54,7 +54,9 @@ def run():
 					page_titles.add(pgname)
 
 				# get the next eicontinue value and loop
-				eicontinue = dom.xpath("string(query-continue/embeddedin/@eicontinue)")
+				# (the API moved this from <query-continue> to <continue>)
+				eicontinue = dom.xpath("string(continue/@eicontinue)") \
+					or dom.xpath("string(query-continue/embeddedin/@eicontinue)")
 				if not eicontinue: break
 
 		return page_titles

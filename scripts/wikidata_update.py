@@ -13,7 +13,8 @@ def get_wikidata_ids(legislators):
         if not p["id"].get("wikidata") and p["id"].get("wikipedia"):
             w = quote(p["id"]["wikipedia"].replace(" ", "_"))
             query_url = f"https://en.wikipedia.org/w/api.php?action=query&prop=pageprops&titles={w}&format=json"
-            response = json.load(urllib.request.urlopen(query_url))
+            req = urllib.request.Request(query_url, headers={'User-Agent': 'congress-legislators/1.0 (https://github.com/unitedstates/congress-legislators)'})
+            response = json.load(urllib.request.urlopen(req))
             wikidata_id = list(response["query"]["pages"].values())[0]["pageprops"]["wikibase_item"]
             p["id"]["wikidata"] = wikidata_id
 
@@ -100,7 +101,9 @@ def get_ids_from_wikidata_without_bioguide(legislators):
 
 def run_query(query):
     sparql_endpoint = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql'
-    s = SPARQLWrapper(sparql_endpoint)
+    # Wikimedia rate-limits/blocks default library user agents; a descriptive
+    # agent is required per https://meta.wikimedia.org/wiki/User-Agent_policy
+    s = SPARQLWrapper(sparql_endpoint, agent='congress-legislators/1.0 (https://github.com/unitedstates/congress-legislators)')
 
     # run the query
     s.setQuery(query)

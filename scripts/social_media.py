@@ -40,7 +40,7 @@ import time
 def main():
   regexes = {
     "youtube": [
-      "(?:https?:)?//(?:www\\.)?youtube.com/embed/?\?(list=[^\\s\"/\\?#&']+)",
+      "(?:https?:)?//(?:www\\.)?youtube.com/embed/?\\?(list=[^\\s\"/\\?#&']+)",
       "(?:https?:)?//(?:www\\.)?youtube.com/channel/([^\\s\"/\\?#']+)",
       "(?:https?:)?//(?:www\\.)?youtube.com/(?:subscribe_widget\\?p=)?(?:subscription_center\\?add_user=)?(?:user/)?([^\\s\"/\\?#']+)"
     ],
@@ -50,11 +50,11 @@ def main():
       "(?:https?:)?//(?:www\\.)?facebook.com/(?:profile.php\\?id=)?(?:home\\.php)?(?:#!)?/?(?:people)?/?([^/\\s\"#\\?&']+)"
     ],
     "twitter": [
-      "(?:https?:)?//(?:www\\.)?twitter.com/(?:intent/user\?screen_name=)?(?:#!/)?(?:#%21/)?@?([^\\s\"'/?]+)",
+      "(?:https?:)?//(?:www\\.)?twitter.com/(?:intent/user\\?screen_name=)?(?:#!/)?(?:#%21/)?@?([^\\s\"'/?]+)",
       "\\.render\\(\\)\\.setUser\\('@?(.*?)'\\)\\.start\\(\\)"
     ],
     "instagram": [
-      "instagram.com/(\w{3,})"
+      r"instagram.com/(\w{3,})"
     ]
   }
 
@@ -151,7 +151,7 @@ def main():
             # If the account name isn't valid, it's probably a redirect.
             try:
               # Try to scrape the real YouTube username
-              print("\Scraping YouTube username")
+              print("\tScraping YouTube username")
               search_url = ("https://www.youtube.com/%s" % social['youtube'])
               csearch = requests.get(search_url).text.encode('ascii','ignore')
 

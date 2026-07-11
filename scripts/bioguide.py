@@ -55,14 +55,14 @@ def run():
     if not match or not match.group(1):
       # specifically detect cases that we can't handle to avoid unnecessary warnings
       if re.search("birth dates? unknown|date of birth is unknown", string, re.I): return "UNKNOWN"
-      if re.search("born [^;]*?(?:in|about|before )?(?:(?:January|February|March|April|May|June|July|August|September|October|November|December) )?\d{4}", string, re.I): return "UNKNOWN"
+      if re.search(r"born [^;]*?(?:in|about|before )?(?:(?:January|February|March|April|May|June|July|August|September|October|November|December) )?\d{4}", string, re.I): return "UNKNOWN"
       return None
     return match.group(1).strip()
 
   def relationships_of(string):
     # relationship data is stored in a parenthetical immediately after the end of the </font> tag in the bio
     # e.g. "(son of Joseph Patrick Kennedy, II, and great-nephew of Edward Moore Kennedy and John Fitzgerald Kennedy)"
-    pattern = "^\((.*?)\)"
+    pattern = r"^\((.*?)\)"
     match = re.search(pattern, string, re.I)
 
     relationships = []
@@ -157,7 +157,7 @@ def run():
 
     name = name.text_content().strip()
     main = main.text_content().strip().replace("\n", " ").replace("\r", " ")
-    main = re.sub("\s+", " ", main)
+    main = re.sub(r"\s+", " ", main)
 
     # Extract the member's birthday.
 

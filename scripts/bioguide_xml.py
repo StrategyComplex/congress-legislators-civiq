@@ -38,7 +38,7 @@ def run():
         if not match or not match.group(1):
           # specifically detect cases that we can't handle to avoid unnecessary warnings
           if re.search("birth dates? unknown|date of birth is unknown", text, re.I): return None, None
-          if re.search("born [^;]*?(?:in|about|before )?(?:(?:January|February|March|April|May|June|July|August|September|October|November|December) )?\d{4}", text, re.I): return None, None
+          if re.search(r"born [^;]*?(?:in|about|before )?(?:(?:January|February|March|April|May|June|July|August|September|October|November|December) )?\d{4}", text, re.I): return None, None
           return None, None
         original_text = match.group(1).strip()
 

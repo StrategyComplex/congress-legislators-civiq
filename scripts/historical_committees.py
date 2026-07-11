@@ -24,7 +24,7 @@ def run():
     scraper.cache_storage = FileCache('cache')
     scraper.cache_write_only = False
   else:
-    raise
+    raise Exception("the --cache flag is required (downloads large govinfo bulk data; cached to disk)")
 
   # map thomas_id's to their dicts
   committees_historical_ref = { }
@@ -59,7 +59,8 @@ def run():
           if name.startswith('BILLSTATUS'):
             with z.open(name) as xml_file:
               bill_status = lxml.etree.parse(xml_file)
-              committees =  bill_status.xpath('//billCommittees/item')
+              # govinfo renamed <billCommittees> to <committees> in the BILLSTATUS schema
+              committees =  bill_status.xpath('//bill/committees/item')
               for committee in committees:
                 code = str(committee.xpath('./systemCode/text()')[0])
                 name = str(committee.xpath('./name/text()')[0])

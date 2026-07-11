@@ -8,7 +8,7 @@
 #  --congress: do *only* updates for legislators serving in specific congress
 
 import utils
-from utils import load_data, save_data, parse_date
+from utils import load_data, mkdir_p, save_data, parse_date
 import csv
 from io import StringIO
 
@@ -53,6 +53,7 @@ def run():
     house_destination = "icpsr/source/house_rollcall%s.txt" % congress
     house_data = utils.download(url_house, house_destination, force)
 
+    mkdir_p("cache/errors/mismatch")
     error_log = csv.writer(open("cache/errors/mismatch/mismatch_%s.csv" % congress, "w"))
     error_log.writerow(["error_type","matches","icpsr_name","icpsr_state","is_territory","old_id","new_id"])
 

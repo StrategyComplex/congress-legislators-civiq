@@ -1905,6 +1905,7 @@
     address: 272 Cannon House Office Building Washington DC 20515-0104
     office: 272 Cannon House Office Building
     phone: 202-225-4876
+    contact_form: https://aderholt.house.gov/contact-robert
 - id:
     bioguide: B001230
     thomas: '01558'
@@ -41304,6 +41305,7 @@
   name:
     first: Analilia
     last: Mejia
+    official_full: Analilia Mejia
   bio:
     gender: F
     birthday: '1977-08-19'
@@ -41327,6 +41329,7 @@
   name:
     first: James
     last: Gallagher
+    official_full: James Gallagher
   bio:
     gender: M
     birthday: '1981-03-07'
@@ -41337,3 +41340,6 @@
     state: CA
     district: 1
     party: Republican
+    address: 408 Cannon House Office Building Washington DC 20515-0501
+    office: 408 Cannon House Office Building
+    phone: 202-225-3076

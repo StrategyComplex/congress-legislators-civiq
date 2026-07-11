@@ -48,6 +48,8 @@ def run():
 
     pictorial_destination = f"pictorial/source/GetMembers/{congress}.json"
     pictorial_data = json.loads(utils.download(url, pictorial_destination, force))
+    # The API wraps the payload in a "value" object; older cached copies may not.
+    pictorial_data = pictorial_data.get("value", pictorial_data)
 
     # Filter out non-legislators and the vacant placeholders
     pictorial_members = [

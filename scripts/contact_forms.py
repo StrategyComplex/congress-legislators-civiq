@@ -13,6 +13,7 @@ options:
 '''
 
 import yaml
+from urllib.error import HTTPError
 from urllib.request import urlopen
 
 import utils
@@ -59,11 +60,14 @@ def run():
 
 
 def contact_steps_for(bioguide):
-    base_url = "https://raw.githubusercontent.com/unitedstates/contact-congress/main/members/{bioguide}.yaml"
-    response = urlopen(base_url.format(bioguide=bioguide))
-    if response.code == 404:
-        raise LegislatorNotFoundError("%s not found in unitedstates/contact-congress!" % bioguide)
-    return yaml.load(response.read())
+    base_url = "https://raw.githubusercontent.com/unitedstates/contact-congress/master/members/{bioguide}.yaml"
+    try:
+        response = urlopen(base_url.format(bioguide=bioguide))
+    except HTTPError as e:
+        if e.code == 404:
+            raise LegislatorNotFoundError("%s not found in unitedstates/contact-congress!" % bioguide)
+        raise
+    return yaml.safe_load(response.read())
 
 
 class LegislatorNotFoundError(Exception):
