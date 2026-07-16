@@ -52,8 +52,14 @@ def run():
         except LegislatorNotFoundError as e:
             if debug: print("skipping, %s..." % e, flush=True)
             continue
+        except yaml.YAMLError as e:
+            print("[%s] Malformed YAML in contact-congress, skipping: %s" % (bioguide, e), flush=True)
+            continue
 
-        legislator['terms'][-1]['contact_form'] = steps['contact_form']['steps'][0]['visit']
+        try:
+            legislator['terms'][-1]['contact_form'] = steps['contact_form']['steps'][0]['visit']
+        except (KeyError, IndexError, TypeError) as e:
+            print("[%s] Unexpected contact-congress structure, skipping: %s" % (bioguide, e), flush=True)
 
     print("Saving data to %s..." % filename)
     save_data(legislators, filename)

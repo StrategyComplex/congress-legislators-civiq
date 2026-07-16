@@ -86,7 +86,7 @@
     party: Democrat
     url: https://www.cantwell.senate.gov
     rss_url: http://www.cantwell.senate.gov/public/index.cfm/rss/feed
-    contact_form: https://www.cantwell.senate.gov/public/index.cfm/email-maria
+    contact_form: https://www.cantwell.senate.gov/contact/email/form
     address: 511 Hart Senate Office Building Washington DC 20510
     office: 511 Hart Senate Office Building
     phone: 202-224-3441
@@ -178,7 +178,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.klobuchar.senate.gov
-    contact_form: https://www.klobuchar.senate.gov/public/index.cfm/contact
+    contact_form: https://www.klobuchar.senate.gov/public/index.cfm/email-amy
     address: 425 Dirksen Senate Office Building Washington DC 20510
     office: 425 Dirksen Senate Office Building
     phone: 202-224-3244
@@ -328,7 +328,7 @@
     caucus: Democrat
     url: https://www.sanders.senate.gov
     rss_url: http://www.sanders.senate.gov/rss/
-    contact_form: https://www.sanders.senate.gov/contact/
+    contact_form: https://www.sanders.senate.gov/contact/contact-form/
     address: 332 Dirksen Senate Office Building Washington DC 20510
     office: 332 Dirksen Senate Office Building
     phone: 202-224-5141
@@ -500,7 +500,7 @@
     party: Republican
     url: https://www.barrasso.senate.gov
     rss_url: http://www.barrasso.senate.gov/public/index.cfm?FuseAction=Rss.Feed
-    contact_form: https://www.barrasso.senate.gov/public/index.cfm/contact-form
+    contact_form: http://www.barrasso.senate.gov/public/index.cfm/contact-form
     address: 307 Dirksen Senate Office Building Washington DC 20510
     office: 307 Dirksen Senate Office Building
     phone: 202-224-6441
@@ -644,7 +644,7 @@
     icpsr: 49703
     wikidata: Q22279
     google_entity_id: kg:/m/020y8m
-    pictorial: 13395
+    pictorial: 11716
   name:
     first: Susan
     middle: M.
@@ -704,7 +704,7 @@
     party: Republican
     url: https://www.collins.senate.gov
     rss_url: http://www.collins.senate.gov/public/?a=rss.feed
-    contact_form: https://www.collins.senate.gov/contact
+    contact_form: https://www.collins.senate.gov/contact/email-senator-collins/form
     address: 413 Dirksen Senate Office Building Washington DC 20510
     office: 413 Dirksen Senate Office Building
     phone: 202-224-2523
@@ -724,7 +724,7 @@
     icpsr: 40305
     wikidata: Q719568
     google_entity_id: kg:/m/01xcqs
-    pictorial: 13403
+    pictorial: 11725
   name:
     first: John
     last: Cornyn
@@ -796,7 +796,7 @@
     party: Republican
     url: https://www.cornyn.senate.gov
     rss_url: http://www.cornyn.senate.gov/public/?a=rss.feed
-    contact_form: https://www.cornyn.senate.gov/contact
+    contact_form: https://www.cornyn.senate.gov/share-opinion/
     address: 517 Hart Senate Office Building Washington DC 20510
     office: 517 Hart Senate Office Building
     phone: 202-224-2934
@@ -818,6 +818,7 @@
     maplight: 563
     wikidata: Q434804
     google_entity_id: kg:/m/01xcd1
+    pictorial: 11761
   name:
     first: Richard
     middle: J.
@@ -967,7 +968,7 @@
     party: Democrat
     url: https://www.durbin.senate.gov
     rss_url: http://durbin.senate.gov/public/index.cfm/rss/feed
-    contact_form: https://www.durbin.senate.gov/contact/
+    contact_form: http://www.durbin.senate.gov/contact/email
     address: 711 Hart Senate Office Building Washington DC 20510
     office: 711 Hart Senate Office Building
     phone: 202-224-2152
@@ -989,7 +990,7 @@
     icpsr: 29566
     wikidata: Q22212
     google_entity_id: kg:/m/01_pdg
-    pictorial: 13440
+    pictorial: 11763
   name:
     first: Lindsey
     middle: O.
@@ -1067,7 +1068,7 @@
     party: Republican
     url: https://www.lgraham.senate.gov/public
     rss_url: http://www.lgraham.senate.gov/public/index.cfm?FuseAction=Rss.Feed
-    contact_form: https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham
+    contact_form: http://www.lgraham.senate.gov/public/index.cfm?p=contact-form
     address: 211 Russell Senate Office Building Washington DC 20510
     office: 211 Russell Senate Office Building
     phone: 202-224-5972
@@ -1087,7 +1088,7 @@
     maplight: 593
     wikidata: Q355522
     google_entity_id: kg:/m/01z6ls
-    pictorial: 13357
+    pictorial: 11679
   name:
     first: Mitch
     last: McConnell
@@ -1199,7 +1200,7 @@
     party: Republican
     url: https://www.mcconnell.senate.gov
     rss_url: http://www.mcconnell.senate.gov/public/?a=rss.feed
-    contact_form: https://www.mcconnell.senate.gov/public/index.cfm?p=contact
+    contact_form: https://www.mcconnell.senate.gov/public/?p=ContactForm
     address: 317 Russell Senate Office Building Washington DC 20510
     office: 317 Russell Senate Office Building
     phone: 202-224-2541
@@ -1219,7 +1220,7 @@
     icpsr: 40908
     wikidata: Q1368405
     google_entity_id: kg:/m/026k60f
-    pictorial: 13359
+    pictorial: 11680
   name:
     first: Jeff
     last: Merkley
@@ -1287,7 +1288,7 @@
     icpsr: 29142
     wikidata: Q528979
     google_entity_id: kg:/m/0202mc
-    pictorial: 13349
+    pictorial: 11670
   name:
     first: John
     middle: F.
@@ -1366,7 +1367,7 @@
     party: Democrat
     url: https://www.reed.senate.gov
     rss_url: https://www.reed.senate.gov//rss/feeds/?type=all
-    contact_form: https://www.reed.senate.gov/contact/
+    contact_form: https://www.reed.senate.gov/contact/email
     address: 728 Hart Senate Office Building Washington DC 20510
     office: 728 Hart Senate Office Building
     phone: 202-224-4642
@@ -1386,7 +1387,7 @@
     icpsr: 40902
     wikidata: Q721871
     google_entity_id: kg:/m/06y9p0
-    pictorial: 13383
+    pictorial: 11704
   name:
     first: James
     middle: E.
@@ -1430,7 +1431,7 @@
     state_rank: junior
     party: Republican
     url: https://www.risch.senate.gov
-    contact_form: https://www.risch.senate.gov/public/index.cfm?p=Email
+    contact_form: http://www.risch.senate.gov/public/index.cfm?p=Email
     address: 483 Russell Senate Office Building Washington DC 20510
     office: 483 Russell Senate Office Building
     phone: 202-224-2752
@@ -1451,7 +1452,7 @@
     house_history: 22618
     wikidata: Q270316
     google_entity_id: kg:/m/01rrm2
-    pictorial: 13394
+    pictorial: 11713
   name:
     first: Jeanne
     last: Shaheen
@@ -1518,7 +1519,7 @@
     icpsr: 40909
     wikidata: Q453893
     google_entity_id: kg:/m/024mm1
-    pictorial: 13376
+    pictorial: 11698
   name:
     first: Mark
     middle: R.
@@ -1573,7 +1574,7 @@
     party: Democrat
     url: https://www.warner.senate.gov
     rss_url: http://www.warner.senate.gov/public/?a=rss.feed
-    contact_form: https://www.warner.senate.gov/public/index.cfm?p=Contact
+    contact_form: https://www.warner.senate.gov/public/index.cfm/contactpage#form_f9db6196-2dc7-4cda-8add-f8435a71318a
     address: 703 Hart Senate Office Building Washington DC 20510
     office: 703 Hart Senate Office Building
     phone: 202-224-2023
@@ -1688,7 +1689,7 @@
     icpsr: 40916
     wikidata: Q923242
     google_entity_id: kg:/m/082d3d
-    pictorial: 13405
+    pictorial: 11726
   name:
     first: Christopher
     middle: Andrew
@@ -1735,7 +1736,7 @@
     party: Democrat
     url: https://www.coons.senate.gov
     rss_url: http://www.coons.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.coons.senate.gov/contact
+    contact_form: https://www.coons.senate.gov/contact/share-your-opinion
     address: 218 Russell Senate Office Building Washington DC 20510
     office: 218 Russell Senate Office Building
     phone: 202-224-5042
@@ -2033,7 +2034,7 @@
     party: Democrat
     url: https://www.baldwin.senate.gov
     rss_url: http://www.baldwin.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.baldwin.senate.gov/feedback
+    contact_form: https://www.baldwin.senate.gov/contact/contact-tammy
     address: 141 Hart Senate Office Building Washington DC 20510
     office: 141 Hart Senate Office Building
     phone: 202-224-5653
@@ -2108,7 +2109,7 @@
     party: Democrat
     url: https://www.bennet.senate.gov
     rss_url: http://www.bennet.senate.gov/rss/feeds/?type=news
-    contact_form: https://www.bennet.senate.gov/public/index.cfm/contact
+    contact_form: https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=SenBennet&__fid=100024&iframe=Y
     address: 261 Russell Senate Office Building Washington DC 20510
     office: 261 Russell Senate Office Building
     phone: 202-224-5852
@@ -2246,6 +2247,7 @@
     address: 2306 Rayburn House Office Building Washington DC 20515-0912
     office: 2306 Rayburn House Office Building
     phone: 202-225-5755
+    contact_form: http://bilirakis.house.gov/email-congressman-bilirakis
   family:
   - name: Michael Bilirakis
     relation: son
@@ -2428,6 +2430,7 @@
     address: 2407 Rayburn House Office Building Washington DC 20515-1002
     office: 2407 Rayburn House Office Building
     phone: 202-225-3631
+    contact_form: http://bishop.house.gov/contact
 - id:
     bioguide: B001243
     thomas: '01748'
@@ -2620,7 +2623,7 @@
     party: Democrat
     url: https://www.blumenthal.senate.gov
     rss_url: http://www.blumenthal.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.blumenthal.senate.gov/contact/
+    contact_form: https://www.blumenthal.senate.gov/contact/write-to-senator-blumenthal
     address: 503 Hart Senate Office Building Washington DC 20510
     office: 503 Hart Senate Office Building
     phone: 202-224-2823
@@ -2722,7 +2725,7 @@
     party: Republican
     url: https://www.boozman.senate.gov/public
     rss_url: http://www.boozman.senate.gov/public/index.cfm/rss/feed
-    contact_form: https://www.boozman.senate.gov/public/index.cfm/contact
+    contact_form: https://www.boozman.senate.gov/public/index.cfm/e-mail-me
     address: 555 Dirksen Senate Office Building Washington DC 20510
     office: 555 Dirksen Senate Office Building
     phone: 202-224-4843
@@ -2859,6 +2862,7 @@
     address: 2409 Rayburn House Office Building Washington DC 20515-0916
     office: 2409 Rayburn House Office Building
     phone: 202-225-5015
+    contact_form: https://buchanan.house.gov/contact
 - id:
     bioguide: C000059
     thomas: '00165'
@@ -3037,6 +3041,7 @@
     address: 2205 Rayburn House Office Building Washington DC 20515-0541
     office: 2205 Rayburn House Office Building
     phone: 202-225-1986
+    contact_form: https://calvert.house.gov/contactform/
 - id:
     bioguide: C001047
     thomas: '01676'
@@ -3055,6 +3060,7 @@
     lis: S372
     wikidata: Q459618
     google_entity_id: kg:/m/024pwq
+    pictorial: 11667
   name:
     first: Shelley
     middle: Moore
@@ -3152,7 +3158,7 @@
     state_rank: senior
     party: Republican
     url: https://www.capito.senate.gov
-    contact_form: https://www.capito.senate.gov/contact/contact-shelley
+    contact_form: https://www.capito.senate.gov/contact/share-your-opinion
     address: 170 Russell Senate Office Building Washington DC 20510
     office: 170 Russell Senate Office Building
     phone: 202-224-6472
@@ -3292,6 +3298,7 @@
     address: 2135 Rayburn House Office Building Washington DC 20515-1407
     office: 2135 Rayburn House Office Building
     phone: 202-225-4011
+    contact_form: https://carson.house.gov/contact/email-me
   family:
   - name: Julia Carson
     relation: grandson
@@ -3443,6 +3450,7 @@
     address: 2208 Rayburn House Office Building Washington DC 20515-4331
     office: 2208 Rayburn House Office Building
     phone: 202-225-3864
+    contact_form: https://carter.house.gov/email-john2
 - id:
     bioguide: C001075
     thomas: '01925'
@@ -3522,7 +3530,7 @@
     state_rank: senior
     party: Republican
     url: https://www.cassidy.senate.gov
-    contact_form: https://www.cassidy.senate.gov/contact
+    contact_form: https://www.cassidy.senate.gov/contact/get-in-touch/
     address: 455 Dirksen Senate Office Building Washington DC 20510
     office: 455 Dirksen Senate Office Building
     phone: 202-224-5824
@@ -3660,6 +3668,7 @@
     address: 2188 Rayburn House Office Building Washington DC 20515-0914
     office: 2188 Rayburn House Office Building
     phone: 202-225-3376
+    contact_form: https://castor.house.gov/contact/contactform.htm
 - id:
     bioguide: C001080
     thomas: '01970'
@@ -3787,6 +3796,7 @@
     address: 2423 Rayburn House Office Building Washington DC 20515-0528
     office: 2423 Rayburn House Office Building
     phone: 202-225-5464
+    contact_form: https://chu.house.gov/contact
 - id:
     bioguide: C001067
     thomas: '01864'
@@ -3921,6 +3931,7 @@
     address: 2058 Rayburn House Office Building Washington DC 20515-3209
     office: 2058 Rayburn House Office Building
     phone: 202-225-6231
+    contact_form: https://clarke.house.gov/contact/email
 - id:
     bioguide: C001061
     thomas: '01790'
@@ -4061,6 +4072,7 @@
     address: 2217 Rayburn House Office Building Washington DC 20515-2505
     office: 2217 Rayburn House Office Building
     phone: 202-225-4535
+    contact_form: https://cleaver.house.gov/contact/email-me
 - id:
     bioguide: C000537
     thomas: '00208'
@@ -4253,6 +4265,7 @@
     address: 274 Cannon House Office Building Washington DC 20515-4006
     office: 274 Cannon House Office Building
     phone: 202-225-3315
+    contact_form: https://clyburn.house.gov/contact-me/email-me
   family:
   - name: George Washington Murray
     relation: relative
@@ -4389,6 +4402,7 @@
     address: 2268 Rayburn House Office Building Washington DC 20515-4209
     office: 2268 Rayburn House Office Building
     phone: 202-225-3265
+    contact_form: https://cohen.house.gov/contact
 - id:
     bioguide: C001053
     thomas: '01742'
@@ -4536,6 +4550,7 @@
     address: 2207 Rayburn House Office Building Washington DC 20515-3604
     office: 2207 Rayburn House Office Building
     phone: 202-225-6165
+    contact_form: https://coleforms.house.gov/contact/default.aspx
 - id:
     bioguide: C001059
     thomas: '01774'
@@ -4675,6 +4690,7 @@
     address: 2081 Rayburn House Office Building Washington DC 20515-0521
     office: 2081 Rayburn House Office Building
     phone: 202-225-3341
+    contact_form: https://costa.house.gov/contact/email-me
 - id:
     bioguide: C001069
     thomas: '01836'
@@ -4808,6 +4824,7 @@
     address: 2449 Rayburn House Office Building Washington DC 20515-0702
     office: 2449 Rayburn House Office Building
     phone: 202-225-2076
+    contact_form: https://courtney.house.gov/contact/email
 - id:
     bioguide: C000880
     thomas: '00250'
@@ -4903,7 +4920,7 @@
     state_rank: senior
     party: Republican
     url: https://www.crapo.senate.gov
-    contact_form: https://www.crapo.senate.gov/contact
+    contact_form: https://www.crapo.senate.gov/contact/email-me
     address: 239 Dirksen Senate Office Building Washington DC 20510
     office: 239 Dirksen Senate Office Building
     phone: 202-224-6142
@@ -5027,6 +5044,7 @@
     address: 2422 Rayburn House Office Building Washington DC 20515-0401
     office: 2422 Rayburn House Office Building
     phone: 202-225-4076
+    contact_form: http://crawford.house.gov/contact/
 - id:
     bioguide: C001063
     thomas: '01807'
@@ -5166,6 +5184,7 @@
     address: 2308 Rayburn House Office Building Washington DC 20515-4328
     office: 2308 Rayburn House Office Building
     phone: 202-225-1640
+    contact_form: https://cuellar.house.gov/forms/writeyourrep/default.aspx
 - id:
     bioguide: D000096
     thomas: '01477'
@@ -5332,6 +5351,7 @@
     address: 2159 Rayburn House Office Building Washington DC 20515-1307
     office: 2159 Rayburn House Office Building
     phone: 202-225-5006
+    contact_form: https://davis.house.gov/email-me
 - id:
     bioguide: D000197
     thomas: '01479'
@@ -5498,6 +5518,7 @@
     address: 2111 Rayburn House Office Building Washington DC 20515-0601
     office: 2111 Rayburn House Office Building
     phone: 202-225-4431
+    contact_form: https://degette.house.gov/contact/send-me-an-email/email-me
 - id:
     bioguide: D000216
     thomas: '00281'
@@ -5682,6 +5703,7 @@
     address: 2413 Rayburn House Office Building Washington DC 20515-0703
     office: 2413 Rayburn House Office Building
     phone: 202-225-3661
+    contact_form: https://delauro.house.gov/contact/email
 - id:
     bioguide: D000616
     thomas: '02062'
@@ -5800,6 +5822,7 @@
     address: 2304 Rayburn House Office Building Washington DC 20515-4204
     office: 2304 Rayburn House Office Building
     phone: 202-225-6831
+    contact_form: http://desjarlais.house.gov/contact/email-me
 - id:
     bioguide: D000600
     thomas: '01717'
@@ -5947,6 +5970,7 @@
     address: 374 Cannon House Office Building Washington DC 20515-0926
     office: 374 Cannon House Office Building
     phone: 202-225-4211
+    contact_form: http://mariodiazbalart.house.gov/contact-mario/write-rep-diaz-balart
   family:
   - name: Lincoln Diaz Balart
     relation: brother
@@ -6122,6 +6146,7 @@
     address: 2307 Rayburn House Office Building Washington DC 20515-0001
     office: 2307 Rayburn House Office Building
     phone: 202-225-4865
+    contact_form: https://doggett.house.gov/contact/email
 - id:
     bioguide: F000459
     thomas: '02061'
@@ -6242,6 +6267,7 @@
     address: 2187 Rayburn House Office Building Washington DC 20515-4203
     office: 2187 Rayburn House Office Building
     phone: 202-225-3271
+    contact_form: https://fleischmann.house.gov/contact-me/email-me
 - id:
     bioguide: F000450
     thomas: '01791'
@@ -6381,6 +6407,7 @@
     address: 2462 Rayburn House Office Building Washington DC 20515-3305
     office: 2462 Rayburn House Office Building
     phone: 202-225-2071
+    contact_form: https://foxx.house.gov/forms/writeyourrep/?zip5=&zip4=
 - id:
     bioguide: G000559
     thomas: '01973'
@@ -6507,6 +6534,7 @@
     address: 2428 Rayburn House Office Building Washington DC 20515-0508
     office: 2428 Rayburn House Office Building
     phone: 202-225-1880
+    contact_form: https://garamendi.house.gov/contact-me/email-me
 - id:
     bioguide: G000565
     thomas: '01992'
@@ -6626,6 +6654,7 @@
     address: 2057 Rayburn House Office Building Washington DC 20515-0309
     office: 2057 Rayburn House Office Building
     phone: 202-225-2315
+    contact_form: http://paulgosar.house.gov/contact/
 - id:
     bioguide: G000386
     thomas: '00457'
@@ -6753,7 +6782,7 @@
     party: Republican
     url: https://www.grassley.senate.gov
     rss_url: http://grassley.senate.gov/customcf/rss_feed.cfm
-    contact_form: https://www.grassley.senate.gov/contact
+    contact_form: https://www.grassley.senate.gov/contact/questions-and-comments
     address: 135 Hart Senate Office Building Washington DC 20510
     office: 135 Hart Senate Office Building
     phone: 202-224-3744
@@ -6911,6 +6940,7 @@
     address: 1135 Longworth House Office Building Washington DC 20515-2506
     office: 1135 Longworth House Office Building
     phone: 202-225-7041
+    contact_form: https://graves.house.gov/contact/email-me
 - id:
     bioguide: G000553
     thomas: '01803'
@@ -7050,6 +7080,7 @@
     address: 2347 Rayburn House Office Building Washington DC 20515-4309
     office: 2347 Rayburn House Office Building
     phone: 202-225-7508
+    contact_form: https://algreen.house.gov/contact-me/email-me
 - id:
     bioguide: G000568
     thomas: '02070'
@@ -7169,6 +7200,7 @@
     address: 2110 Rayburn House Office Building Washington DC 20515-4609
     office: 2110 Rayburn House Office Building
     phone: 202-225-3861
+    contact_form: https://morgangriffith.house.gov/contact/contactform.htm
 - id:
     bioguide: G000558
     thomas: '01922'
@@ -7295,6 +7327,7 @@
     address: 2161 Rayburn House Office Building Washington DC 20515-1702
     office: 2161 Rayburn House Office Building
     phone: 202-225-3501
+    contact_form: http://brettguthrieforms.house.gov/contact/
 - id:
     bioguide: H001052
     thomas: '02026'
@@ -7413,6 +7446,7 @@
     address: 1536 Longworth House Office Building Washington DC 20515-2001
     office: 1536 Longworth House Office Building
     phone: 202-225-5311
+    contact_form: https://harris.house.gov/contact-me/email-me
 - id:
     bioguide: H001046
     thomas: '01937'
@@ -7492,7 +7526,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.heinrich.senate.gov
-    contact_form: https://www.heinrich.senate.gov/contact
+    contact_form: https://www.heinrich.senate.gov/contact/write-martin/form
     address: 709 Hart Senate Office Building Washington DC 20510
     office: 709 Hart Senate Office Building
     phone: 202-224-5521
@@ -7624,6 +7658,7 @@
     address: 2137 Rayburn House Office Building Washington DC 20515-0704
     office: 2137 Rayburn House Office Building
     phone: 202-225-5541
+    contact_form: https://himes.house.gov/contact-me/email-me
 - id:
     bioguide: H001042
     thomas: '01844'
@@ -7714,7 +7749,7 @@
     party: Democrat
     url: https://www.hirono.senate.gov
     rss_url: http://www.hirono.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.hirono.senate.gov/contact
+    contact_form: https://www.hirono.senate.gov/share-your-opinion
     address: 109 Hart Senate Office Building Washington DC 20510
     office: 109 Hart Senate Office Building
     phone: 202-224-6361
@@ -7780,7 +7815,7 @@
     party: Republican
     url: https://www.hoeven.senate.gov
     rss_url: http://www.hoeven.senate.gov/public/index.cfm/rss/feed
-    contact_form: https://www.hoeven.senate.gov/contact/contact-the-senator
+    contact_form: https://www.hoeven.senate.gov/contact/email-the-senator/form
     address: 338 Russell Senate Office Building Washington DC 20510
     office: 338 Russell Senate Office Building
     phone: 202-224-2551
@@ -8031,6 +8066,7 @@
     address: 1705 Longworth House Office Building Washington DC 20515-2005
     office: 1705 Longworth House Office Building
     phone: 202-225-4131
+    contact_form: https://hoyer.house.gov/email-steny
 - id:
     bioguide: H001058
     thomas: '02028'
@@ -8149,6 +8185,7 @@
     address: 2232 Rayburn House Office Building Washington DC 20515-2204
     office: 2232 Rayburn House Office Building
     phone: 202-225-4401
+    contact_form: http://huizenga.house.gov/contact/
 - id:
     bioguide: J000288
     thomas: '01843'
@@ -8285,6 +8322,7 @@
     address: 2240 Rayburn House Office Building Washington DC 20515-1004
     office: 2240 Rayburn House Office Building
     phone: 202-225-1605
+    contact_form: https://hankjohnson.house.gov/contact/email
 - id:
     bioguide: J000293
     thomas: '02086'
@@ -8484,6 +8522,7 @@
     address: 2056 Rayburn House Office Building Washington DC 20515-3504
     office: 2056 Rayburn House Office Building
     phone: 202-225-2676
+    contact_form: http://jordan.house.gov/contact/
 - id:
     bioguide: K000009
     thomas: '00616'
@@ -8691,6 +8730,7 @@
     address: 2314 Rayburn House Office Building Washington DC 20515-3509
     office: 2314 Rayburn House Office Building
     phone: 202-225-4146
+    contact_form: https://kaptur.house.gov/contact/email
 - id:
     bioguide: K000375
     thomas: '02025'
@@ -8810,6 +8850,7 @@
     address: 2372 Rayburn House Office Building Washington DC 20515-2109
     office: 2372 Rayburn House Office Building
     phone: 202-225-3111
+    contact_form: https://keating.house.gov/contact/email
 - id:
     bioguide: K000376
     thomas: '02051'
@@ -8928,6 +8969,7 @@
     address: 1707 Longworth House Office Building Washington DC 20515-3816
     office: 1707 Longworth House Office Building
     phone: 202-225-5406
+    contact_form: https://kelly.house.gov/contact-me/email-me
 - id:
     bioguide: L000575
     thomas: '02050'
@@ -9014,7 +9056,7 @@
     state_rank: senior
     party: Republican
     url: https://www.lankford.senate.gov
-    contact_form: https://www.lankford.senate.gov/contact/email
+    contact_form: https://www.lankford.senate.gov/contact/email/
     address: 731 Hart Senate Office Building Washington DC 20510
     office: 731 Hart Senate Office Building
     phone: 202-224-5754
@@ -9171,6 +9213,7 @@
     address: 2163 Rayburn House Office Building Washington DC 20515-4702
     office: 2163 Rayburn House Office Building
     phone: 202-225-2605
+    contact_form: http://larsen.house.gov/contact-rick/email-rick
 - id:
     bioguide: L000557
     thomas: '01583'
@@ -9331,6 +9374,7 @@
     address: 1501 Longworth House Office Building Washington DC 20515-0701
     office: 1501 Longworth House Office Building
     phone: 202-225-2265
+    contact_form: https://larson.house.gov/contact/email
 - id:
     bioguide: L000566
     thomas: '01885'
@@ -9465,6 +9509,7 @@
     address: 2470 Rayburn House Office Building Washington DC 20515-3505
     office: 2470 Rayburn House Office Building
     phone: 202-225-6405
+    contact_form: https://latta.house.gov/contact/contactform.htm
   family:
   - name: 'Delbert L. Latta '
     relation: son
@@ -9703,6 +9748,7 @@
     address: 1401 Longworth House Office Building Washington DC 20515-0518
     office: 1401 Longworth House Office Building
     phone: 202-225-3072
+    contact_form: https://lofgren.house.gov/contact/default.aspx
 - id:
     bioguide: L000491
     thomas: '00711'
@@ -9881,6 +9927,7 @@
     address: 2405 Rayburn House Office Building Washington DC 20515-3603
     office: 2405 Rayburn House Office Building
     phone: 202-225-5565
+    contact_form: https://lucas.house.gov/contact-me/email-me
 - id:
     bioguide: L000570
     thomas: '01939'
@@ -9989,7 +10036,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.lujan.senate.gov
-    contact_form: https://www.lujan.senate.gov/contact/
+    contact_form: https://www.lujan.senate.gov/contact/contact-form/
     address: 498 Russell Senate Office Building Washington DC 20510
     office: 498 Russell Senate Office Building
     phone: 202-224-6621
@@ -10148,6 +10195,7 @@
     address: 2109 Rayburn House Office Building Washington DC 20515-2108
     office: 2109 Rayburn House Office Building
     phone: 202-225-8273
+    contact_form: https://lynch.house.gov/contact-me/email-me
 - id:
     bioguide: M000133
     thomas: '00735'
@@ -10166,7 +10214,7 @@
     maplight: 351
     wikidata: Q1282411
     google_entity_id: kg:/m/028vr4
-    pictorial: 13363
+    pictorial: 11685
   name:
     first: Edward
     middle: J.
@@ -10346,7 +10394,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.markey.senate.gov
-    contact_form: https://www.markey.senate.gov/contact
+    contact_form: https://www.markey.senate.gov/contact/share-your-opinion
     address: 255 Dirksen Senate Office Building Washington DC 20510
     office: 255 Dirksen Senate Office Building
     phone: 202-224-2742
@@ -10491,6 +10539,7 @@
     address: 2206 Rayburn House Office Building Washington DC 20515-0507
     office: 2206 Rayburn House Office Building
     phone: 202-225-7163
+    contact_form: https://matsui.house.gov/email-representative-matsui
   family:
   - name: Robert Matsui
     relation: wife
@@ -10627,6 +10676,7 @@
     address: 2300 Rayburn House Office Building Washington DC 20515-4310
     office: 2300 Rayburn House Office Building
     phone: 202-225-2401
+    contact_form: https://mccaul.house.gov/contact/email-me
 - id:
     bioguide: M001177
     thomas: '01908'
@@ -10754,6 +10804,7 @@
     address: 2256 Rayburn House Office Building Washington DC 20515-0505
     office: 2256 Rayburn House Office Building
     phone: 202-225-2511
+    contact_form: http://mcclintock.house.gov/contact/email-me
 - id:
     bioguide: M001143
     thomas: '01653'
@@ -10908,6 +10959,7 @@
     address: 2426 Rayburn House Office Building Washington DC 20515-2304
     office: 2426 Rayburn House Office Building
     phone: 202-225-6631
+    contact_form: https://mccollum.house.gov/contact-me/email-me
 - id:
     bioguide: M000312
     thomas: '01504'
@@ -11241,6 +11293,7 @@
     address: 2310 Rayburn House Office Building Washington DC 20515-3205
     office: 2310 Rayburn House Office Building
     phone: 202-225-3461
+    contact_form: https://meeks.house.gov/contact-me/email-me
 - id:
     bioguide: M001160
     thomas: '01811'
@@ -11380,6 +11433,7 @@
     address: 2252 Rayburn House Office Building Washington DC 20515-4904
     office: 2252 Rayburn House Office Building
     phone: 202-225-4572
+    contact_form: https://gwenmoore.house.gov/contact-form
 - id:
     bioguide: M000934
     thomas: '01507'
@@ -11573,7 +11627,7 @@
     party: Republican
     url: https://www.murkowski.senate.gov
     rss_url: http://www.murkowski.senate.gov/public/?a=rss.feed
-    contact_form: https://www.murkowski.senate.gov/public/index.cfm/contact
+    contact_form: https://www.murkowski.senate.gov/contact/email
     address: 522 Hart Senate Office Building Washington DC 20510
     office: 522 Hart Senate Office Building
     phone: 202-224-6665
@@ -11674,7 +11728,7 @@
     party: Democrat
     url: https://www.murphy.senate.gov
     rss_url: http://www.theday.com/article/20121216/nws12/312169935/1069/rss
-    contact_form: https://www.murphy.senate.gov/contact
+    contact_form: http://www.murphy.senate.gov/contact
     address: 136 Hart Senate Office Building Washington DC 20510
     office: 136 Hart Senate Office Building
     phone: 202-224-4041
@@ -11966,6 +12020,7 @@
     address: 2132 Rayburn House Office Building Washington DC 20515-3212
     office: 2132 Rayburn House Office Building
     phone: 202-225-5635
+    contact_form: https://jerroldnadler.house.gov/forms/writeyourrep/default.aspx
 - id:
     bioguide: N000015
     thomas: '00854'
@@ -12156,6 +12211,7 @@
     address: 372 Cannon House Office Building Washington DC 20515-2101
     office: 372 Cannon House Office Building
     phone: 202-225-5601
+    contact_form: https://forms.house.gov/neal/webforms/Contact_Form.shtml
 - id:
     bioguide: N000147
     thomas: '00868'
@@ -12172,6 +12228,7 @@
     google_entity_id: kg:/m/01s_vp
     pictorial: 13550
     ballotpedia: Eleanor Holmes Norton
+    icpsr: 21993
   name:
     first: Eleanor
     middle: Holmes
@@ -12339,6 +12396,7 @@
     address: 2136 Rayburn House Office Building Washington DC 20515-5101
     office: 2136 Rayburn House Office Building
     phone: 202-225-8050
+    contact_form: https://norton.house.gov/contact/email
 - id:
     bioguide: P000034
     thomas: '00887'
@@ -12537,6 +12595,7 @@
     address: 2107 Rayburn House Office Building Washington DC 20515-3006
     office: 2107 Rayburn House Office Building
     phone: 202-225-4671
+    contact_form: https://palloneforms.house.gov/contact/email/
 - id:
     bioguide: P000603
     thomas: '02082'
@@ -12826,6 +12885,7 @@
     address: 1236 Longworth House Office Building Washington DC 20515-0511
     office: 1236 Longworth House Office Building
     phone: 202-225-4965
+    contact_form: http://pelosi.house.gov/contact-me/email-me
   family:
   - name: Thomas D'Alesandro Jr.
     relation: daughter
@@ -12847,7 +12907,7 @@
     lis: S380
     wikidata: Q1494930
     google_entity_id: kg:/m/02x0lnt
-    pictorial: 13351
+    pictorial: 11673
   name:
     first: Gary
     middle: C.
@@ -13041,6 +13101,7 @@
     address: 2354 Rayburn House Office Building Washington DC 20515-1901
     office: 2354 Rayburn House Office Building
     phone: 202-225-6116
+    contact_form: https://pingree.house.gov/contact/email-me
 - id:
     bioguide: Q000023
     thomas: '01967'
@@ -13167,6 +13228,7 @@
     address: 2083 Rayburn House Office Building Washington DC 20515-1305
     office: 2083 Rayburn House Office Building
     phone: 202-225-4061
+    contact_form: https://quigleyforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: R000395
     thomas: '00977'
@@ -13381,6 +13443,7 @@
     address: 2406 Rayburn House Office Building Washington DC 20515-1705
     office: 2406 Rayburn House Office Building
     phone: 202-225-4601
+    contact_form: https://halrogers.house.gov/contact/contactform.htm
 - id:
     bioguide: R000575
     thomas: '01704'
@@ -13528,6 +13591,7 @@
     address: 2469 Rayburn House Office Building Washington DC 20515-0103
     office: 2469 Rayburn House Office Building
     phone: 202-225-3261
+    contact_form: http://mikerogers.house.gov/contact-mike/email-me
 - id:
     bioguide: S001176
     thomas: '01892'
@@ -13690,6 +13754,7 @@
     address: 266 Cannon House Office Building Washington DC 20515-1801
     office: 266 Cannon House Office Building
     phone: 202-225-3015
+    contact_form: https://scaliseforms.house.gov/contact/
 - id:
     bioguide: S001145
     thomas: '01588'
@@ -13851,6 +13916,7 @@
     address: 2408 Rayburn House Office Building Washington DC 20515-1309
     office: 2408 Rayburn House Office Building
     phone: 202-225-2111
+    contact_form: https://schakowsky.house.gov/write-to-congresswoman-jan-schakowsky
 - id:
     bioguide: S001150
     lis: S427
@@ -14021,6 +14087,7 @@
     office: 112 Hart Senate Office Building
     phone: 202-224-3841
     fax: 202-228-0026
+    contact_form: https://www.schiff.senate.gov/contact/get-in-touch/
 - id:
     bioguide: S000148
     thomas: '01036'
@@ -14176,7 +14243,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.schumer.senate.gov
-    contact_form: https://www.schumer.senate.gov/contact/email-chuck
+    contact_form: http://www.schumer.senate.gov/contact/email-chuck
     address: 322 Hart Senate Office Building Washington DC 20510
     office: 322 Hart Senate Office Building
     phone: 202-224-6542
@@ -14298,6 +14365,7 @@
     address: 166 Cannon House Office Building Washington DC 20515-0301
     office: 166 Cannon House Office Building
     phone: 202-225-2190
+    contact_form: stubforcwc
 - id:
     bioguide: S001189
     thomas: '02009'
@@ -14416,6 +14484,7 @@
     address: 2185 Rayburn House Office Building Washington DC 20515-1008
     office: 2185 Rayburn House Office Building
     phone: 202-225-6531
+    contact_form: https://austinscott.house.gov/contact/email
 - id:
     bioguide: S000185
     thomas: '01037'
@@ -14595,6 +14664,7 @@
     address: 2328 Rayburn House Office Building Washington DC 20515-4603
     office: 2328 Rayburn House Office Building
     phone: 202-225-8351
+    contact_form: https://bobbyscott.house.gov/contact/email-me
 - id:
     bioguide: S001184
     thomas: '02056'
@@ -14689,7 +14759,7 @@
     party: Republican
     url: https://www.scott.senate.gov
     rss_url: http://www.scott.senate.gov/rss.xml
-    contact_form: https://www.scott.senate.gov/contact/email-me
+    contact_form: http://www.scott.senate.gov/contact/email-me
     address: 104 Hart Senate Office Building Washington DC 20510
     office: 104 Hart Senate Office Building
     phone: 202-224-6121
@@ -14812,6 +14882,7 @@
     address: 1035 Longworth House Office Building Washington DC 20515-0107
     office: 1035 Longworth House Office Building
     phone: 202-225-2665
+    contact_form: https://sewell.house.gov/contact/email-me
 - id:
     bioguide: S000344
     thomas: '01526'
@@ -14978,6 +15049,7 @@
     address: 2365 Rayburn House Office Building Washington DC 20515-0532
     office: 2365 Rayburn House Office Building
     phone: 202-225-5911
+    contact_form: http://sherman.house.gov/contact/contact-congressman-sherman-form
 - id:
     bioguide: S001148
     thomas: '01590'
@@ -15139,6 +15211,7 @@
     address: 2084 Rayburn House Office Building Washington DC 20515-1202
     office: 2084 Rayburn House Office Building
     phone: 202-225-5531
+    contact_form: http://simpson.house.gov/contact/
 - id:
     bioguide: S000510
     thomas: '01528'
@@ -15304,6 +15377,7 @@
     address: 2264 Rayburn House Office Building Washington DC 20515-4709
     office: 2264 Rayburn House Office Building
     phone: 202-225-8901
+    contact_form: https://adamsmith.house.gov/contact/email-me
 - id:
     bioguide: S001172
     thomas: '01860'
@@ -15437,6 +15511,7 @@
     address: 502 Cannon House Office Building Washington DC 20515-2703
     office: 502 Cannon House Office Building
     phone: 202-225-6435
+    contact_form: https://adriansmith.house.gov/contact-me/email-me
 - id:
     bioguide: S000522
     thomas: '01071'
@@ -15653,6 +15728,7 @@
     office: 2373 Rayburn House Office Building
     phone: 202-225-3765
     fax: 202-225-7768
+    contact_form: https://chrissmith.house.gov/contact/write.htm
 - id:
     bioguide: S001156
     thomas: '01757'
@@ -15801,6 +15877,7 @@
     address: 2309 Rayburn House Office Building Washington DC 20515-0538
     office: 2309 Rayburn House Office Building
     phone: 202-225-6676
+    contact_form: https://lindasanchez.house.gov/contact/email
   family:
   - name: Loretta Sanchez
     relation: sister
@@ -15982,6 +16059,7 @@
     address: 2466 Rayburn House Office Building Washington DC 20515-2402
     office: 2466 Rayburn House Office Building
     phone: 202-225-5876
+    contact_form: https://forms.house.gov/benniethompson/contact-form.shtml
 - id:
     bioguide: T000460
     thomas: '01593'
@@ -16142,6 +16220,7 @@
     address: 268 Cannon House Office Building Washington DC 20515-0504
     office: 268 Cannon House Office Building
     phone: 202-225-3311
+    contact_form: https://mikethompsonforms.house.gov/contact/
 - id:
     bioguide: T000467
     thomas: '01952'
@@ -16268,6 +16347,7 @@
     address: 400 Cannon House Office Building Washington DC 20515-3815
     office: 400 Cannon House Office Building
     phone: 202-225-5121
+    contact_form: https://thompson.house.gov/contact-me/email-me
 - id:
     bioguide: T000250
     thomas: '01534'
@@ -16507,6 +16587,7 @@
     address: 2269 Rayburn House Office Building Washington DC 20515-3220
     office: 2269 Rayburn House Office Building
     phone: 202-225-5076
+    contact_form: https://tonkoforms.house.gov/contact/
 - id:
     bioguide: T000463
     thomas: '01741'
@@ -16656,6 +16737,7 @@
     address: 2183 Rayburn House Office Building Washington DC 20515-3510
     office: 2183 Rayburn House Office Building
     phone: 202-225-6465
+    contact_form: http://turner.house.gov/contact/
 - id:
     bioguide: V000128
     thomas: '01729'
@@ -16945,6 +17027,7 @@
     address: 2302 Rayburn House Office Building Washington DC 20515-3207
     office: 2302 Rayburn House Office Building
     phone: 202-225-2361
+    contact_form: https://velazquez.house.gov/contact/email
 - id:
     bioguide: W000798
     thomas: '01855'
@@ -17070,6 +17153,7 @@
     address: 2266 Rayburn House Office Building Washington DC 20515-2205
     office: 2266 Rayburn House Office Building
     phone: 202-225-6276
+    contact_form: https://walberg.house.gov/contact/contactform.htm
 - id:
     bioguide: W000797
     thomas: '01777'
@@ -17209,6 +17293,7 @@
     address: 270 Cannon House Office Building Washington DC 20515-0925
     office: 270 Cannon House Office Building
     phone: 202-225-7931
+    contact_form: https://wassermanschultz.house.gov/email-me
 - id:
     bioguide: W000187
     thomas: '01205'
@@ -17392,6 +17477,7 @@
     address: 2221 Rayburn House Office Building Washington DC 20515-0543
     office: 2221 Rayburn House Office Building
     phone: 202-225-2201
+    contact_form: https://waters.house.gov/contact
 - id:
     bioguide: W000806
     thomas: '02002'
@@ -17511,6 +17597,7 @@
     address: 2184 Rayburn House Office Building Washington DC 20515-0911
     office: 2184 Rayburn House Office Building
     phone: 202-225-1002
+    contact_form: https://webster.house.gov/contact/contactform.htm
 - id:
     bioguide: W000800
     thomas: '01879'
@@ -17791,6 +17878,7 @@
     address: 1436 Longworth House Office Building Washington DC 20515-4002
     office: 1436 Longworth House Office Building
     phone: 202-225-2452
+    contact_form: https://joewilson.house.gov/contact/email-me
 - id:
     bioguide: W000808
     thomas: '02004'
@@ -17910,6 +17998,7 @@
     address: 2080 Rayburn House Office Building Washington DC 20515-0924
     office: 2080 Rayburn House Office Building
     phone: 202-225-4506
+    contact_form: https://wilson.house.gov/contact
 - id:
     bioguide: W000804
     thomas: '01886'
@@ -18044,6 +18133,7 @@
     address: 2055 Rayburn House Office Building Washington DC 20515-4601
     office: 2055 Rayburn House Office Building
     phone: 202-225-4261
+    contact_form: http://robwittmanforms.house.gov/contact/
 - id:
     bioguide: W000809
     thomas: '01991'
@@ -18162,6 +18252,7 @@
     address: 2412 Rayburn House Office Building Washington DC 20515-0403
     office: 2412 Rayburn House Office Building
     phone: 202-225-4301
+    contact_form: https://womack.house.gov/contact/contactform.htm
 - id:
     bioguide: W000779
     thomas: '01247'
@@ -18294,7 +18385,7 @@
     party: Democrat
     url: https://www.wyden.senate.gov
     rss_url: http://www.wyden.senate.gov/rss/feeds/?type=all&amp;
-    contact_form: https://www.wyden.senate.gov/contact/
+    contact_form: https://www.wyden.senate.gov/contact/email-ron
     address: 221 Dirksen Senate Office Building Washington DC 20510
     office: 221 Dirksen Senate Office Building
     phone: 202-224-5244
@@ -18384,7 +18475,7 @@
     state_rank: senior
     party: Republican
     url: https://www.young.senate.gov
-    contact_form: https://www.young.senate.gov/contact
+    contact_form: https://www.young.senate.gov/contact/email-todd
     address: 185 Dirksen Senate Office Building Washington DC 20510
     office: 185 Dirksen Senate Office Building
     phone: 202-224-5623
@@ -18510,6 +18601,7 @@
     address: 104 Cannon House Office Building Washington DC 20515-2802
     office: 104 Cannon House Office Building
     phone: 202-225-6155
+    contact_form: https://amodei.house.gov/email-me/
 - id:
     bioguide: B001278
     thomas: '02092'
@@ -18628,6 +18720,7 @@
     address: 2231 Rayburn House Office Building Washington DC 20515-3701
     office: 2231 Rayburn House Office Building
     phone: 202-225-0855
+    contact_form: https://bonamici.house.gov/contact-me/email-me
 - id:
     bioguide: D000617
     govtrack: 412505
@@ -18746,6 +18839,7 @@
     address: 2311 Rayburn House Office Building Washington DC 20515-4701
     office: 2311 Rayburn House Office Building
     phone: 202-225-6311
+    contact_form: https://delbene.house.gov/contact-me/email-me
 - id:
     bioguide: M001184
     govtrack: 412503
@@ -18862,6 +18956,7 @@
     address: 2371 Rayburn House Office Building Washington DC 20515-1704
     office: 2371 Rayburn House Office Building
     phone: 202-225-3465
+    contact_form: http://massieforms.house.gov/contact/
 - id:
     lis: S353
     thomas: '02173'
@@ -18945,7 +19040,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.schatz.senate.gov
-    contact_form: https://www.schatz.senate.gov/contact
+    contact_form: https://www.schatz.senate.gov/contact/share-your-thoughts/form
     address: 722 Hart Senate Office Building Washington DC 20510
     office: 722 Hart Senate Office Building
     phone: 202-224-3934
@@ -19071,6 +19166,7 @@
     address: 2366 Rayburn House Office Building Washington DC 20515-1311
     office: 2366 Rayburn House Office Building
     phone: 202-225-3515
+    contact_form: https://foster.house.gov/contact/email-me
 - id:
     bioguide: T000468
     thomas: '01940'
@@ -19183,6 +19279,7 @@
     address: 2370 Rayburn House Office Building Washington DC 20515-2801
     office: 2370 Rayburn House Office Building
     phone: 202-225-5965
+    contact_form: https://titus.house.gov/contact/email-me
 - id:
     govtrack: 412508
     bioguide: C001095
@@ -19200,7 +19297,7 @@
     lis: S374
     wikidata: Q3090307
     google_entity_id: kg:/m/02g3ds
-    pictorial: 13407
+    pictorial: 11728
   name:
     first: Tom
     last: Cotton
@@ -19355,6 +19452,7 @@
     address: 2330 Rayburn House Office Building Washington DC 20515-0502
     office: 2330 Rayburn House Office Building
     phone: 202-225-5161
+    contact_form: https://huffman.house.gov/contact/email-me
 - id:
     govtrack: 412512
     bioguide: B001287
@@ -19461,6 +19559,7 @@
     address: 172 Cannon House Office Building Washington DC 20515-0506
     office: 172 Cannon House Office Building
     phone: 202-225-5716
+    contact_form: https://beraforms.house.gov/forms/writeyourrep/
 - id:
     govtrack: 412516
     bioguide: B001285
@@ -19568,6 +19667,7 @@
     address: 2262 Rayburn House Office Building Washington DC 20515-0526
     office: 2262 Rayburn House Office Building
     phone: 202-225-5811
+    contact_form: https://juliabrownley.house.gov/contact/email-me
 - id:
     govtrack: 412519
     bioguide: R000599
@@ -19673,6 +19773,7 @@
     address: 2342 Rayburn House Office Building Washington DC 20515-0525
     office: 2342 Rayburn House Office Building
     phone: 202-225-5330
+    contact_form: https://ruiz.house.gov/contact/email
 - id:
     govtrack: 412520
     bioguide: T000472
@@ -19778,6 +19879,7 @@
     address: 2078 Rayburn House Office Building Washington DC 20515-0539
     office: 2078 Rayburn House Office Building
     phone: 202-225-2305
+    contact_form: https://takano.house.gov/contact/email-me
 - id:
     govtrack: 412522
     bioguide: V000130
@@ -19884,6 +19986,7 @@
     address: 2467 Rayburn House Office Building Washington DC 20515-0552
     office: 2467 Rayburn House Office Building
     phone: 202-225-8045
+    contact_form: https://vargas.house.gov/contact
 - id:
     govtrack: 412523
     bioguide: P000608
@@ -19991,6 +20094,7 @@
     address: 2369 Rayburn House Office Building Washington DC 20515-0550
     office: 2369 Rayburn House Office Building
     phone: 202-225-0508
+    contact_form: https://scottpeters.house.gov/contact/email-me
 - id:
     govtrack: 412529
     bioguide: F000462
@@ -20099,6 +20203,7 @@
     address: 2305 Rayburn House Office Building Washington DC 20515-0922
     office: 2305 Rayburn House Office Building
     phone: 202-225-9890
+    contact_form: http://frankel.house.gov/contact/email-me/
 - id:
     govtrack: 412533
     bioguide: D000622
@@ -20170,7 +20275,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.duckworth.senate.gov
-    contact_form: https://www.duckworth.senate.gov/content/contact-senator
+    contact_form: https://www.duckworth.senate.gov/connect/email-tammy
     address: 524 Hart Senate Office Building Washington DC 20510
     office: 524 Hart Senate Office Building
     phone: 202-224-2854
@@ -20278,6 +20383,7 @@
     address: 2430 Rayburn House Office Building Washington DC 20515-1706
     office: 2430 Rayburn House Office Building
     phone: 202-225-4706
+    contact_form: https://barr.house.gov/contact/email-me
 - id:
     bioguide: W000817
     thomas: '02182'
@@ -20348,7 +20454,7 @@
     party: Democrat
     url: https://www.warren.senate.gov
     rss_url: http://www.warren.senate.gov/rss/?p=hot_topic
-    contact_form: https://www.warren.senate.gov/?p=email_senator
+    contact_form: https://www.warren.senate.gov/contact/shareyouropinion
     address: 311 Hart Senate Office Building Washington DC 20510
     office: 311 Hart Senate Office Building
     phone: 202-224-4543
@@ -20418,7 +20524,7 @@
     caucus: Democrat
     url: https://www.king.senate.gov
     rss_url: http://www.king.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.king.senate.gov/contact
+    contact_form: http://www.king.senate.gov/contact
     address: 133 Hart Senate Office Building Washington DC 20510
     office: 133 Hart Senate Office Building
     phone: 202-224-5344
@@ -20527,6 +20633,7 @@
     address: 2350 Rayburn House Office Building Washington DC 20515-2502
     office: 2350 Rayburn House Office Building
     phone: 202-225-1621
+    contact_form: https://wagner.house.gov/contact/email-me
 - id:
     govtrack: 412549
     bioguide: D000618
@@ -20544,7 +20651,7 @@
     lis: S375
     wikidata: Q3200900
     google_entity_id: kg:/m/03qlc5t
-    pictorial: 13401
+    pictorial: 11722
   name:
     first: Steve
     last: Daines
@@ -20591,7 +20698,7 @@
     state_rank: senior
     party: Republican
     url: https://www.daines.senate.gov
-    contact_form: https://www.daines.senate.gov/connect/email-steve
+    contact_form: https://www.daines.senate.gov/services/email-steve/
     address: 320 Hart Senate Office Building Washington DC 20510
     office: 320 Hart Senate Office Building
     phone: 202-224-2651
@@ -20707,6 +20814,7 @@
     office: 2112 Rayburn House Office Building
     phone: 202-225-3715
     fax: 202-225-4036
+    contact_form: https://hudson.house.gov/email-me
 - id:
     govtrack: 412555
     bioguide: C001096
@@ -20858,7 +20966,7 @@
     party: Republican
     url: https://www.fischer.senate.gov
     rss_url: http://www.fischer.senate.gov/public/index.cfm/rss/feed
-    contact_form: https://www.fischer.senate.gov/public/index.cfm/contact
+    contact_form: http://www.fischer.senate.gov/public/?p=email-deb
     address: 448 Russell Senate Office Building Washington DC 20510
     office: 448 Russell Senate Office Building
     phone: 202-224-6551
@@ -20968,6 +21076,7 @@
     address: 2468 Rayburn House Office Building Washington DC 20515-3206
     office: 2468 Rayburn House Office Building
     phone: 202-225-2601
+    contact_form: https://meng.house.gov/contact/email-me
 - id:
     govtrack: 412561
     bioguide: J000294
@@ -21088,6 +21197,7 @@
     address: 2267 Rayburn House Office Building Washington DC 20515-3208
     office: 2267 Rayburn House Office Building
     phone: 202-225-5936
+    contact_form: https://jeffriesforms.house.gov/contact/
 - id:
     govtrack: 412565
     bioguide: B001281
@@ -21194,6 +21304,7 @@
     address: 2079 Rayburn House Office Building Washington DC 20515-3503
     office: 2079 Rayburn House Office Building
     phone: 202-225-4324
+    contact_form: https://beattyforms.house.gov/forms/writeyourrep/
 - id:
     govtrack: 412566
     bioguide: J000295
@@ -21301,6 +21412,7 @@
     address: 2065 Rayburn House Office Building Washington DC 20515-3514
     office: 2065 Rayburn House Office Building
     phone: 202-225-5731
+    contact_form: https://joyce.house.gov/email-me
 - id:
     govtrack: 412569
     bioguide: P000605
@@ -21407,6 +21519,7 @@
     address: 2160 Rayburn House Office Building Washington DC 20515-3810
     office: 2160 Rayburn House Office Building
     phone: 202-225-5836
+    contact_form: http://perry.house.gov/forms/writeyourrep/default.aspx
 - id:
     bioguide: C001098
     thomas: '02175'
@@ -21465,7 +21578,7 @@
     state_rank: junior
     party: Republican
     url: https://www.cruz.senate.gov
-    contact_form: https://www.cruz.senate.gov/?p=form&id=16
+    contact_form: https://www.cruz.senate.gov/contact/write-ted/form
     address: 167 Russell Senate Office Building Washington DC 20510
     office: 167 Russell Senate Office Building
     phone: 202-224-5922
@@ -21577,6 +21690,7 @@
     address: 107 Cannon House Office Building Washington DC 20515-4314
     office: 107 Cannon House Office Building
     phone: 202-225-2831
+    contact_form: stubforcwc
 - id:
     govtrack: 412576
     bioguide: C001091
@@ -21683,6 +21797,7 @@
     address: 2241 Rayburn House Office Building Washington DC 20515-4320
     office: 2241 Rayburn House Office Building
     phone: 202-225-3236
+    contact_form: https://castro.house.gov/contact/email-me
 - id:
     govtrack: 412578
     bioguide: W000816
@@ -21790,6 +21905,7 @@
     address: 2336 Rayburn House Office Building Washington DC 20515-4325
     office: 2336 Rayburn House Office Building
     phone: 202-225-9896
+    contact_form: https://williams.house.gov/contact/email-me
 - id:
     govtrack: 412579
     bioguide: V000131
@@ -21896,6 +22012,7 @@
     address: 2186 Rayburn House Office Building Washington DC 20515-4333
     office: 2186 Rayburn House Office Building
     phone: 202-225-9897
+    contact_form: https://veaseyforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: K000384
     thomas: '02176'
@@ -21958,7 +22075,7 @@
     party: Democrat
     url: https://www.kaine.senate.gov
     rss_url: http://www.kaine.senate.gov/rss/feeds/?type=all
-    contact_form: https://www.kaine.senate.gov/contact
+    contact_form: https://www.kaine.senate.gov/contact/share-your-opinion
     address: 231 Russell Senate Office Building Washington DC 20510
     office: 231 Russell Senate Office Building
     phone: 202-224-4024
@@ -22068,6 +22185,7 @@
     address: 1026 Longworth House Office Building Washington DC 20515-4902
     office: 1026 Longworth House Office Building
     phone: 202-225-2906
+    contact_form: https://pocan.house.gov/contact/email-me
 - id:
     bioguide: K000385
     thomas: '02190'
@@ -22176,6 +22294,7 @@
     address: 2329 Rayburn House Office Building Washington DC 20515-1302
     office: 2329 Rayburn House Office Building
     phone: 202-225-0773
+    contact_form: https://robinkelly.house.gov/contact/email-me
 - id:
     bioguide: S001195
     thomas: '02191'
@@ -22283,6 +22402,7 @@
     address: 1011 Longworth House Office Building Washington DC 20515-2508
     office: 1011 Longworth House Office Building
     phone: 202-225-4404
+    contact_form: https://jasonsmith.house.gov/contact
 - id:
     bioguide: B001288
     lis: S370
@@ -22299,7 +22419,7 @@
     wikidata: Q1135767
     google_entity_id: kg:/m/06p430
     icpsr: 41308
-    pictorial: 13421
+    pictorial: 11742
   name:
     first: Cory
     middle: Anthony
@@ -22350,7 +22470,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.booker.senate.gov
-    contact_form: https://www.booker.senate.gov/?p=contact
+    contact_form: https://www.booker.senate.gov/contact/write-to-cory/form
     address: 306 Hart Senate Office Building Washington DC 20510
     office: 306 Hart Senate Office Building
     phone: 202-224-3224
@@ -22466,6 +22586,7 @@
     address: 2368 Rayburn House Office Building Washington DC 20515-2105
     office: 2368 Rayburn House Office Building
     phone: 202-225-2836
+    contact_form: https://katherineclark.house.gov/index.cfm/email-me
 - id:
     bioguide: N000188
     thomas: '02202'
@@ -22566,6 +22687,7 @@
     address: 2427 Rayburn House Office Building Washington DC 20515-3001
     office: 2427 Rayburn House Office Building
     phone: 202-225-6501
+    contact_form: https://norcross.house.gov/contact/email-me
 - id:
     bioguide: A000370
     thomas: '02201'
@@ -22666,6 +22788,7 @@
     address: 2436 Rayburn House Office Building Washington DC 20515-3312
     office: 2436 Rayburn House Office Building
     phone: 202-225-1510
+    contact_form: http://adamsforms.house.gov/contact/
 - id:
     bioguide: P000609
     fec:
@@ -22766,6 +22889,7 @@
     address: 170 Cannon House Office Building Washington DC 20515-0106
     office: 170 Cannon House Office Building
     phone: 202-225-4921
+    contact_form: https://palmer.house.gov/contact
 - id:
     bioguide: H001072
     fec:
@@ -22853,6 +22977,7 @@
     address: 1533 Longworth House Office Building Washington DC 20515-0402
     office: 1533 Longworth House Office Building
     phone: 202-225-2506
+    contact_form: https://Hillforms.house.gov/contact
 - id:
     bioguide: W000821
     fec:
@@ -22937,6 +23062,7 @@
     address: 202 Cannon House Office Building Washington DC 20515-0404
     office: 202 Cannon House Office Building
     phone: 202-225-3772
+    contact_form: https://westerman.house.gov/contact
 - id:
     bioguide: G000574
     lis: S432
@@ -23024,6 +23150,7 @@
     address: 302 Hart Senate Office Building Washington DC 20510
     office: 302 Hart Senate Office Building
     phone: 202-224-4521
+    contact_form: https://www.gallego.senate.gov/share-your-opinion/
 - id:
     bioguide: D000623
     fec:
@@ -23110,6 +23237,7 @@
     address: 2134 Rayburn House Office Building Washington DC 20515-0510
     office: 2134 Rayburn House Office Building
     phone: 202-225-2095
+    contact_form: https://desaulnier.house.gov/contact
 - id:
     bioguide: A000371
     fec:
@@ -23208,6 +23336,7 @@
     address: 108 Cannon House Office Building Washington DC 20515-0533
     office: 108 Cannon House Office Building
     phone: 202-225-3201
+    contact_form: https://aguilar.house.gov/contact
 - id:
     bioguide: L000582
     fec:
@@ -23298,6 +23427,7 @@
     address: 2454 Rayburn House Office Building Washington DC 20515-0536
     office: 2454 Rayburn House Office Building
     phone: 202-225-3976
+    contact_form: https://lieu.house.gov/contact
 - id:
     bioguide: T000474
     fec:
@@ -23386,6 +23516,7 @@
     address: 2227 Rayburn House Office Building Washington DC 20515-0535
     office: 2227 Rayburn House Office Building
     phone: 202-225-6161
+    contact_form: https://Torresforms.house.gov/contact
 - id:
     bioguide: C001103
     fec:
@@ -23474,6 +23605,7 @@
     address: 2432 Rayburn House Office Building Washington DC 20515-1001
     office: 2432 Rayburn House Office Building
     phone: 202-225-5831
+    contact_form: http://buddycarter.house.gov/contact/
 - id:
     bioguide: L000583
     fec:
@@ -23560,6 +23692,7 @@
     address: 2133 Rayburn House Office Building Washington DC 20515-1011
     office: 2133 Rayburn House Office Building
     phone: 202-225-2931
+    contact_form: http://loudermilk.house.gov/contact/
 - id:
     bioguide: A000372
     fec:
@@ -23647,6 +23780,7 @@
     address: 462 Cannon House Office Building Washington DC 20515-1012
     office: 462 Cannon House Office Building
     phone: 202-225-2823
+    contact_form: http://allen.house.gov/contact/
 - id:
     bioguide: B001295
     fec:
@@ -23733,6 +23867,7 @@
     address: 352 Cannon House Office Building Washington DC 20515-1312
     office: 352 Cannon House Office Building
     phone: 202-225-5661
+    contact_form: https://bost.house.gov/contact
 - id:
     bioguide: M001196
     fec:
@@ -23819,6 +23954,7 @@
     address: 1126 Longworth House Office Building Washington DC 20515-2106
     office: 1126 Longworth House Office Building
     phone: 202-225-8020
+    contact_form: http://moulton.house.gov/contact/
 - id:
     bioguide: M001194
     fec:
@@ -23906,6 +24042,7 @@
     address: 246 Cannon House Office Building Washington DC 20515-2202
     office: 246 Cannon House Office Building
     phone: 202-225-3561
+    contact_form: https://moolenaar.house.gov/contact
 - id:
     bioguide: D000624
     fec:
@@ -23993,6 +24130,7 @@
     address: 102 Cannon House Office Building Washington DC 20515-2206
     office: 102 Cannon House Office Building
     phone: 202-225-4071
+    contact_form: https://debbiedingellforms.house.gov/contact/
 - id:
     bioguide: E000294
     fec:
@@ -24087,6 +24225,7 @@
     address: 326 Cannon House Office Building Washington DC 20515-2306
     office: 326 Cannon House Office Building
     phone: 202-225-2331
+    contact_form: https://emmer.house.gov/contact
 - id:
     bioguide: R000603
     fec:
@@ -24173,6 +24312,7 @@
     address: 2333 Rayburn House Office Building Washington DC 20515-3307
     office: 2333 Rayburn House Office Building
     phone: 202-225-2731
+    contact_form: https://rouzer.house.gov/contact
 - id:
     bioguide: W000822
     fec:
@@ -24260,6 +24400,7 @@
     address: 168 Cannon House Office Building Washington DC 20515-3012
     office: 168 Cannon House Office Building
     phone: 202-225-5801
+    contact_form: https://watsoncoleman.house.gov/contact/email
 - id:
     bioguide: S001196
     fec:
@@ -24357,6 +24498,7 @@
     address: 2211 Rayburn House Office Building Washington DC 20515-3221
     office: 2211 Rayburn House Office Building
     phone: 202-225-4611
+    contact_form: https://stefanik.house.gov/contact
 - id:
     bioguide: B001296
     fec:
@@ -24444,6 +24586,7 @@
     address: 1502 Longworth House Office Building Washington DC 20515-3802
     office: 1502 Longworth House Office Building
     phone: 202-225-6111
+    contact_form: https://boyle.house.gov/contact
 - id:
     bioguide: B001291
     fec:
@@ -24530,6 +24673,7 @@
     address: 2236 Rayburn House Office Building Washington DC 20515-4336
     office: 2236 Rayburn House Office Building
     phone: 202-225-1555
+    contact_form: https://babin.house.gov/contact/
 - id:
     bioguide: B001292
     fec:
@@ -24618,6 +24762,7 @@
     address: 1226 Longworth House Office Building Washington DC 20515-4608
     office: 1226 Longworth House Office Building
     phone: 202-225-4376
+    contact_form: https://beyerforms.house.gov/contact/
 - id:
     bioguide: P000610
     fec:
@@ -24634,6 +24779,7 @@
     votesmart: 155929
     pictorial: 13879
     ballotpedia: Stacey Plaskett
+    icpsr: 21994
   name:
     first: Stacey
     middle: E.
@@ -24705,6 +24851,7 @@
     address: 2059 Rayburn House Office Building Washington DC 20515-5500
     office: 2059 Rayburn House Office Building
     phone: 202-225-1790
+    contact_form: https://Plaskettforms.house.gov/contact
 - id:
     bioguide: N000189
     fec:
@@ -24791,6 +24938,7 @@
     address: 460 Cannon House Office Building Washington DC 20515-4704
     office: 460 Cannon House Office Building
     phone: 202-225-5816
+    contact_form: https://newhouse.house.gov/contact
 - id:
     bioguide: G000576
     fec:
@@ -24877,6 +25025,7 @@
     address: 1211 Longworth House Office Building Washington DC 20515-4906
     office: 1211 Longworth House Office Building
     phone: 202-225-2476
+    contact_form: https://grothman.house.gov/contact/
 - id:
     bioguide: R000600
     fec:
@@ -24893,6 +25042,7 @@
     votesmart: 128380
     ballotpedia: Amata Radewagen
     pictorial: 12905
+    icpsr: 21995
   name:
     first: Aumua Amata
     last: Radewagen
@@ -24964,6 +25114,7 @@
     address: 2001 Rayburn House Office Building Washington DC 20515-5200
     office: 2001 Rayburn House Office Building
     phone: 202-225-8577
+    contact_form: https://radewagen.house.gov/contact
 - id:
     bioguide: S001198
     thomas: '02290'
@@ -24980,7 +25131,7 @@
     cspan: 1023262
     icpsr: 41500
     ballotpedia: Daniel S. Sullivan
-    pictorial: 13368
+    pictorial: 11690
   name:
     first: Dan
     last: Sullivan
@@ -25030,7 +25181,7 @@
     cspan: 75342
     icpsr: 41502
     ballotpedia: Joni Ernst
-    pictorial: 13437
+    pictorial: 11757
   name:
     first: Joni
     last: Ernst
@@ -25072,7 +25223,7 @@
     state_rank: junior
     party: Republican
     url: https://www.ernst.senate.gov
-    contact_form: https://www.ernst.senate.gov/public/index.cfm/contact
+    contact_form: https://www.ernst.senate.gov/contact/email-joni
     address: 260 Russell Senate Office Building Washington DC 20510
     office: 260 Russell Senate Office Building
     phone: 202-224-3254
@@ -25092,7 +25243,7 @@
     cspan: 77055
     icpsr: 41504
     ballotpedia: Thom Tillis (North Carolina)
-    pictorial: 13369
+    pictorial: 11687
   name:
     first: Thom
     last: Tillis
@@ -25121,7 +25272,7 @@
     state_rank: senior
     party: Republican
     url: https://www.tillis.senate.gov
-    contact_form: https://www.tillis.senate.gov/public/index.cfm/email-me
+    contact_form: http://www.tillis.senate.gov/public/index.cfm/email-me
     address: 113 Dirksen Senate Office Building Washington DC 20510
     office: 113 Dirksen Senate Office Building
     phone: 202-224-6342
@@ -25142,7 +25293,7 @@
     cspan: 78317
     icpsr: 41505
     ballotpedia: Mike Rounds
-    pictorial: 13384
+    pictorial: 11705
   name:
     first: Mike
     last: Rounds
@@ -25260,6 +25411,7 @@
     address: 2243 Rayburn House Office Building Washington DC 20515-2401
     office: 2243 Rayburn House Office Building
     phone: 202-225-4306
+    contact_form: http://trentkelly.house.gov/contact/
 - id:
     bioguide: L000585
     thomas: '02295'
@@ -25346,6 +25498,7 @@
     address: 503 Cannon House Office Building Washington DC 20515-1316
     office: 503 Cannon House Office Building
     phone: 202-225-6201
+    contact_form: https://lahood.house.gov/contact/email
 - id:
     bioguide: D000626
     thomas: '02296'
@@ -25429,6 +25582,7 @@
     address: 2113 Rayburn House Office Building Washington DC 20515-3508
     office: 2113 Rayburn House Office Building
     phone: 202-225-6205
+    contact_form: https://davidson.house.gov/contact/email
 - id:
     bioguide: C001108
     govtrack: 412676
@@ -25519,6 +25673,7 @@
     address: 2410 Rayburn House Office Building Washington DC 20515-1701
     office: 2410 Rayburn House Office Building
     phone: 202-225-3115
+    contact_form: https://comer.house.gov/contact/email
 - id:
     bioguide: E000296
     govtrack: 412677
@@ -25609,6 +25764,7 @@
     address: 1105 Longworth House Office Building Washington DC 20515-3803
     office: 1105 Longworth House Office Building
     phone: 202-225-4001
+    contact_form: https://evans.house.gov/contact/email
 - id:
     bioguide: K000393
     fec:
@@ -25654,7 +25810,7 @@
     state_rank: junior
     party: Republican
     url: https://www.kennedy.senate.gov/public
-    contact_form: https://www.kennedy.senate.gov/public/email-me
+    contact_form: https://www.kennedy.senate.gov/public/email-me-form
     address: 437 Russell Senate Office Building Washington DC 20510
     office: 437 Russell Senate Office Building
     phone: 202-224-4623
@@ -25704,7 +25860,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.hassan.senate.gov
-    contact_form: https://www.hassan.senate.gov/content/contact-senator
+    contact_form: https://www.hassan.senate.gov/contact/email
     address: 324 Hart Senate Office Building Washington DC 20510
     office: 324 Hart Senate Office Building
     phone: 202-224-3324
@@ -25760,7 +25916,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.cortezmasto.senate.gov
-    contact_form: https://www.cortezmasto.senate.gov/contact
+    contact_form: https://www.cortezmasto.senate.gov/contact/connect
     address: 309 Hart Senate Office Building Washington DC 20510
     office: 309 Hart Senate Office Building
     phone: 202-224-3542
@@ -25858,6 +26014,7 @@
     address: 300 Cannon House Office Building Washington DC 20515-1310
     office: 300 Cannon House Office Building
     phone: 202-225-4835
+    contact_form: https://google.com
 - id:
     bioguide: B001302
     govtrack: 412683
@@ -25931,6 +26088,7 @@
     address: 464 Cannon House Office Building Washington DC 20515-0305
     office: 464 Cannon House Office Building
     phone: 202-225-2635
+    contact_form: https://biggs.house.gov/contact
 - id:
     bioguide: K000389
     govtrack: 412684
@@ -26004,6 +26162,7 @@
     address: 306 Cannon House Office Building Washington DC 20515-0517
     office: 306 Cannon House Office Building
     phone: 202-225-2631
+    contact_form: https://khannaforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: P000613
     govtrack: 412685
@@ -26077,6 +26236,7 @@
     address: 200 Cannon House Office Building Washington DC 20515-0519
     office: 200 Cannon House Office Building
     phone: 202-225-2861
+    contact_form: https://panetta.house.gov/contact/email
 - id:
     bioguide: C001112
     govtrack: 412686
@@ -26151,6 +26311,7 @@
     address: 2331 Rayburn House Office Building Washington DC 20515-0524
     office: 2331 Rayburn House Office Building
     phone: 202-225-3601
+    contact_form: https://carbajalforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: B001300
     govtrack: 412687
@@ -26225,6 +26386,7 @@
     address: 2312 Rayburn House Office Building Washington DC 20515-0544
     office: 2312 Rayburn House Office Building
     phone: 202-225-8220
+    contact_form: https://google.com
 - id:
     bioguide: C001110
     govtrack: 412688
@@ -26299,6 +26461,7 @@
     address: 2082 Rayburn House Office Building Washington DC 20515-0546
     office: 2082 Rayburn House Office Building
     phone: 202-225-2965
+    contact_form: https://correa.house.gov/contact/email
 - id:
     bioguide: B001303
     lis: S430
@@ -26375,6 +26538,7 @@
     address: 513 Hart Senate Office Building Washington DC 20510
     office: 513 Hart Senate Office Building
     phone: 202-224-2441
+    contact_form: https://www.bluntrochester.senate.gov/contact/write-to-lbr/
 - id:
     bioguide: D000628
     govtrack: 412691
@@ -26449,6 +26613,7 @@
     address: 466 Cannon House Office Building Washington DC 20515-0902
     office: 466 Cannon House Office Building
     phone: 202-225-5235
+    contact_form: https://google.com
 - id:
     bioguide: R000609
     govtrack: 412692
@@ -26523,6 +26688,7 @@
     address: 1711 Longworth House Office Building Washington DC 20515-0905
     office: 1711 Longworth House Office Building
     phone: 202-225-2501
+    contact_form: https://rutherford.house.gov/contact
 - id:
     bioguide: S001200
     govtrack: 412695
@@ -26596,6 +26762,7 @@
     address: 2353 Rayburn House Office Building Washington DC 20515-0909
     office: 2353 Rayburn House Office Building
     phone: 202-225-9889
+    contact_form: https://soto.house.gov/contact/email
 - id:
     bioguide: M001199
     govtrack: 412698
@@ -26670,6 +26837,7 @@
     address: 2182 Rayburn House Office Building Washington DC 20515-0921
     office: 2182 Rayburn House Office Building
     phone: 202-225-3026
+    contact_form: https://mast.house.gov/contact
 - id:
     bioguide: K000391
     govtrack: 412701
@@ -26743,6 +26911,7 @@
     address: 2367 Rayburn House Office Building Washington DC 20515-1308
     office: 2367 Rayburn House Office Building
     phone: 202-225-3711
+    contact_form: https://krishnamoorthiforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: B001299
     lis: S429
@@ -26819,6 +26988,7 @@
     address: 303 Hart Senate Office Building Washington DC 20510
     office: 303 Hart Senate Office Building
     phone: 202-224-4814
+    contact_form: https://www.banks.senate.gov/share-your-opinion/
 - id:
     bioguide: M001198
     lis: S411
@@ -26871,7 +27041,7 @@
     state_rank: junior
     party: Republican
     url: https://www.marshall.senate.gov
-    contact_form: https://www.marshall.senate.gov/contact/
+    contact_form: https://www.marshall.senate.gov/contact/contact-form/
     address: 479A Russell Senate Office Building Washington DC 20510
     office: 479a Russell Senate Office Building
     phone: 202-224-4774
@@ -26948,6 +27118,7 @@
     address: 572 Cannon House Office Building Washington DC 20515-1803
     office: 572 Cannon House Office Building
     phone: 202-225-2031
+    contact_form: https://clayhiggins.house.gov/contact
 - id:
     bioguide: J000299
     govtrack: 412706
@@ -27033,6 +27204,7 @@
     address: 521 Cannon House Office Building Washington DC 20515-1804
     office: 521 Cannon House Office Building
     phone: 202-225-2777
+    contact_form: https://mikejohnson.house.gov/contact/email
 - id:
     bioguide: R000606
     govtrack: 412708
@@ -27106,6 +27278,7 @@
     address: 2242 Rayburn House Office Building Washington DC 20515-2008
     office: 2242 Rayburn House Office Building
     phone: 202-225-5341
+    contact_form: https://raskin.house.gov/contact/email
 - id:
     bioguide: B001301
     govtrack: 412709
@@ -27179,6 +27352,7 @@
     address: 566 Cannon House Office Building Washington DC 20515-2201
     office: 566 Cannon House Office Building
     phone: 202-225-4735
+    contact_form: https://bergmanforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: B001305
     lis: S417
@@ -27242,7 +27416,7 @@
     state_rank: junior
     party: Republican
     url: https://www.budd.senate.gov
-    contact_form: https://www.budd.senate.gov/contact/
+    contact_form: https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=quorum_budd-iq&__fid=100007
     address: 354 Russell Senate Office Building Washington DC 20510
     office: 354 Russell Senate Office Building
     phone: 202-224-3154
@@ -27319,6 +27493,7 @@
     address: 2104 Rayburn House Office Building Washington DC 20515-2702
     office: 2104 Rayburn House Office Building
     phone: 202-225-4155
+    contact_form: https://google.com
 - id:
     bioguide: G000583
     govtrack: 412714
@@ -27392,6 +27567,7 @@
     address: 106 Cannon House Office Building Washington DC 20515-3005
     office: 106 Cannon House Office Building
     phone: 202-225-4465
+    contact_form: https://gottheimerforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: R000608
     lis: S402
@@ -27525,6 +27701,7 @@
     address: 2332 Rayburn House Office Building Washington DC 20515-3213
     office: 2332 Rayburn House Office Building
     phone: 202-225-4365
+    contact_form: https://espaillatforms.house.gov/forms/writeyourrep/
 - id:
     bioguide: F000466
     govtrack: 412721
@@ -27599,6 +27776,7 @@
     address: 271 Cannon House Office Building Washington DC 20515-3801
     office: 271 Cannon House Office Building
     phone: 202-225-4276
+    contact_form: https://brianfitzpatrick.house.gov/contact/email
 - id:
     bioguide: S001199
     govtrack: 412722
@@ -27672,6 +27850,7 @@
     address: 302 Cannon House Office Building Washington DC 20515-3811
     office: 302 Cannon House Office Building
     phone: 202-225-2411
+    contact_form: https://smucker.house.gov/contact/email
 - id:
     bioguide: K000392
     govtrack: 412724
@@ -27745,6 +27924,7 @@
     address: 560 Cannon House Office Building Washington DC 20515-4208
     office: 560 Cannon House Office Building
     phone: 202-225-4714
+    contact_form: https://kustoff.house.gov/contact/email
 - id:
     bioguide: G000581
     govtrack: 412725
@@ -27818,6 +27998,7 @@
     address: 1201 Longworth House Office Building Washington DC 20515-4334
     office: 1201 Longworth House Office Building
     phone: 202-225-2531
+    contact_form: https://gonzalez.house.gov/contact/email
 - id:
     bioguide: A000375
     govtrack: 412726
@@ -27892,6 +28073,7 @@
     address: 1111 Longworth House Office Building Washington DC 20515-4319
     office: 1111 Longworth House Office Building
     phone: 202-225-4005
+    contact_form: https://arrington.house.gov/contact/email
 - id:
     bioguide: J000298
     govtrack: 412730
@@ -27965,6 +28147,7 @@
     address: 2346 Rayburn House Office Building Washington DC 20515-4707
     office: 2346 Rayburn House Office Building
     phone: 202-225-3106
+    contact_form: https://jayapal.house.gov/contact/email
 - id:
     bioguide: E000298
     fec:
@@ -28040,6 +28223,7 @@
     address: 2234 Rayburn House Office Building Washington DC 20515-1604
     office: 2234 Rayburn House Office Building
     phone: 202-225-6216
+    contact_form: stubforcwc
 - id:
     bioguide: N000190
     fec:
@@ -28115,6 +28299,7 @@
     address: 569 Cannon House Office Building Washington DC 20515-4005
     office: 569 Cannon House Office Building
     phone: 202-225-5501
+    contact_form: stubforcwc
 - id:
     bioguide: G000585
     fec:
@@ -28189,6 +28374,7 @@
     address: 506 Cannon House Office Building Washington DC 20515-0534
     office: 506 Cannon House Office Building
     phone: 202-225-6235
+    contact_form: stubforcwc
 - id:
     bioguide: C001114
     lis: S431
@@ -28265,6 +28451,7 @@
     address: 502 Hart Senate Office Building Washington DC 20510
     office: 502 Hart Senate Office Building
     phone: 202-224-5251
+    contact_form: https://www.curtis.senate.gov/share-your-opinion/
 - id:
     bioguide: S001203
     lis: S394
@@ -28280,7 +28467,7 @@
     google_entity_id: kg:/m/0127xvy3
     maplight: 2253
     opensecrets: N00042353
-    pictorial: 13389
+    pictorial: 11710
   name:
     first: Tina
     middle: Flint
@@ -28324,7 +28511,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.smith.senate.gov
-    contact_form: https://www.smith.senate.gov/share-your-opinion/
+    contact_form: https://www.smith.senate.gov/share-your-opinion
     address: 720 Hart Senate Office Building Washington DC 20510
     office: 720 Hart Senate Office Building
     phone: 202-224-5641
@@ -28342,7 +28529,7 @@
     icpsr: 41707
     google_entity_id: kg:/m/03wc2px
     opensecrets: N00043298
-    pictorial: 13424
+    pictorial: 11745
   name:
     first: Cindy
     last: Hyde-Smith
@@ -28461,6 +28648,7 @@
     address: 304 Cannon House Office Building Washington DC 20515-4327
     office: 304 Cannon House Office Building
     phone: 202-225-7742
+    contact_form: stubforcwc
 - id:
     bioguide: B001306
     fec:
@@ -28532,6 +28720,7 @@
     address: 2429 Rayburn House Office Building Washington DC 20515-3512
     office: 2429 Rayburn House Office Building
     phone: 202-225-5355
+    contact_form: stubforcwc
 - id:
     bioguide: H001082
     fec:
@@ -28608,6 +28797,7 @@
     address: 171 Cannon House Office Building Washington DC 20515-3601
     office: 171 Cannon House Office Building
     phone: 202-225-2211
+    contact_form: stubforcwc
 - id:
     bioguide: M001206
     fec:
@@ -28680,6 +28870,7 @@
     address: 570 Cannon House Office Building Washington DC 20515-3225
     office: 570 Cannon House Office Building
     phone: 202-225-3615
+    contact_form: stubforcwc
 - id:
     bioguide: S001205
     fec:
@@ -28752,6 +28943,7 @@
     address: 1214 Longworth House Office Building Washington DC 20515-3805
     office: 1214 Longworth House Office Building
     phone: 202-225-2011
+    contact_form: stubforcwc
 - id:
     bioguide: C001055
     fec:
@@ -28829,6 +29021,7 @@
     address: 2210 Rayburn House Office Building Washington DC 20515-1101
     office: 2210 Rayburn House Office Building
     phone: 202-225-2726
+    contact_form: stubforcwc
 - id:
     govtrack: 412559
     bioguide: H001066
@@ -28910,6 +29103,7 @@
     address: 406 Cannon House Office Building Washington DC 20515-2804
     office: 406 Cannon House Office Building
     phone: 202-225-9894
+    contact_form: stubforcwc
 - id:
     bioguide: S001211
     fec:
@@ -28971,6 +29165,7 @@
     address: 207 Cannon House Office Building Washington DC 20515-0304
     office: 207 Cannon House Office Building
     phone: 202-225-9888
+    contact_form: stubforcwc
 - id:
     bioguide: H001090
     fec:
@@ -29032,6 +29227,7 @@
     address: 209 Cannon House Office Building Washington DC 20515-0509
     office: 209 Cannon House Office Building
     phone: 202-225-4540
+    contact_form: stubforcwc
 - id:
     bioguide: L000593
     fec:
@@ -29093,6 +29289,7 @@
     address: 2352 Rayburn House Office Building Washington DC 20515-0549
     office: 2352 Rayburn House Office Building
     phone: 202-225-3906
+    contact_form: stubforcwc
 - id:
     bioguide: N000191
     fec:
@@ -29162,6 +29359,7 @@
     address: 2400 Rayburn House Office Building Washington DC 20515-0602
     office: 2400 Rayburn House Office Building
     phone: 202-225-2161
+    contact_form: stubforcwc
 - id:
     bioguide: C001121
     fec:
@@ -29223,6 +29421,7 @@
     address: 1323 Longworth House Office Building Washington DC 20515-0606
     office: 1323 Longworth House Office Building
     phone: 202-225-7882
+    contact_form: stubforcwc
 - id:
     bioguide: H001081
     fec:
@@ -29284,6 +29483,7 @@
     address: 2049 Rayburn House Office Building Washington DC 20515-0705
     office: 2049 Rayburn House Office Building
     phone: 202-225-4476
+    contact_form: stubforcwc
 - id:
     bioguide: S001214
     fec:
@@ -29346,6 +29546,7 @@
     address: 2457 Rayburn House Office Building Washington DC 20515-0917
     office: 2457 Rayburn House Office Building
     phone: 202-225-5792
+    contact_form: stubforcwc
 - id:
     bioguide: M001208
     fec:
@@ -29407,6 +29608,7 @@
     address: 2246 Rayburn House Office Building Washington DC 20515-1006
     office: 2246 Rayburn House Office Building
     phone: 202-225-4501
+    contact_form: stubforcwc
 - id:
     bioguide: F000469
     fec:
@@ -29468,6 +29670,7 @@
     address: 1514 Longworth House Office Building Washington DC 20515-1201
     office: 1514 Longworth House Office Building
     phone: 202-225-6611
+    contact_form: stubforcwc
 - id:
     bioguide: G000586
     fec:
@@ -29531,6 +29734,7 @@
     address: 2334 Rayburn House Office Building Washington DC 20515-1304
     office: 2334 Rayburn House Office Building
     phone: 202-225-8203
+    contact_form: stubforcwc
 - id:
     bioguide: C001117
     fec:
@@ -29592,6 +29796,7 @@
     address: 2440 Rayburn House Office Building Washington DC 20515-1306
     office: 2440 Rayburn House Office Building
     phone: 202-225-4561
+    contact_form: stubforcwc
 - id:
     bioguide: U000040
     fec:
@@ -29653,6 +29858,7 @@
     address: 2228 Rayburn House Office Building Washington DC 20515-1314
     office: 2228 Rayburn House Office Building
     phone: 202-225-2976
+    contact_form: stubforcwc
 - id:
     bioguide: B001307
     fec:
@@ -29715,6 +29921,7 @@
     address: 2303 Rayburn House Office Building Washington DC 20515-1404
     office: 2303 Rayburn House Office Building
     phone: 202-225-5037
+    contact_form: stubforcwc
 - id:
     bioguide: D000629
     fec:
@@ -29776,6 +29983,7 @@
     address: 2435 Rayburn House Office Building Washington DC 20515-1603
     office: 2435 Rayburn House Office Building
     phone: 202-225-2865
+    contact_form: stubforcwc
 - id:
     bioguide: T000482
     fec:
@@ -29837,6 +30045,7 @@
     address: 2233 Rayburn House Office Building Washington DC 20515-2103
     office: 2233 Rayburn House Office Building
     phone: 202-225-3411
+    contact_form: stubforcwc
 - id:
     bioguide: P000617
     fec:
@@ -29898,6 +30107,7 @@
     address: 402 Cannon House Office Building Washington DC 20515-2107
     office: 402 Cannon House Office Building
     phone: 202-225-5111
+    contact_form: stubforcwc
 - id:
     bioguide: S001208
     lis: S436
@@ -29962,6 +30172,7 @@
     address: 291 Russell Senate Office Building Washington DC 20510
     office: 291 Russell Senate Office Building
     phone: 202-224-4822
+    contact_form: https://outreach.senate.gov/iqextranet/EForm.aspx?__cid=SenSlotkin&__fid=100053&iframe=Y
 - id:
     bioguide: S001215
     fec:
@@ -30024,6 +30235,7 @@
     address: 2411 Rayburn House Office Building Washington DC 20515-2211
     office: 2411 Rayburn House Office Building
     phone: 202-225-8171
+    contact_form: stubforcwc
 - id:
     bioguide: T000481
     fec:
@@ -30085,6 +30297,7 @@
     address: 2438 Rayburn House Office Building Washington DC 20515-2212
     office: 2438 Rayburn House Office Building
     phone: 202-225-5126
+    contact_form: stubforcwc
 - id:
     bioguide: C001119
     fec:
@@ -30146,6 +30359,7 @@
     address: 2052 Rayburn House Office Building Washington DC 20515-2302
     office: 2052 Rayburn House Office Building
     phone: 202-225-2271
+    contact_form: stubforcwc
 - id:
     bioguide: O000173
     fec:
@@ -30207,6 +30421,7 @@
     address: 1730 Longworth House Office Building Washington DC 20515-2305
     office: 1730 Longworth House Office Building
     phone: 202-225-4755
+    contact_form: stubforcwc
 - id:
     bioguide: S001212
     fec:
@@ -30268,6 +30483,7 @@
     address: 145 Cannon House Office Building Washington DC 20515-2308
     office: 145 Cannon House Office Building
     phone: 202-225-6211
+    contact_form: stubforcwc
 - id:
     bioguide: G000591
     fec:
@@ -30329,6 +30545,7 @@
     address: 450 Cannon House Office Building Washington DC 20515-2403
     office: 450 Cannon House Office Building
     phone: 202-225-5031
+    contact_form: stubforcwc
 - id:
     bioguide: P000614
     fec:
@@ -30390,6 +30607,7 @@
     address: 452 Cannon House Office Building Washington DC 20515-2901
     office: 452 Cannon House Office Building
     phone: 202-225-5456
+    contact_form: stubforcwc
 - id:
     bioguide: V000133
     fec:
@@ -30400,7 +30618,7 @@
     opensecrets: N00042164
     google_entity_id: kg:/m/08h3sl
     votesmart: 24685
-    icpsr: 21980
+    icpsr: 91980
     ballotpedia: Jeff Van Drew
     pictorial: 13719
   name:
@@ -30458,6 +30676,7 @@
     address: 2447 Rayburn House Office Building Washington DC 20515-3002
     office: 2447 Rayburn House Office Building
     phone: 202-225-6572
+    contact_form: stubforcwc
 - id:
     bioguide: K000394
     lis: S426
@@ -30595,6 +30814,7 @@
     address: 365 Cannon House Office Building Washington DC 20515-2803
     office: 365 Cannon House Office Building
     phone: 202-225-3252
+    contact_form: stubforcwc
 - id:
     bioguide: O000172
     fec:
@@ -30656,6 +30876,7 @@
     address: 250 Cannon House Office Building Washington DC 20515-3214
     office: 250 Cannon House Office Building
     phone: 202-225-3965
+    contact_form: stubforcwc
 - id:
     bioguide: D000631
     fec:
@@ -30717,6 +30938,7 @@
     address: 150 Cannon House Office Building Washington DC 20515-3804
     office: 150 Cannon House Office Building
     phone: 202-225-4731
+    contact_form: stubforcwc
 - id:
     bioguide: H001085
     fec:
@@ -30778,6 +31000,7 @@
     address: 1727 Longworth House Office Building Washington DC 20515-3806
     office: 1727 Longworth House Office Building
     phone: 202-225-4315
+    contact_form: stubforcwc
 - id:
     bioguide: M001204
     fec:
@@ -30839,6 +31062,7 @@
     address: 350 Cannon House Office Building Washington DC 20515-3809
     office: 350 Cannon House Office Building
     phone: 202-225-6511
+    contact_form: stubforcwc
 - id:
     bioguide: J000302
     fec:
@@ -30900,6 +31124,7 @@
     address: 2102 Rayburn House Office Building Washington DC 20515-3813
     office: 2102 Rayburn House Office Building
     phone: 202-225-2431
+    contact_form: stubforcwc
 - id:
     bioguide: R000610
     fec:
@@ -30961,6 +31186,7 @@
     address: 2209 Rayburn House Office Building Washington DC 20515-3814
     office: 2209 Rayburn House Office Building
     phone: 202-225-2065
+    contact_form: stubforcwc
 - id:
     bioguide: T000480
     fec:
@@ -31023,6 +31249,7 @@
     address: 267 Cannon House Office Building Washington DC 20515-4004
     office: 267 Cannon House Office Building
     phone: 202-225-6030
+    contact_form: stubforcwc
 - id:
     bioguide: J000301
     fec:
@@ -31084,6 +31311,7 @@
     address: 1714 Longworth House Office Building Washington DC 20515-4100
     office: 1714 Longworth House Office Building
     phone: 202-225-2801
+    contact_form: stubforcwc
 - id:
     bioguide: B001309
     fec:
@@ -31145,6 +31373,7 @@
     address: 1122 Longworth House Office Building Washington DC 20515-4202
     office: 1122 Longworth House Office Building
     phone: 202-225-5435
+    contact_form: stubforcwc
 - id:
     bioguide: R000612
     fec:
@@ -31207,6 +31436,7 @@
     address: 2238 Rayburn House Office Building Washington DC 20515-4206
     office: 2238 Rayburn House Office Building
     phone: 202-225-4231
+    contact_form: stubforcwc
 - id:
     bioguide: C001120
     fec:
@@ -31268,6 +31498,7 @@
     address: 248 Cannon House Office Building Washington DC 20515-4302
     office: 248 Cannon House Office Building
     phone: 202-225-6565
+    contact_form: stubforcwc
 - id:
     bioguide: G000589
     fec:
@@ -31329,6 +31560,7 @@
     address: 2431 Rayburn House Office Building Washington DC 20515-4305
     office: 2431 Rayburn House Office Building
     phone: 202-225-3484
+    contact_form: stubforcwc
 - id:
     bioguide: F000468
     fec:
@@ -31390,6 +31622,7 @@
     address: 2004 Rayburn House Office Building Washington DC 20515-4307
     office: 2004 Rayburn House Office Building
     phone: 202-225-2571
+    contact_form: stubforcwc
 - id:
     bioguide: E000299
     fec:
@@ -31451,6 +31684,7 @@
     address: 2448 Rayburn House Office Building Washington DC 20515-4316
     office: 2448 Rayburn House Office Building
     phone: 202-225-4831
+    contact_form: stubforcwc
 - id:
     bioguide: R000614
     fec:
@@ -31512,6 +31746,7 @@
     address: 103 Cannon House Office Building Washington DC 20515-4321
     office: 103 Cannon House Office Building
     phone: 202-225-4236
+    contact_form: stubforcwc
 - id:
     bioguide: G000587
     fec:
@@ -31574,6 +31809,7 @@
     address: 2419 Rayburn House Office Building Washington DC 20515-4329
     office: 2419 Rayburn House Office Building
     phone: 202-225-1688
+    contact_form: stubforcwc
 - id:
     bioguide: C001118
     fec:
@@ -31635,6 +31871,7 @@
     address: 2443 Rayburn House Office Building Washington DC 20515-4606
     office: 2443 Rayburn House Office Building
     phone: 202-225-5431
+    contact_form: stubforcwc
 - id:
     bioguide: S001216
     fec:
@@ -31696,6 +31933,7 @@
     address: 1110 Longworth House Office Building Washington DC 20515-4708
     office: 1110 Longworth House Office Building
     phone: 202-225-7761
+    contact_form: stubforcwc
 - id:
     bioguide: S001213
     fec:
@@ -31757,6 +31995,7 @@
     address: 1526 Longworth House Office Building Washington DC 20515-4901
     office: 1526 Longworth House Office Building
     phone: 202-225-3031
+    contact_form: stubforcwc
 - id:
     bioguide: M001205
     fec:
@@ -31819,6 +32058,7 @@
     address: 465 Cannon House Office Building Washington DC 20515-4801
     office: 465 Cannon House Office Building
     phone: 202-225-3452
+    contact_form: stubforcwc
 - id:
     bioguide: S001217
     lis: S404
@@ -31909,7 +32149,7 @@
     state_rank: senior
     party: Republican
     url: https://www.hawley.senate.gov
-    contact_form: https://www.hawley.senate.gov/contact-senator-hawley
+    contact_form: https://www.hawley.senate.gov/contact-senator-hawley/
     address: 381 Russell Senate Office Building Washington DC 20510
     office: 381 Russell Senate Office Building
     phone: 202-224-6154
@@ -31975,6 +32215,7 @@
     address: 1107 Longworth House Office Building Washington DC 20515-1902
     office: 1107 Longworth House Office Building
     phone: 202-225-6306
+    contact_form: stubforcwc
 - id:
     bioguide: M001210
     fec:
@@ -32038,6 +32279,7 @@
     address: 407 Cannon House Office Building Washington DC 20515-3303
     office: 407 Cannon House Office Building
     phone: 202-225-3415
+    contact_form: stubforcwc
 - id:
     bioguide: M000687
     thomas: '00798'
@@ -32132,6 +32374,7 @@
     address: 2263 Rayburn House Office Building Washington DC 20515-2007
     office: 2263 Rayburn House Office Building
     phone: 202-225-4741
+    contact_form: stubforcwc
 - id:
     bioguide: T000165
     fec:
@@ -32142,6 +32385,7 @@
     wikidata: Q7817838
     ballotpedia: Tom Tiffany
     pictorial: 13897
+    icpsr: 21989
   name:
     first: Thomas
     middle: P.
@@ -32190,6 +32434,7 @@
     address: 451 Cannon House Office Building Washington DC 20515-4907
     office: 451 Cannon House Office Building
     phone: 202-225-3365
+    contact_form: stubforcwc
 - id:
     bioguide: K000377
     lis: S406
@@ -32202,6 +32447,7 @@
     ballotpedia: Mark Kelly
     votesmart: 190594
     pictorial: 13430
+    icpsr: 41905
   name:
     first: Mark
     last: Kelly
@@ -32253,7 +32499,7 @@
     icpsr: 20953
     wikidata: Q456064
     google_entity_id: kg:/m/02qvjv3
-    pictorial: 13361
+    pictorial: 11756
   name:
     first: Cynthia
     middle: M.
@@ -32464,6 +32710,7 @@
     address: 2108 Rayburn House Office Building Washington DC 20515-0548
     office: 2108 Rayburn House Office Building
     phone: 202-225-5672
+    contact_form: stubforcwc
 - id:
     bioguide: S000250
     thomas: '01525'
@@ -32619,6 +32866,7 @@
     address: 2204 Rayburn House Office Building Washington DC 20515-4317
     office: 2204 Rayburn House Office Building
     phone: 202-225-6105
+    contact_form: stubforcwc
 - id:
     govtrack: 412515
     bioguide: V000129
@@ -32715,6 +32963,7 @@
     address: 2465 Rayburn House Office Building Washington DC 20515-0522
     office: 2465 Rayburn House Office Building
     phone: 202-225-4695
+    contact_form: stubforcwc
 - id:
     bioguide: T000278
     lis: S412
@@ -32727,7 +32976,8 @@
     google_entity_id: kg:/m/04tmr4
     votesmart: 188306
     ballotpedia: Tommy Tuberville
-    pictorial: 13365
+    pictorial: 11754
+    icpsr: 42102
   name:
     first: Tommy
     middle: Hawley
@@ -32761,7 +33011,8 @@
     wikipedia: John Hickenlooper
     google_entity_id: kg:/m/04g_1z
     ballotpedia: John Hickenlooper
-    pictorial: 13433
+    pictorial: 11765
+    icpsr: 42101
   name:
     first: John
     middle: Wright
@@ -32779,7 +33030,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.hickenlooper.senate.gov
-    contact_form: https://www.hickenlooper.senate.gov/contact/
+    contact_form: https://www.hickenlooper.senate.gov/email-john/#contact-form-emailJohn
     address: 316 Hart Senate Office Building Washington DC 20510
     office: 316 Hart Senate Office Building
     phone: 202-224-5941
@@ -32797,6 +33048,7 @@
     votesmart: 128466
     ballotpedia: Bill Hagerty
     pictorial: 13411
+    icpsr: 42100
   name:
     first: Bill
     middle: Francis
@@ -32830,6 +33082,7 @@
     ballotpedia: Barry Moore (Alabama)
     pictorial: 13464
     votesmart: 121792
+    icpsr: 22140
   name:
     first: Barry
     last: Moore
@@ -32868,6 +33121,7 @@
     address: 1511 Longworth House Office Building Washington DC 20515-0101
     office: 1511 Longworth House Office Building
     phone: 202-225-2901
+    contact_form: stubforcwc
 - id:
     bioguide: O000019
     fec:
@@ -32880,6 +33134,7 @@
     ballotpedia: Jay Obernolte
     pictorial: 13507
     votesmart: 151831
+    icpsr: 22145
   name:
     first: Jay
     middle: Phillip
@@ -32919,6 +33174,7 @@
     address: 2433 Rayburn House Office Building Washington DC 20515-0523
     office: 2433 Rayburn House Office Building
     phone: 202-225-5861
+    contact_form: stubforcwc
 - id:
     bioguide: K000397
     fec:
@@ -32931,6 +33187,7 @@
     votesmart: 151787
     pictorial: 13524
     ballotpedia: Young Kim (California)
+    icpsr: 22129
   name:
     first: Young
     middle: Oak
@@ -32970,6 +33227,7 @@
     address: 2439 Rayburn House Office Building Washington DC 20515-0540
     office: 2439 Rayburn House Office Building
     phone: 202-225-4111
+    contact_form: stubforcwc
 - id:
     bioguide: J000305
     fec:
@@ -32982,6 +33240,7 @@
     pictorial: 13535
     votesmart: 179414
     ballotpedia: Sara Jacobs
+    icpsr: 22126
   name:
     first: Sara
     last: Jacobs
@@ -33020,6 +33279,7 @@
     address: 2348 Rayburn House Office Building Washington DC 20515-0551
     office: 2348 Rayburn House Office Building
     phone: 202-225-2040
+    contact_form: stubforcwc
 - id:
     bioguide: B000825
     fec:
@@ -33032,6 +33292,7 @@
     ballotpedia: Lauren Boebert
     pictorial: 13540
     votesmart: 191290
+    icpsr: 22103
   name:
     first: Lauren
     middle: Opal
@@ -33071,6 +33332,7 @@
     address: 1713 Longworth House Office Building Washington DC 20515-0604
     office: 1713 Longworth House Office Building
     phone: 202-225-4761
+    contact_form: stubforcwc
 - id:
     bioguide: C001039
     fec:
@@ -33083,6 +33345,7 @@
     pictorial: 13553
     votesmart: 191306
     ballotpedia: Kat Cammack
+    icpsr: 22107
   name:
     first: Katherine
     nickname: Kat
@@ -33122,6 +33385,7 @@
     address: 2421 Rayburn House Office Building Washington DC 20515-0903
     office: 2421 Rayburn House Office Building
     phone: 202-225-5744
+    contact_form: stubforcwc
 - id:
     bioguide: F000472
     fec:
@@ -33134,6 +33398,7 @@
     pictorial: 13567
     votesmart: 191355
     ballotpedia: Scott Franklin
+    icpsr: 22116
   name:
     first: C.
     middle: Scott
@@ -33173,6 +33438,7 @@
     address: 2301 Rayburn House Office Building Washington DC 20515-0918
     office: 2301 Rayburn House Office Building
     phone: 202-225-1252
+    contact_form: stubforcwc
 - id:
     bioguide: D000032
     fec:
@@ -33185,6 +33451,7 @@
     votesmart: 137655
     pictorial: 13568
     ballotpedia: Byron Donalds
+    icpsr: 22111
   name:
     first: Byron
     middle: Lowell
@@ -33224,6 +33491,7 @@
     address: 1710 Longworth House Office Building Washington DC 20515-0919
     office: 1710 Longworth House Office Building
     phone: 202-225-2536
+    contact_form: stubforcwc
 - id:
     bioguide: G000593
     fec:
@@ -33236,6 +33504,7 @@
     votesmart: 81366
     ballotpedia: Carlos Gimenez
     pictorial: 13009
+    icpsr: 22118
   name:
     first: Carlos
     middle: A.
@@ -33275,6 +33544,7 @@
     address: 448 Cannon House Office Building Washington DC 20515-0001
     office: 448 Cannon House Office Building
     phone: 202-225-2778
+    contact_form: stubforcwc
 - id:
     bioguide: S000168
     fec:
@@ -33287,6 +33557,7 @@
     votesmart: 182300
     pictorial: 13576
     ballotpedia: Maria Elvira Salazar
+    icpsr: 22150
   name:
     first: Maria
     middle: Elvira
@@ -33326,6 +33597,7 @@
     address: 2162 Rayburn House Office Building Washington DC 20515-0927
     office: 2162 Rayburn House Office Building
     phone: 202-225-3931
+    contact_form: stubforcwc
 - id:
     bioguide: W000788
     fec:
@@ -33338,6 +33610,7 @@
     ballotpedia: Nikema Williams
     pictorial: 13582
     votesmart: 176751
+    icpsr: 22156
   name:
     first: Nikema
     middle: Natassha
@@ -33377,6 +33650,7 @@
     address: 1406 Longworth House Office Building Washington DC 20515-1005
     office: 1406 Longworth House Office Building
     phone: 202-225-3801
+    contact_form: stubforcwc
 - id:
     bioguide: C001116
     fec:
@@ -33389,6 +33663,7 @@
     pictorial: 13586
     votesmart: 189770
     ballotpedia: Andrew Clyde
+    icpsr: 22110
   name:
     first: Andrew
     middle: S.
@@ -33428,6 +33703,7 @@
     address: 445 Cannon House Office Building Washington DC 20515-1009
     office: 445 Cannon House Office Building
     phone: 202-225-9893
+    contact_form: stubforcwc
 - id:
     bioguide: H001091
     fec:
@@ -33440,6 +33716,7 @@
     votesmart: 168783
     ballotpedia: Ashley Hinson
     pictorial: 13596
+    icpsr: 22124
   name:
     first: Ashley
     last: Hinson
@@ -33478,6 +33755,7 @@
     address: 2458 Rayburn House Office Building Washington DC 20515-1502
     office: 2458 Rayburn House Office Building
     phone: 202-225-2911
+    contact_form: stubforcwc
 - id:
     bioguide: M001215
     fec:
@@ -33490,6 +33768,7 @@
     votesmart: 103294
     ballotpedia: Mariannette Miller-Meeks
     pictorial: 13595
+    icpsr: 22139
   name:
     first: Mariannette
     middle: Jane
@@ -33529,6 +33808,7 @@
     address: 504 Cannon House Office Building Washington DC 20515-1501
     office: 504 Cannon House Office Building
     phone: 202-225-6576
+    contact_form: stubforcwc
 - id:
     bioguide: F000446
     fec:
@@ -33541,6 +33821,7 @@
     votesmart: 103301
     ballotpedia: Randy Feenstra
     pictorial: 13598
+    icpsr: 22113
   name:
     first: Randy
     middle: L.
@@ -33580,6 +33861,7 @@
     address: 2434 Rayburn House Office Building Washington DC 20515-1504
     office: 2434 Rayburn House Office Building
     phone: 202-225-4426
+    contact_form: stubforcwc
 - id:
     bioguide: M001211
     fec:
@@ -33592,6 +33874,7 @@
     pictorial: 13615
     votesmart: 187988
     ballotpedia: Mary Miller (Illinois)
+    icpsr: 22138
   name:
     first: Mary
     middle: E.
@@ -33631,6 +33914,7 @@
     address: 1740 Longworth House Office Building Washington DC 20515-1315
     office: 1740 Longworth House Office Building
     phone: 202-225-5271
+    contact_form: stubforcwc
 - id:
     bioguide: M001214
     fec:
@@ -33643,6 +33927,7 @@
     pictorial: 13618
     votesmart: 113775
     ballotpedia: Frank Mrvan (Indiana congressional member)
+    icpsr: 22142
   name:
     first: Frank
     middle: John
@@ -33682,6 +33967,7 @@
     address: 2441 Rayburn House Office Building Washington DC 20515-1401
     office: 2441 Rayburn House Office Building
     phone: 202-225-2461
+    contact_form: stubforcwc
 - id:
     bioguide: S000929
     fec:
@@ -33694,6 +33980,7 @@
     votesmart: 178203
     pictorial: 13622
     ballotpedia: Victoria Spartz
+    icpsr: 22151
   name:
     first: Victoria
     last: Spartz
@@ -33732,6 +34019,7 @@
     address: 1609 Longworth House Office Building Washington DC 20515-1405
     office: 1609 Longworth House Office Building
     phone: 202-225-2276
+    contact_form: stubforcwc
 - id:
     bioguide: M000871
     fec:
@@ -33744,6 +34032,7 @@
     pictorial: 13627
     votesmart: 125007
     ballotpedia: Tracey Mann
+    icpsr: 22134
   name:
     first: Tracey
     middle: Robert
@@ -33783,6 +34072,7 @@
     address: 344 Cannon House Office Building Washington DC 20515-1601
     office: 344 Cannon House Office Building
     phone: 202-225-2715
+    contact_form: stubforcwc
 - id:
     bioguide: A000148
     fec:
@@ -33795,6 +34085,7 @@
     pictorial: 13646
     votesmart: 173832
     ballotpedia: Jake Auchincloss
+    icpsr: 22100
   name:
     first: Jake
     middle: Daniel
@@ -33834,6 +34125,7 @@
     address: 1524 Longworth House Office Building Washington DC 20515-2104
     office: 1524 Longworth House Office Building
     phone: 202-225-5931
+    contact_form: stubforcwc
 - id:
     bioguide: M001136
     fec:
@@ -33846,6 +34138,7 @@
     ballotpedia: Lisa McClain
     pictorial: 13670
     votesmart: 191633
+    icpsr: 22136
   name:
     first: Lisa
     middle: C.
@@ -33889,6 +34182,7 @@
     address: 562 Cannon House Office Building Washington DC 20515-2209
     office: 562 Cannon House Office Building
     phone: 202-225-2106
+    contact_form: stubforcwc
 - id:
     bioguide: F000470
     fec:
@@ -33901,6 +34195,7 @@
     ballotpedia: Michelle Fischbach
     pictorial: 13681
     votesmart: 3882
+    icpsr: 22114
   name:
     first: Michelle
     middle: Louise Helene
@@ -33940,6 +34235,7 @@
     address: 2229 Rayburn House Office Building Washington DC 20515-2307
     office: 2229 Rayburn House Office Building
     phone: 202-225-2165
+    contact_form: stubforcwc
 - id:
     bioguide: R000305
     fec:
@@ -33952,6 +34248,7 @@
     ballotpedia: Deborah Ross
     pictorial: 13699
     votesmart: 41560
+    icpsr: 22149
   name:
     first: Deborah
     middle: Koff
@@ -33991,6 +34288,7 @@
     address: 1221 Longworth House Office Building Washington DC 20515-3302
     office: 1221 Longworth House Office Building
     phone: 202-225-3032
+    contact_form: stubforcwc
 - id:
     bioguide: L000273
     fec:
@@ -34003,6 +34301,7 @@
     pictorial: 13732
     votesmart: 189882
     ballotpedia: Teresa Leger Fernandez
+    icpsr: 22131
   name:
     first: Teresa
     last: Leger Fernandez
@@ -34041,6 +34340,7 @@
     address: 2417 Rayburn House Office Building Washington DC 20515-3103
     office: 2417 Rayburn House Office Building
     phone: 202-225-6190
+    contact_form: stubforcwc
 - id:
     bioguide: G000597
     fec:
@@ -34053,6 +34353,7 @@
     pictorial: 13738
     votesmart: 143103
     ballotpedia: Andrew Garbarino
+    icpsr: 22117
   name:
     first: Andrew
     middle: R.
@@ -34092,6 +34393,7 @@
     address: 2344 Rayburn House Office Building Washington DC 20515-3202
     office: 2344 Rayburn House Office Building
     phone: 202-225-7896
+    contact_form: 'stubforcwc '
 - id:
     bioguide: M000317
     fec:
@@ -34104,6 +34406,7 @@
     pictorial: 13747
     votesmart: 127929
     ballotpedia: Nicole Malliotakis
+    icpsr: 22133
   name:
     first: Nicole
     last: Malliotakis
@@ -34142,6 +34445,7 @@
     address: 1124 Longworth House Office Building Washington DC 20515-3211
     office: 1124 Longworth House Office Building
     phone: 202-225-3371
+    contact_form: stubforcwc
 - id:
     bioguide: T000486
     fec:
@@ -34154,6 +34458,7 @@
     ballotpedia: Ritchie Torres
     pictorial: 13751
     votesmart: 161718
+    icpsr: 22154
   name:
     first: Ritchie
     middle: John
@@ -34193,6 +34498,7 @@
     address: 1414 Longworth House Office Building Washington DC 20515-3215
     office: 1414 Longworth House Office Building
     phone: 202-225-4361
+    contact_form: stubforcwc
 - id:
     bioguide: B000740
     fec:
@@ -34205,6 +34511,7 @@
     ballotpedia: Stephanie Bice
     pictorial: 13782
     votesmart: 152294
+    icpsr: 22102
   name:
     first: Stephanie
     middle: I.
@@ -34244,6 +34551,7 @@
     address: 2402 Rayburn House Office Building Washington DC 20515-3605
     office: 2402 Rayburn House Office Building
     phone: 202-225-2132
+    contact_form: stubforcwc
 - id:
     bioguide: B000668
     fec:
@@ -34256,6 +34564,7 @@
     pictorial: 13784
     votesmart: 102400
     ballotpedia: Cliff Bentz
+    icpsr: 22101
   name:
     first: Cliff
     middle: Stewart
@@ -34296,6 +34605,7 @@
     office: 409 Cannon House Office Building
     phone: 202-225-6730
     fax: 202-225-5774
+    contact_form: stubforcwc
 - id:
     bioguide: M000194
     fec:
@@ -34308,6 +34618,7 @@
     ballotpedia: Nancy Mace
     pictorial: 13809
     votesmart: 146076
+    icpsr: 22132
   name:
     first: Nancy
     middle: Ruth
@@ -34347,6 +34658,7 @@
     address: 1728 Longworth House Office Building Washington DC 20515-4001
     office: 1728 Longworth House Office Building
     phone: 202-225-3176
+    contact_form: stubforcwc
 - id:
     bioguide: H001086
     fec:
@@ -34359,6 +34671,7 @@
     pictorial: 13817
     votesmart: 190524
     ballotpedia: Diana Harshbarger
+    icpsr: 22122
   name:
     first: Diana
     last: Harshbarger
@@ -34397,6 +34710,7 @@
     address: 167 Cannon House Office Building Washington DC 20515-4201
     office: 167 Cannon House Office Building
     phone: 202-225-6356
+    contact_form: stubforcwc
 - id:
     bioguide: F000246
     fec:
@@ -34407,6 +34721,7 @@
     wikipedia: Pat Fallon
     google_entity_id: kg:/m/0100nvdw
     pictorial: 13829
+    icpsr: 22112
   name:
     first: Patrick
     middle: Edward
@@ -34447,6 +34762,7 @@
     address: 2416 Rayburn House Office Building Washington DC 20515-4304
     office: 2416 Rayburn House Office Building
     phone: 202-225-6673
+    contact_form: stubforcwc
 - id:
     bioguide: P000048
     fec:
@@ -34459,6 +34775,7 @@
     pictorial: 13836
     votesmart: 188165
     ballotpedia: August Pfluger
+    icpsr: 22147
   name:
     first: August
     middle: Lee
@@ -34499,6 +34816,7 @@
     address: 2202 Rayburn House Office Building Washington DC 20515-4311
     office: 2202 Rayburn House Office Building
     phone: 202-225-3605
+    contact_form: stubforcwc
 - id:
     bioguide: J000304
     fec:
@@ -34511,6 +34829,7 @@
     ballotpedia: Ronny Jackson
     pictorial: 13838
     votesmart: 188325
+    icpsr: 22125
   name:
     first: Ronny
     middle: Lynn
@@ -34550,6 +34869,7 @@
     address: 125 Cannon House Office Building Washington DC 20515-4313
     office: 125 Cannon House Office Building
     phone: 202-225-3706
+    contact_form: stubforcwc
 - id:
     bioguide: N000026
     fec:
@@ -34562,6 +34882,7 @@
     votesmart: 188334
     ballotpedia: Troy Nehls
     pictorial: 13847
+    icpsr: 22143
   name:
     first: Troy
     middle: E.
@@ -34601,6 +34922,7 @@
     address: 1104 Longworth House Office Building Washington DC 20515-4322
     office: 1104 Longworth House Office Building
     phone: 202-225-5951
+    contact_form: stubforcwc
 - id:
     bioguide: V000134
     fec:
@@ -34613,6 +34935,7 @@
     votesmart: 79150
     ballotpedia: Beth Van Duyne
     pictorial: 13849
+    icpsr: 22155
   name:
     first: Beth
     middle: Ann
@@ -34652,6 +34975,7 @@
     address: 1725 Longworth House Office Building Washington DC 20515-4324
     office: 1725 Longworth House Office Building
     phone: 202-225-6605
+    contact_form: stubforcwc
 - id:
     bioguide: M001213
     fec:
@@ -34662,6 +34986,7 @@
     wikipedia: Blake Moore
     google_entity_id: kg:/g/11ftchfsgn
     pictorial: 13864
+    icpsr: 22141
   name:
     first: Blake
     middle: David
@@ -34701,6 +35026,7 @@
     address: 1131 Longworth House Office Building Washington DC 20515-4401
     office: 1131 Longworth House Office Building
     phone: 202-225-0453
+    contact_form: stubforcwc
 - id:
     bioguide: O000086
     fec:
@@ -34713,6 +35039,7 @@
     ballotpedia: Burgess Owens
     pictorial: 13867
     votesmart: 191166
+    icpsr: 22146
   name:
     first: Clarence
     nickname: Burgess
@@ -34752,6 +35079,7 @@
     address: 309 Cannon House Office Building Washington DC 20515-4404
     office: 309 Cannon House Office Building
     phone: 202-225-3011
+    contact_form: stubforcwc
 - id:
     bioguide: S001159
     fec:
@@ -34764,6 +35092,7 @@
     pictorial: 13890
     votesmart: 80596
     ballotpedia: Marilyn Strickland
+    icpsr: 22153
   name:
     first: Marilyn
     last: Strickland
@@ -34802,6 +35131,7 @@
     address: 1724 Longworth House Office Building Washington DC 20515-4710
     office: 1724 Longworth House Office Building
     phone: 202-225-9740
+    contact_form: stubforcwc
 - id:
     bioguide: F000471
     fec:
@@ -34813,6 +35143,7 @@
     google_entity_id: kg:/m/03nvqsc
     votesmart: 3446
     pictorial: 13895
+    icpsr: 22115
   name:
     first: Scott
     middle: L.
@@ -34852,6 +35183,7 @@
     address: 2444 Rayburn House Office Building Washington DC 20515-4905
     office: 2444 Rayburn House Office Building
     phone: 202-225-5101
+    contact_form: stubforcwc
 - id:
     bioguide: P000145
     lis: S413
@@ -34864,6 +35196,7 @@
     ballotpedia: Alex Padilla
     votesmart: 59742
     pictorial: 13341
+    icpsr: 42104
   name:
     first: Alejandro
     nickname: Alex
@@ -34907,7 +35240,7 @@
     state_rank: senior
     party: Democrat
     url: https://www.padilla.senate.gov
-    contact_form: https://www.padilla.senate.gov/contact/
+    contact_form: https://www.padilla.senate.gov/contact/contact-form/
     address: 331 Hart Senate Office Building Washington DC 20510
     office: 331 Hart Senate Office Building
     phone: 202-224-3553
@@ -34924,7 +35257,8 @@
     ballotpedia: Jon Ossoff
     votesmart: 176134
     google_entity_id: kg:/g/11g6njlbw2
-    pictorial: 13342
+    pictorial: 11672
+    icpsr: 42103
   name:
     first: Jon
     last: Ossoff
@@ -34944,7 +35278,7 @@
     office: 317 Hart Senate Office Building
     phone: 202-224-3521
     url: https://www.ossoff.senate.gov
-    contact_form: https://www.ossoff.senate.gov/contact-us/
+    contact_form: https://www.ossoff.senate.gov/contact-us/message
 - id:
     bioguide: W000790
     lis: S415
@@ -34958,6 +35292,7 @@
     votesmart: 189794
     google_entity_id: kg:/g/11b5lw9q73
     pictorial: 13377
+    icpsr: 42105
   name:
     first: Raphael
     middle: Gamaliel
@@ -34988,7 +35323,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.warnock.senate.gov
-    contact_form: https://www.warnock.senate.gov/contact/
+    contact_form: https://www.warnock.senate.gov/contact/contact-form/
     address: 717 Hart Senate Office Building Washington DC 20510
     office: 717 Hart Senate Office Building
     phone: 202-224-3643
@@ -35056,6 +35391,7 @@
     address: 2230 Rayburn House Office Building Washington DC 20515-3224
     office: 2230 Rayburn House Office Building
     phone: 202-225-3665
+    contact_form: stubforcwc
 - id:
     bioguide: L000595
     fec:
@@ -35068,6 +35404,7 @@
     google_entity_id: kg:/g/11qq9ggdyw
     votesmart: 195745
     pictorial: 13641
+    icpsr: 22157
   name:
     first: Julia
     last: Letlow
@@ -35106,6 +35443,7 @@
     address: 142 Cannon House Office Building Washington DC 20515-1805
     office: 142 Cannon House Office Building
     phone: 202-225-8490
+    contact_form: stubforcwc
 - id:
     bioguide: C001125
     fec:
@@ -35117,6 +35455,7 @@
     ballotpedia: Troy Carter
     pictorial: 13638
     votesmart: 35462
+    icpsr: 22158
   name:
     first: Troy
     middle: Anthony
@@ -35156,6 +35495,7 @@
     address: 442 Cannon House Office Building Washington DC 20515-1802
     office: 442 Cannon House Office Building
     phone: 202-225-6636
+    contact_form: stubforcwc
 - id:
     bioguide: S001218
     fec:
@@ -35168,6 +35508,7 @@
     votesmart: 180789
     google_entity_id: kg:/g/11f_jwp_yr
     pictorial: 13730
+    icpsr: 22159
   name:
     first: Melanie
     middle: Ann
@@ -35207,6 +35548,7 @@
     address: 1421 Longworth House Office Building Washington DC 20515-3101
     office: 1421 Longworth House Office Building
     phone: 202-225-6316
+    contact_form: stubforcwc
 - id:
     bioguide: E000071
     fec:
@@ -35216,8 +35558,9 @@
     wikipedia: Jake Ellzey
     wikidata: Q105061782
     ballotpedia: Jake Ellzey
-    google_entity_id: kg:/g/11f0lw2cdc
+    google_entity_id: kg:/g/11lsr970tb
     pictorial: 13831
+    icpsr: 22160
   name:
     first: Jake
     last: Ellzey
@@ -35256,6 +35599,7 @@
     address: 1721 Longworth House Office Building Washington DC 20515-4306
     office: 1721 Longworth House Office Building
     phone: 202-225-2002
+    contact_form: stubforcwc
 - id:
     bioguide: B001313
     fec:
@@ -35268,6 +35612,7 @@
     google_entity_id: kg:/g/11pqpwbhlx
     votesmart: 161622
     ballotpedia: Shontel Brown
+    icpsr: 22161
   name:
     first: Shontel
     middle: M.
@@ -35307,6 +35652,7 @@
     address: 2455 Rayburn House Office Building Washington DC 20515-3511
     office: 2455 Rayburn House Office Building
     phone: 202-225-7032
+    contact_form: stubforcwc
 - id:
     bioguide: C001126
     fec:
@@ -35319,6 +35665,7 @@
     ballotpedia: Mike Carey (Ohio)
     google_entity_id: kg:/g/11q1q1bh32
     votesmart: 196349
+    icpsr: 22162
   name:
     first: Mike
     last: Carey
@@ -35357,6 +35704,7 @@
     address: 1433 Longworth House Office Building Washington DC 20515-3515
     office: 1433 Longworth House Office Building
     phone: 202-225-2015
+    contact_form: stubforcwc
 - id:
     bioguide: F000474
     fec:
@@ -35368,6 +35716,7 @@
     ballotpedia: Mike Flood
     votesmart: 41983
     pictorial: 13713
+    icpsr: 22166
   name:
     first: Mike
     last: Flood
@@ -35405,6 +35754,7 @@
     address: 343 Cannon House Office Building Washington DC 20515-2701
     office: 343 Cannon House Office Building
     phone: 202-225-4806
+    contact_form: stubforcwc
 - id:
     bioguide: F000475
     fec:
@@ -35417,6 +35767,7 @@
     votesmart: 38612
     pictorial: 13675
     google_entity_id: kg:/g/11fyyvmqc6
+    icpsr: 22167
   name:
     first: Brad
     last: Finstad
@@ -35455,6 +35806,7 @@
     address: 2418 Rayburn House Office Building Washington DC 20515-2301
     office: 2418 Rayburn House Office Building
     phone: 202-225-2472
+    contact_form: stubforcwc
 - id:
     bioguide: R000579
     fec:
@@ -35467,6 +35819,7 @@
     google_entity_id: kg:/g/11f892sjry
     votesmart: 180314
     pictorial: 13754
+    icpsr: 22169
   name:
     first: Patrick
     last: Ryan
@@ -35504,6 +35857,7 @@
     address: 1708 Longworth House Office Building Washington DC 20515-3218
     office: 1708 Longworth House Office Building
     phone: 202-225-5614
+    contact_form: stubforcwc
 - id:
     bioguide: Y000067
     fec:
@@ -35516,6 +35870,7 @@
     ballotpedia: Rudy Yakym
     pictorial: 13619
     google_entity_id: kg:/g/11t8khyc8f
+    icpsr: 22171
   name:
     first: Rudy
     last: Yakym
@@ -35555,6 +35910,7 @@
     address: 349 Cannon House Office Building Washington DC 20515-1402
     office: 349 Cannon House Office Building
     phone: 202-225-3915
+    contact_form: stubforcwc
 - id:
     bioguide: Z000018
     fec:
@@ -35569,6 +35925,7 @@
     votesmart: 104073
     pictorial: 13696
     ballotpedia: Ryan Zinke
+    icpsr: 21532
   name:
     first: Ryan
     last: Zinke
@@ -35619,6 +35976,7 @@
     address: 512 Cannon House Office Building Washington DC 20515-2600
     office: 512 Cannon House Office Building
     phone: 202-225-5628
+    contact_form: stubforcwc
 - id:
     bioguide: B001319
     lis: S416
@@ -35632,6 +35990,7 @@
     ballotpedia: Katie Britt
     votesmart: 201704
     pictorial: 13393
+    icpsr: 42300
   name:
     first: Katie
     middle: Elizabeth
@@ -35649,7 +36008,7 @@
     state_rank: junior
     party: Republican
     url: https://www.britt.senate.gov
-    contact_form: https://www.britt.senate.gov/contact/
+    contact_form: https://www.britt.senate.gov/share-your-opinion/
     address: 416 Russell Senate Office Building Washington DC 20510
     office: 416 Russell Senate Office Building
     phone: 202-224-5744
@@ -35665,6 +36024,7 @@
     ballotpedia: Eric Schmitt
     votesmart: 104474
     pictorial: 13416
+    icpsr: 42303
   name:
     first: Eric
     middle: Stephen
@@ -35682,7 +36042,7 @@
     state_rank: junior
     party: Republican
     url: https://www.schmitt.senate.gov
-    contact_form: https://www.schmitt.senate.gov/contact/
+    contact_form: https://www.schmitt.senate.gov/share-your-opinion/
     address: 404 Russell Senate Office Building Washington DC 20510
     office: 404 Russell Senate Office Building
     phone: 202-224-5721
@@ -35698,6 +36058,7 @@
     votesmart: 166286
     ballotpedia: John Fetterman
     pictorial: 13366
+    icpsr: 42301
   name:
     first: John
     middle: Karl
@@ -35731,6 +36092,7 @@
     pictorial: 13468
     ballotpedia: Dale Strong
     google_entity_id: kg:/g/11pwq013g6
+    icpsr: 22366
   name:
     first: Dale
     last: Strong
@@ -35759,6 +36121,7 @@
     address: 449 Cannon House Office Building Washington DC 20515-0105
     office: 449 Cannon House Office Building
     phone: 202-225-4801
+    contact_form: stubforcwc
 - id:
     bioguide: C001132
     fec:
@@ -35771,6 +36134,7 @@
     votesmart: 205885
     pictorial: 13477
     google_entity_id: kg:/g/11q8yhkkg8
+    icpsr: 22311
   name:
     first: Eli
     last: Crane
@@ -35799,6 +36163,7 @@
     address: 307 Cannon House Office Building Washington DC 20515-0302
     office: 307 Cannon House Office Building
     phone: 202-225-3361
+    contact_form: stubforcwc
 - id:
     bioguide: C001133
     fec:
@@ -35811,6 +36176,7 @@
     pictorial: 13481
     ballotpedia: Juan Ciscomani
     google_entity_id: kg:/g/11rwlm4mv5
+    icpsr: 22309
   name:
     first: Juan
     middle: Guadaloupe
@@ -35840,6 +36206,7 @@
     address: 461 Cannon House Office Building Washington DC 20515-0306
     office: 461 Cannon House Office Building
     phone: 202-225-2542
+    contact_form: stubforcwc
 - id:
     bioguide: K000401
     fec:
@@ -35890,6 +36257,7 @@
     address: 2445 Rayburn House Office Building Washington DC 20515-0503
     office: 2445 Rayburn House Office Building
     phone: 202-225-2523
+    contact_form: stubforcwc
 - id:
     bioguide: M001225
     fec:
@@ -35901,6 +36269,7 @@
     votesmart: 105586
     pictorial: 13499
     ballotpedia: Kevin Mullin (California)
+    icpsr: 22354
   name:
     first: Kevin
     last: Mullin
@@ -35929,6 +36298,7 @@
     address: 1404 Longworth House Office Building Washington DC 20515-0515
     office: 1404 Longworth House Office Building
     phone: 202-225-3531
+    contact_form: stubforcwc
 - id:
     bioguide: K000400
     fec:
@@ -35940,6 +36310,7 @@
     ballotpedia: Sydney Kamlager-Dove
     votesmart: 178079
     pictorial: 13521
+    icpsr: 22333
   name:
     first: Sydney
     middle: Kai
@@ -35969,6 +36340,7 @@
     address: 144 Cannon House Office Building Washington DC 20515-0537
     office: 144 Cannon House Office Building
     phone: 202-225-7084
+    contact_form: stubforcwc
 - id:
     bioguide: G000598
     fec:
@@ -35980,6 +36352,7 @@
     votesmart: 29749
     pictorial: 13526
     ballotpedia: Robert Garcia (California)
+    icpsr: 22323
   name:
     first: Robert
     middle: Julio
@@ -36009,6 +36382,7 @@
     address: 109 Cannon House Office Building Washington DC 20515-0542
     office: 109 Cannon House Office Building
     phone: 202-225-7924
+    contact_form: stubforcwc
 - id:
     bioguide: P000620
     fec:
@@ -36020,6 +36394,7 @@
     votesmart: 138744
     pictorial: 13543
     ballotpedia: Brittany Pettersen
+    icpsr: 22359
   name:
     first: Brittany
     middle: Louise
@@ -36049,6 +36424,7 @@
     address: 348 Cannon House Office Building Washington DC 20515-0607
     office: 348 Cannon House Office Building
     phone: 202-225-2645
+    contact_form: stubforcwc
 - id:
     bioguide: B001314
     fec:
@@ -36060,6 +36436,7 @@
     votesmart: 53932
     pictorial: 13554
     ballotpedia: Aaron Bean
+    icpsr: 22302
   name:
     first: Aaron
     middle: Paul
@@ -36089,6 +36466,7 @@
     address: 2459 Rayburn House Office Building Washington DC 20515-0904
     office: 2459 Rayburn House Office Building
     phone: 202-225-0123
+    contact_form: stubforcwc
 - id:
     bioguide: M001216
     fec:
@@ -36101,6 +36479,7 @@
     pictorial: 13556
     google_entity_id: kg:/g/11lkx217y6
     ballotpedia: Cory Mills
+    icpsr: 22350
   name:
     first: Cory
     last: Mills
@@ -36129,6 +36508,7 @@
     address: 346 Cannon House Office Building Washington DC 20515-0907
     office: 346 Cannon House Office Building
     phone: 202-225-4035
+    contact_form: stubforcwc
 - id:
     bioguide: F000476
     fec:
@@ -36141,6 +36521,7 @@
     votesmart: 209096
     pictorial: 13559
     ballotpedia: Maxwell Alejandro Frost
+    icpsr: 22321
   name:
     first: Maxwell
     middle: Alejandro
@@ -36170,6 +36551,7 @@
     address: 1224 Longworth House Office Building Washington DC 20515-0910
     office: 1224 Longworth House Office Building
     phone: 202-225-2176
+    contact_form: stubforcwc
 - id:
     bioguide: L000596
     fec:
@@ -36182,6 +36564,7 @@
     ballotpedia: Anna Paulina Luna
     pictorial: 13562
     google_entity_id: kg:/g/11t46lj9rw
+    icpsr: 22343
   name:
     first: Anna
     middle: Paulina
@@ -36211,6 +36594,7 @@
     address: 226 Cannon House Office Building Washington DC 20515-0913
     office: 226 Cannon House Office Building
     phone: 202-225-5961
+    contact_form: stubforcwc
 - id:
     bioguide: L000597
     fec:
@@ -36223,6 +36607,7 @@
     votesmart: 186114
     pictorial: 13564
     ballotpedia: Laurel Lee
+    icpsr: 22341
   name:
     first: Laurel
     middle: Frances
@@ -36252,6 +36637,7 @@
     address: 2464 Rayburn House Office Building Washington DC 20515-0915
     office: 2464 Rayburn House Office Building
     phone: 202-225-5626
+    contact_form: stubforcwc
 - id:
     bioguide: M001217
     fec:
@@ -36263,6 +36649,7 @@
     votesmart: 138155
     pictorial: 13572
     ballotpedia: Jared Moskowitz
+    icpsr: 22353
   name:
     first: Jared
     middle: Evan
@@ -36292,6 +36679,7 @@
     address: 242 Cannon House Office Building Washington DC 20515-0923
     office: 242 Cannon House Office Building
     phone: 202-225-3001
+    contact_form: stubforcwc
 - id:
     bioguide: M001218
     fec:
@@ -36304,6 +36692,7 @@
     pictorial: 13584
     google_entity_id: kg:/g/11h4hhl04s
     ballotpedia: Rich McCormick
+    icpsr: 22346
   name:
     first: Rich
     middle: Dean
@@ -36333,6 +36722,7 @@
     address: 1719 Longworth House Office Building Washington DC 20515-1007
     office: 1719 Longworth House Office Building
     phone: 202-225-4272
+    contact_form: stubforcwc
 - id:
     bioguide: C001129
     fec:
@@ -36345,6 +36735,7 @@
     pictorial: 13587
     google_entity_id: kg:/g/11nnr438zm
     ballotpedia: Mike Collins (Georgia)
+    icpsr: 22310
   name:
     first: Mike
     middle: Allen
@@ -36375,6 +36766,7 @@
     address: 2351 Rayburn House Office Building Washington DC 20515-1010
     office: 2351 Rayburn House Office Building
     phone: 202-225-4101
+    contact_form: stubforcwc
 - id:
     bioguide: M001219
     fec:
@@ -36386,6 +36778,7 @@
     ballotpedia: James Moylan
     pictorial: 13592
     google_entity_id: kg:/g/11kl4fdd3q
+    icpsr: 22373
   name:
     first: James (Jim)
     middle: Camacho
@@ -36426,6 +36819,7 @@
     votesmart: 68493
     pictorial: 13594
     ballotpedia: Jill Tokuda
+    icpsr: 22369
   name:
     first: Jill
     middle: Naomi
@@ -36455,6 +36849,7 @@
     address: 1027 Longworth House Office Building Washington DC 20515-1102
     office: 1027 Longworth House Office Building
     phone: 202-225-4906
+    contact_form: stubforcwc
 - id:
     bioguide: N000193
     fec:
@@ -36467,6 +36862,7 @@
     ballotpedia: Zach Nunn
     pictorial: 13597
     google_entity_id: kg:/g/11c1njl2m9
+    icpsr: 22356
   name:
     first: Zachary (Zach)
     middle: Martin
@@ -36496,6 +36892,7 @@
     address: 1410 Longworth House Office Building Washington DC 20515-1503
     office: 1410 Longworth House Office Building
     phone: 202-225-5476
+    contact_form: stubforcwc
 - id:
     bioguide: J000309
     fec:
@@ -36507,6 +36904,7 @@
     votesmart: 204284
     pictorial: 13601
     ballotpedia: Jonathan Jackson (Illinois)
+    icpsr: 22330
   name:
     first: Jonathan
     middle: Luther
@@ -36536,6 +36934,7 @@
     address: 1632 Longworth House Office Building Washington DC 20515-1301
     office: 1632 Longworth House Office Building
     phone: 202-225-4372
+    contact_form: stubforcwc
 - id:
     bioguide: R000617
     fec:
@@ -36548,6 +36947,7 @@
     votesmart: 177128
     pictorial: 13603
     ballotpedia: Delia Ramirez
+    icpsr: 22360
   name:
     first: Delia
     middle: Catalina
@@ -36577,6 +36977,7 @@
     address: 1523 Longworth House Office Building Washington DC 20515-1303
     office: 1523 Longworth House Office Building
     phone: 202-225-5701
+    contact_form: stubforcwc
 - id:
     bioguide: B001315
     fec:
@@ -36589,6 +36990,7 @@
     pictorial: 13613
     google_entity_id: kg:/g/11rxhx_k14
     ballotpedia: Nikki Budzinski
+    icpsr: 22304
   name:
     first: Nicole (Nikki)
     middle: Jai
@@ -36618,6 +37020,7 @@
     address: 1717 Longworth House Office Building Washington DC 20515-1313
     office: 1717 Longworth House Office Building
     phone: 202-225-2371
+    contact_form: stubforcwc
 - id:
     bioguide: S001225
     fec:
@@ -36630,6 +37033,7 @@
     pictorial: 13617
     google_entity_id: kg:/g/11pd33ph93
     ballotpedia: Eric Sorensen
+    icpsr: 22365
   name:
     first: Eric
     last: Sorensen
@@ -36658,6 +37062,7 @@
     address: 1314 Longworth House Office Building Washington DC 20515-1317
     office: 1314 Longworth House Office Building
     phone: 202-225-5905
+    contact_form: stubforcwc
 - id:
     bioguide: H001093
     fec:
@@ -36670,6 +37075,7 @@
     votesmart: 149614
     pictorial: 13626
     ballotpedia: Erin Houchin
+    icpsr: 22326
   name:
     first: Erin
     middle: Suzanne
@@ -36699,6 +37105,7 @@
     address: 342 Cannon House Office Building Washington DC 20515-1409
     office: 342 Cannon House Office Building
     phone: 202-225-5315
+    contact_form: stubforcwc
 - id:
     bioguide: M001220
     fec:
@@ -36710,6 +37117,7 @@
     votesmart: 139826
     pictorial: 13633
     ballotpedia: Morgan McGarvey
+    icpsr: 22347
   name:
     first: Morgan
     last: McGarvey
@@ -36738,6 +37146,7 @@
     address: 1527 Longworth House Office Building Washington DC 20515-1703
     office: 1527 Longworth House Office Building
     phone: 202-225-5401
+    contact_form: stubforcwc
 - id:
     bioguide: I000058
     fec:
@@ -36750,6 +37159,7 @@
     votesmart: 166279
     pictorial: 13655
     ballotpedia: Glenn Ivey
+    icpsr: 22329
   name:
     first: Glenn
     middle: Frederick
@@ -36779,6 +37189,7 @@
     address: 1610 Longworth House Office Building Washington DC 20515-2004
     office: 1610 Longworth House Office Building
     phone: 202-225-8699
+    contact_form: stubforcwc
 - id:
     bioguide: S001221
     fec:
@@ -36791,6 +37202,7 @@
     pictorial: 13664
     google_entity_id: kg:/g/11j2tyrlxq
     ballotpedia: Hillary Scholten
+    icpsr: 22363
   name:
     first: Hillary
     middle: Jeanne
@@ -36820,6 +37232,7 @@
     address: 1317 Longworth House Office Building Washington DC 20515-2203
     office: 1317 Longworth House Office Building
     phone: 202-225-3831
+    contact_form: stubforcwc
 - id:
     bioguide: J000307
     fec:
@@ -36832,6 +37245,7 @@
     ballotpedia: John James (Michigan)
     votesmart: 181062
     pictorial: 13671
+    icpsr: 22332
   name:
     first: John
     middle: Edwards
@@ -36861,6 +37275,7 @@
     address: 1519 Longworth House Office Building Washington DC 20515-2210
     office: 1519 Longworth House Office Building
     phone: 202-225-4961
+    contact_form: stubforcwc
 - id:
     bioguide: T000488
     fec:
@@ -36872,6 +37287,7 @@
     ballotpedia: Shri Thanedar
     votesmart: 182346
     pictorial: 13674
+    icpsr: 22368
   name:
     first: Shri
     last: Thanedar
@@ -36900,6 +37316,7 @@
     address: 154 Cannon House Office Building Washington DC 20515-2213
     office: 154 Cannon House Office Building
     phone: 202-225-5802
+    contact_form: stubforcwc
 - id:
     bioguide: A000379
     fec:
@@ -36911,6 +37328,7 @@
     votesmart: 205858
     pictorial: 13686
     ballotpedia: Mark Alford
+    icpsr: 22300
   name:
     first: Mark
     middle: Allen
@@ -36940,6 +37358,7 @@
     address: 328 Cannon House Office Building Washington DC 20515-2504
     office: 328 Cannon House Office Building
     phone: 202-225-2876
+    contact_form: stubforcwc
 - id:
     bioguide: B001316
     fec:
@@ -36951,6 +37370,7 @@
     votesmart: 104635
     ballotpedia: Eric Burlison
     pictorial: 13689
+    icpsr: 22305
   name:
     first: Eric
     middle: Wayne
@@ -36980,6 +37400,7 @@
     address: 1108 Longworth House Office Building Washington DC 20515-2507
     office: 1108 Longworth House Office Building
     phone: 202-225-6536
+    contact_form: stubforcwc
 - id:
     bioguide: E000235
     fec:
@@ -36992,6 +37413,7 @@
     pictorial: 13695
     google_entity_id: kg:/g/11nfmh8y4w
     ballotpedia: Mike Ezell
+    icpsr: 22319
   name:
     first: Mike
     last: Ezell
@@ -37020,6 +37442,7 @@
     address: 443 Cannon House Office Building Washington DC 20515-2404
     office: 443 Cannon House Office Building
     phone: 202-225-5772
+    contact_form: stubforcwc
 - id:
     bioguide: D000230
     fec:
@@ -37031,6 +37454,7 @@
     votesmart: 102950
     pictorial: 13698
     ballotpedia: Donald Davis
+    icpsr: 22314
   name:
     first: Donald
     middle: Gene
@@ -37060,6 +37484,7 @@
     address: 1123 Longworth House Office Building Washington DC 20515-3301
     office: 1123 Longworth House Office Building
     phone: 202-225-3101
+    contact_form: stubforcwc
 - id:
     bioguide: F000477
     fec:
@@ -37071,6 +37496,7 @@
     votesmart: 93091
     pictorial: 13701
     ballotpedia: Valerie Foushee
+    icpsr: 22320
   name:
     first: Valerie
     middle: Jean
@@ -37100,6 +37526,7 @@
     address: 2452 Rayburn House Office Building Washington DC 20515-3304
     office: 2452 Rayburn House Office Building
     phone: 202-225-1784
+    contact_form: stubforcwc
 - id:
     bioguide: E000246
     fec:
@@ -37112,6 +37539,7 @@
     votesmart: 166600
     pictorial: 13708
     ballotpedia: Chuck Edwards
+    icpsr: 22318
   name:
     first: Charles (Chuck)
     middle: Marion
@@ -37141,6 +37569,7 @@
     address: 1505 Longworth House Office Building Washington DC 20515-3311
     office: 1505 Longworth House Office Building
     phone: 202-225-6401
+    contact_form: stubforcwc
 - id:
     bioguide: K000398
     fec:
@@ -37152,6 +37581,7 @@
     ballotpedia: Thomas Kean Jr.
     votesmart: 43250
     pictorial: 13724
+    icpsr: 22334
   name:
     first: Thomas
     middle: Howard
@@ -37182,6 +37612,7 @@
     address: 251 Cannon House Office Building Washington DC 20515-3007
     office: 251 Cannon House Office Building
     phone: 202-225-5361
+    contact_form: stubforcwc
 - id:
     bioguide: M001226
     fec:
@@ -37194,6 +37625,7 @@
     pictorial: 13725
     ballotpedia: Rob Menendez (New Jersey)
     google_entity_id: kg:/g/11snp9md7d
+    icpsr: 22348
   name:
     first: Robert
     middle: Jacobsen
@@ -37224,6 +37656,7 @@
     address: 2453 Rayburn House Office Building Washington DC 20515-3008
     office: 2453 Rayburn House Office Building
     phone: 202-225-7919
+    contact_form: stubforcwc
 - id:
     bioguide: V000136
     fec:
@@ -37236,6 +37669,7 @@
     pictorial: 13731
     ballotpedia: Gabriel Vasquez
     google_entity_id: kg:/g/11fyycr8z5
+    icpsr: 22371
   name:
     first: Gabriel (Gabe)
     last: Vasquez
@@ -37264,6 +37698,7 @@
     address: 322 Cannon House Office Building Washington DC 20515-3102
     office: 322 Cannon House Office Building
     phone: 202-225-2365
+    contact_form: stubforcwc
 - id:
     bioguide: L000598
     fec:
@@ -37275,6 +37710,7 @@
     votesmart: 191957
     pictorial: 13737
     ballotpedia: Nicholas J. LaLota
+    icpsr: 22337
   name:
     first: Nicolas
     middle: Joseph
@@ -37304,6 +37740,7 @@
     address: 122 Cannon House Office Building Washington DC 20515-3201
     office: 122 Cannon House Office Building
     phone: 202-225-3826
+    contact_form: stubforcwc
 - id:
     bioguide: G000599
     fec:
@@ -37316,6 +37753,7 @@
     votesmart: 208627
     pictorial: 13746
     ballotpedia: Daniel Goldman
+    icpsr: 22324
   name:
     first: Dan
     middle: Sachs
@@ -37345,6 +37783,7 @@
     address: 245 Cannon House Office Building Washington DC 20515-3210
     office: 245 Cannon House Office Building
     phone: 202-225-7944
+    contact_form: stubforcwc
 - id:
     bioguide: L000599
     fec:
@@ -37357,6 +37796,7 @@
     votesmart: 192271
     pictorial: 13753
     ballotpedia: Michael Lawler (New York)
+    icpsr: 22340
   name:
     first: Michael
     middle: Vincent
@@ -37386,6 +37826,7 @@
     address: 324 Cannon House Office Building Washington DC 20515-3217
     office: 324 Cannon House Office Building
     phone: 202-225-6506
+    contact_form: stubforcwc
 - id:
     bioguide: L000600
     fec:
@@ -37398,6 +37839,7 @@
     votesmart: 208663
     pictorial: 13759
     ballotpedia: Nick Langworthy
+    icpsr: 22339
   name:
     first: Nicholas
     middle: A.
@@ -37427,6 +37869,7 @@
     address: 422 Cannon House Office Building Washington DC 20515-3223
     office: 422 Cannon House Office Building
     phone: 202-225-3161
+    contact_form: stubforcwc
 - id:
     bioguide: L000601
     fec:
@@ -37439,6 +37882,7 @@
     google_entity_id: kg:/g/11rn585y5q
     pictorial: 13763
     ballotpedia: Greg Landsman
+    icpsr: 22338
   name:
     first: Greg
     middle: John
@@ -37468,6 +37912,7 @@
     address: 2244 Rayburn House Office Building Washington DC 20515-3501
     office: 2244 Rayburn House Office Building
     phone: 202-225-2216
+    contact_form: stubforcwc
 - id:
     bioguide: M001222
     fec:
@@ -37480,6 +37925,7 @@
     pictorial: 13769
     google_entity_id: kg:/g/11gtz3n8gr
     ballotpedia: Max Miller
+    icpsr: 22349
   name:
     first: Max
     middle: Leonard
@@ -37509,6 +37955,7 @@
     address: 143 Cannon House Office Building Washington DC 20515-3507
     office: 143 Cannon House Office Building
     phone: 202-225-3876
+    contact_form: stubforcwc
 - id:
     bioguide: S001223
     fec:
@@ -37520,6 +37967,7 @@
     votesmart: 152164
     pictorial: 13775
     ballotpedia: Emilia Sykes
+    icpsr: 22367
   name:
     first: Emilia
     middle: Strong
@@ -37549,6 +37997,7 @@
     address: 1217 Longworth House Office Building Washington DC 20515-3513
     office: 1217 Longworth House Office Building
     phone: 202-225-6265
+    contact_form: stubforcwc
 - id:
     bioguide: B001317
     fec:
@@ -37560,6 +38009,7 @@
     votesmart: 124973
     pictorial: 13779
     ballotpedia: Josh Brecheen
+    icpsr: 22303
   name:
     first: Josh
     middle: Chad
@@ -37589,6 +38039,7 @@
     address: 351 Cannon House Office Building Washington DC 20515-3602
     office: 351 Cannon House Office Building
     phone: 202-225-2701
+    contact_form: stubforcwc
 - id:
     bioguide: H001094
     fec:
@@ -37600,6 +38051,7 @@
     votesmart: 116336
     ballotpedia: Val Hoyle
     pictorial: 13786
+    icpsr: 22327
   name:
     first: Valerie
     middle: Anne
@@ -37630,6 +38082,7 @@
     address: 1620 Longworth House Office Building Washington DC 20515-3704
     office: 1620 Longworth House Office Building
     phone: 202-225-6416
+    contact_form: stubforcwc
 - id:
     bioguide: S001226
     fec:
@@ -37642,6 +38095,7 @@
     votesmart: 178196
     pictorial: 13788
     ballotpedia: Andrea Salinas
+    icpsr: 22361
   name:
     first: Andrea
     middle: Rose
@@ -37671,6 +38125,7 @@
     address: 403 Cannon House Office Building Washington DC 20515-0001
     office: 403 Cannon House Office Building
     phone: 202-225-5643
+    contact_form: stubforcwc
 - id:
     bioguide: L000602
     fec:
@@ -37683,6 +38138,7 @@
     ballotpedia: Summer Lee
     votesmart: 179240
     pictorial: 13800
+    icpsr: 22342
   name:
     first: Summer
     middle: Lynn
@@ -37712,6 +38168,7 @@
     address: 2437 Rayburn House Office Building Washington DC 20515-3812
     office: 2437 Rayburn House Office Building
     phone: 202-225-2135
+    contact_form: stubforcwc
 - id:
     bioguide: D000530
     fec:
@@ -37724,6 +38181,7 @@
     pictorial: 13805
     google_entity_id: kg:/g/11qgyjrb66
     ballotpedia: Chris Deluzio
+    icpsr: 22316
   name:
     first: Chris
     middle: Raphael
@@ -37753,6 +38211,7 @@
     address: 1222 Longworth House Office Building Washington DC 20515-3817
     office: 1222 Longworth House Office Building
     phone: 202-225-2301
+    contact_form: stubforcwc
 - id:
     bioguide: M001223
     fec:
@@ -37764,6 +38223,7 @@
     votesmart: 154457
     pictorial: 13808
     ballotpedia: Seth Magaziner
+    icpsr: 22345
   name:
     first: Seth
     middle: Michael
@@ -37793,6 +38253,7 @@
     address: 252 Cannon House Office Building Washington DC 20515-3902
     office: 252 Cannon House Office Building
     phone: 202-225-2735
+    contact_form: stubforcwc
 - id:
     bioguide: F000478
     fec:
@@ -37804,6 +38265,7 @@
     google_entity_id: kg:/g/11f0r9q6_r
     votesmart: 157265
     pictorial: 13815
+    icpsr: 22322
   name:
     first: Russell
     middle: William
@@ -37833,6 +38295,7 @@
     address: 345 Cannon House Office Building Washington DC 20515-4007
     office: 345 Cannon House Office Building
     phone: 202-225-9895
+    contact_form: stubforcwc
 - id:
     bioguide: O000175
     fec:
@@ -37845,6 +38308,7 @@
     ballotpedia: Andy Ogles
     pictorial: 13821
     google_entity_id: kg:/g/11sw_sm6s3
+    icpsr: 22357
   name:
     first: Andrew
     last: Ogles
@@ -37874,6 +38338,7 @@
     address: 151 Cannon House Office Building Washington DC 20515-4205
     office: 151 Cannon House Office Building
     phone: 202-225-4311
+    contact_form: stubforcwc
 - id:
     bioguide: M001224
     fec:
@@ -37886,6 +38351,7 @@
     ballotpedia: Nathaniel Moran
     pictorial: 13826
     google_entity_id: kg:/g/11sg_0fb9w
+    icpsr: 22352
   name:
     first: Nathaniel
     middle: Quentin
@@ -37915,6 +38381,7 @@
     address: 1605 Longworth House Office Building Washington DC 20515-4301
     office: 1605 Longworth House Office Building
     phone: 202-225-3035
+    contact_form: stubforcwc
 - id:
     bioguide: S001224
     fec:
@@ -37927,6 +38394,7 @@
     ballotpedia: Keith Self
     google_entity_id: kg:/g/11s0s133nc
     pictorial: 13828
+    icpsr: 22364
   name:
     first: Keith
     middle: Alan
@@ -37956,6 +38424,7 @@
     address: 1030 Longworth House Office Building Washington DC 20515-4303
     office: 1030 Longworth House Office Building
     phone: 202-225-4201
+    contact_form: stubforcwc
 - id:
     bioguide: L000603
     fec:
@@ -37967,6 +38436,7 @@
     votesmart: 200930
     pictorial: 13833
     google_entity_id: kg:/g/11rg60_s4f
+    icpsr: 22344
   name:
     first: Morgan
     middle: Joe
@@ -37996,6 +38466,7 @@
     address: 444 Cannon House Office Building Washington DC 20515-4308
     office: 444 Cannon House Office Building
     phone: 202-225-4901
+    contact_form: stubforcwc
 - id:
     bioguide: D000594
     fec:
@@ -38008,6 +38479,7 @@
     pictorial: 13840
     ballotpedia: Monica De La Cruz
     google_entity_id: kg:/g/11j2j0jd0z
+    icpsr: 22315
   name:
     first: Mónica
     last: De La Cruz
@@ -38036,6 +38508,7 @@
     address: 1415 Longworth House Office Building Washington DC 20515-4315
     office: 1415 Longworth House Office Building
     phone: 202-225-9901
+    contact_form: stubforcwc
 - id:
     bioguide: C001130
     fec:
@@ -38048,6 +38521,7 @@
     votesmart: 188486
     pictorial: 13855
     ballotpedia: Jasmine Crockett
+    icpsr: 22312
   name:
     first: Jasmine
     middle: Felicia
@@ -38077,6 +38551,7 @@
     address: 1616 Longworth House Office Building Washington DC 20515-4330
     office: 1616 Longworth House Office Building
     phone: 202-225-8885
+    contact_form: stubforcwc
 - id:
     bioguide: C001131
     fec:
@@ -38088,6 +38563,7 @@
     google_entity_id: kg:/g/11fl9pbltx
     votesmart: 161953
     pictorial: 13860
+    icpsr: 22307
   name:
     first: Gregorio
     middle: Eduardo
@@ -38117,6 +38593,7 @@
     address: 446 Cannon House Office Building Washington DC 20515-4335
     office: 446 Cannon House Office Building
     phone: 202-225-5645
+    contact_form: stubforcwc
 - id:
     bioguide: H001095
     fec:
@@ -38129,6 +38606,7 @@
     ballotpedia: Wesley Hunt (Texas Congress)
     pictorial: 13863
     google_entity_id: kg:/g/11fs4rfr_9
+    icpsr: 22328
   name:
     first: Wesley
     middle: Parish
@@ -38158,6 +38636,7 @@
     address: 1520 Longworth House Office Building Washington DC 20515-0001
     office: 1520 Longworth House Office Building
     phone: 202-225-5646
+    contact_form: stubforcwc
 - id:
     bioguide: K000399
     fec:
@@ -38170,6 +38649,7 @@
     votesmart: 186387
     pictorial: 13869
     ballotpedia: Jennifer Kiggans
+    icpsr: 22335
   name:
     first: Jennifer
     middle: Ann
@@ -38199,6 +38679,7 @@
     address: 152 Cannon House Office Building Washington DC 20515-4602
     office: 152 Cannon House Office Building
     phone: 202-225-4215
+    contact_form: stubforcwc
 - id:
     bioguide: B001318
     fec:
@@ -38211,6 +38692,7 @@
     votesmart: 154056
     pictorial: 13945
     ballotpedia: Becca Balint
+    icpsr: 22301
   name:
     first: Becca
     middle: A.
@@ -38240,6 +38722,7 @@
     address: 1510 Longworth House Office Building Washington DC 20515-4500
     office: 1510 Longworth House Office Building
     phone: 202-225-4115
+    contact_form: stubforcwc
 - id:
     bioguide: G000600
     fec:
@@ -38252,6 +38735,7 @@
     ballotpedia: Marie Gluesenkamp Perez
     votesmart: 207307
     pictorial: 13883
+    icpsr: 22358
   name:
     first: Marie
     last: Gluesenkamp Perez
@@ -38280,6 +38764,7 @@
     address: 1431 Longworth House Office Building Washington DC 20515-4703
     office: 1431 Longworth House Office Building
     phone: 202-225-3536
+    contact_form: stubforcwc
 - id:
     bioguide: V000135
     fec:
@@ -38292,6 +38777,7 @@
     ballotpedia: Derrick Van Orden
     votesmart: 192343
     pictorial: 13893
+    icpsr: 22370
   name:
     first: Derrick
     middle: Francis
@@ -38321,6 +38807,7 @@
     address: 1513 Longworth House Office Building Washington DC 20515-4903
     office: 1513 Longworth House Office Building
     phone: 202-225-5506
+    contact_form: stubforcwc
 - id:
     bioguide: H001096
     fec:
@@ -38333,6 +38820,7 @@
     ballotpedia: Harriet Hageman
     votesmart: 182961
     pictorial: 13901
+    icpsr: 22325
   name:
     first: Harriet
     middle: Maxine
@@ -38362,6 +38850,7 @@
     address: 1227 Longworth House Office Building Washington DC 20515-5000
     office: 1227 Longworth House Office Building
     phone: 202-225-2311
+    contact_form: stubforcwc
 - id:
     bioguide: R000618
     lis: S423
@@ -38409,7 +38898,7 @@
     address: 139 Russell Senate Office Building Washington DC 20510
     office: 139 Russell Senate Office Building
     phone: 202-224-4224
-    contact_form: https://www.ricketts.senate.gov/contact/
+    contact_form: https://www.ricketts.senate.gov/share-your-opinion/
 - id:
     bioguide: M001227
     fec:
@@ -38421,6 +38910,7 @@
     ballotpedia: Jennifer McClellan
     votesmart: 58655
     pictorial: 13871
+    icpsr: 22374
   name:
     first: Jennifer
     last: McClellan
@@ -38449,6 +38939,7 @@
     address: 1628 Longworth House Office Building Washington DC 20515-4604
     office: 1628 Longworth House Office Building
     phone: 202-225-6365
+    contact_form: stubforcwc
 - id:
     bioguide: A000380
     fec:
@@ -38461,6 +38952,7 @@
     pictorial: 13807
     google_entity_id: kg:/g/11gbhzs7wg
     votesmart: 212295
+    icpsr: 22375
   name:
     first: Gabe
     last: Amo
@@ -38489,6 +38981,7 @@
     address: 1119 Longworth House Office Building Washington DC 20515-3901
     office: 1119 Longworth House Office Building
     phone: 202-225-4911
+    contact_form: stubforcwc
 - id:
     bioguide: M001228
     fec:
@@ -38501,6 +38994,7 @@
     pictorial: 13865
     votesmart: 212289
     google_entity_id: kg:/g/11svnq8sm0
+    icpsr: 22376
   name:
     first: Celeste
     last: Maloy
@@ -38529,6 +39023,7 @@
     address: 249 Cannon House Office Building Washington DC 20515-4402
     office: 249 Cannon House Office Building
     phone: 202-225-9730
+    contact_form: stubforcwc
 - id:
     bioguide: S001201
     govtrack: 412717
@@ -38604,6 +39099,7 @@
     address: 203 Cannon House Office Building Washington DC 20515-3203
     office: 203 Cannon House Office Building
     phone: 202-225-3335
+    contact_form: https://suozzi.house.gov/contact/email
 - id:
     bioguide: K000402
     govtrack: 456957
@@ -38617,6 +39113,7 @@
     cspan: 134035
     ballotpedia: Timothy M. Kennedy
     pictorial: 13762
+    icpsr: 22377
   name:
     first: Timothy
     last: Kennedy
@@ -38645,6 +39142,7 @@
     address: 423 Cannon House Office Building Washington DC 20515-3226
     office: 423 Cannon House Office Building
     phone: 202-225-3306
+    contact_form: stubforcwc
 - id:
     bioguide: F000480
     fec:
@@ -38657,6 +39155,7 @@
     votesmart: 169357
     google_entity_id: kg:/g/11c2j7h04f
     pictorial: 13504
+    icpsr: 22378
   name:
     first: Vince
     last: Fong
@@ -38685,6 +39184,7 @@
     address: 243 Cannon House Office Building Washington DC 20515-0520
     office: 243 Cannon House Office Building
     phone: 202-225-2915
+    contact_form: stubforcwc
 - id:
     bioguide: R000619
     fec:
@@ -38697,6 +39197,7 @@
     ballotpedia: Michael Rulli
     google_entity_id: kg:/g/11h6rxp1lx
     pictorial: 13768
+    icpsr: 22379
   name:
     first: Michael
     middle: A.
@@ -38726,6 +39227,7 @@
     address: 421 Cannon House Office Building Washington DC 20515-3506
     office: 421 Cannon House Office Building
     phone: 202-225-5705
+    contact_form: stubforcwc
 - id:
     bioguide: M001229
     fec:
@@ -38738,6 +39240,7 @@
     ballotpedia: LaMonica McIver
     google_entity_id: kg:/g/11y4ln1tqy
     pictorial: 13727
+    icpsr: 22381
   name:
     first: LaMonica
     last: McIver
@@ -38767,6 +39270,7 @@
     address: 426 Cannon House Office Building Washington DC 20515-3010
     office: 426 Cannon House Office Building
     phone: 202-225-3436
+    contact_form: stubforcwc
 - id:
     bioguide: W000829
     fec:
@@ -38778,6 +39282,7 @@
     ballotpedia: Tony Wied
     votesmart: 218131
     pictorial: 13898
+    icpsr: 22383
   name:
     first: Tony
     last: Wied
@@ -38851,6 +39356,7 @@
     office: 2349 Rayburn House Office Building
     phone: 202-225-3901
     url: https://fields.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: S001188
     thomas: '01981'
@@ -38933,6 +39439,7 @@
     address: 404 Cannon House Office Building Washington DC 20515-1403
     office: 404 Cannon House Office Building
     phone: 202-225-4436
+    contact_form: stubforcwc
 - id:
     bioguide: C001123
     fec:
@@ -38976,6 +39483,7 @@
     address: 2463 Rayburn House Office Building Washington DC 20515-0531
     office: 2463 Rayburn House Office Building
     phone: 202-225-5256
+    contact_form: stubforcwc
 - id:
     bioguide: A000382
     lis: S428
@@ -38988,6 +39496,7 @@
     votesmart: 212637
     ballotpedia: Angela Alsobrooks
     google_entity_id: kg:/g/11fhksj8jt
+    icpsr: 42500
   name:
     first: Angela
     middle: Deneece
@@ -39005,7 +39514,7 @@
     state_rank: junior
     party: Democrat
     url: https://www.alsobrooks.senate.gov
-    contact_form: https://alsobrooks.senate.gov/
+    contact_form: https://www.alsobrooks.senate.gov/share-your-opinion/
     address: 374 Russell Senate Office Building Washington DC 20510
     office: 374 Russell Senate Office Building
     phone: 202-224-4524
@@ -39022,6 +39531,7 @@
     votesmart: 215303
     ballotpedia: Tim Sheehy
     google_entity_id: kg:/g/11f_jbs1jf
+    icpsr: 42503
   name:
     first: Tim
     middle: Patrick
@@ -39042,6 +39552,7 @@
     address: 124 Russell Senate Office Building Washington DC 20510
     office: 124 Russell Senate Office Building
     phone: 202-224-2644
+    contact_form: https://www.sheehy.senate.gov/share-your-opinion/
 - id:
     bioguide: M001242
     lis: S434
@@ -39055,6 +39566,7 @@
     votesmart: 201791
     ballotpedia: Bernie Moreno
     google_entity_id: kg:/g/11r97h3rzn
+    icpsr: 42502
   name:
     first: Bernie
     last: Moreno
@@ -39074,6 +39586,7 @@
     address: 284 Russell Senate Office Building Washington DC 20510
     office: 284 Russell Senate Office Building
     phone: 202-224-2315
+    contact_form: https://www.moreno.senate.gov/share-your-opinion/
 - id:
     bioguide: M001243
     lis: S433
@@ -39085,6 +39598,7 @@
     wikidata: Q5234544
     pictorial: 13969
     ballotpedia: David McCormick (Pennsylvania)
+    icpsr: 42501
   name:
     first: Dave
     middle: Harold
@@ -39102,7 +39616,7 @@
     state_rank: junior
     party: Republican
     url: https://www.mccormick.senate.gov
-    contact_form: https://mccormick.senate.gov/
+    contact_form: https://www.mccormick.senate.gov/share-your-opinion/
     address: 702 Hart Senate Office Building Washington DC 20510
     office: 702 Hart Senate Office Building
     phone: 202-224-6324
@@ -39118,6 +39632,7 @@
     google_entity_id: kg:/g/11tc3qp2lx
     votesmart: 207684
     ballotpedia: Nicholas Begich
+    icpsr: 22503
   name:
     first: Nicholas
     middle: Joseph
@@ -39138,6 +39653,7 @@
     office: 153 Cannon House Office Building
     phone: 202-225-5765
     url: https://begich.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: F000481
     fec:
@@ -39149,6 +39665,7 @@
     pictorial: 13465
     votesmart: 212889
     ballotpedia: Shomari Figures
+    icpsr: 22515
   name:
     first: Shomari
     middle: Coleman
@@ -39168,6 +39685,7 @@
     office: 225 Cannon House Office Building
     phone: 202-225-4931
     url: https://figures.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: A000381
     fec:
@@ -39180,6 +39698,7 @@
     votesmart: 201437
     ballotpedia: Yassamin Ansari
     google_entity_id: kg:/g/11l246bt1h
+    icpsr: 22500
   name:
     first: Yassamin
     last: Ansari
@@ -39198,6 +39717,7 @@
     office: 1432 Longworth House Office Building
     phone: 202-225-4065
     url: https://ansari.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001098
     fec:
@@ -39210,6 +39730,7 @@
     votesmart: 205532
     ballotpedia: Abraham Hamadeh
     google_entity_id: kg:/g/11rj4xtrgt
+    icpsr: 22522
   name:
     first: Abraham
     middle: Jamal
@@ -39229,6 +39750,7 @@
     office: 1722 Longworth House Office Building
     phone: 202-225-4576
     url: https://hamadeh.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: S001231
     fec:
@@ -39240,6 +39762,7 @@
     pictorial: 13496
     votesmart: 213551
     ballotpedia: Lateefah Simon
+    icpsr: 22553
   name:
     first: Lateefah
     middle: Aaliyah
@@ -39259,6 +39782,7 @@
     office: 1023 Longworth House Office Building
     phone: 202-225-2661
     url: https://simon.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: G000605
     fec:
@@ -39270,6 +39794,7 @@
     pictorial: 13497
     votesmart: 138552
     ballotpedia: Adam Gray
+    icpsr: 22521
   name:
     first: Adam
     middle: Channing
@@ -39289,6 +39814,7 @@
     office: 1230 Longworth House Office Building
     phone: 202-225-1947
     url: https://gray.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: L000607
     fec:
@@ -39300,6 +39826,7 @@
     pictorial: 13500
     votesmart: 70450
     ballotpedia: Sam Liccardo
+    icpsr: 22532
   name:
     first: Sam
     middle: Theodore
@@ -39319,6 +39846,7 @@
     office: 1117 Longworth House Office Building
     phone: 202-225-8104
     url: https://liccardo.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: W000830
     fec:
@@ -39330,6 +39858,7 @@
     pictorial: 13511
     votesmart: 213585
     ballotpedia: George Whitesides
+    icpsr: 22559
   name:
     first: George
     middle: Thomas
@@ -39349,6 +39878,7 @@
     office: 1504 Longworth House Office Building
     phone: 202-225-1956
     url: https://whitesides.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: R000620
     fec:
@@ -39361,6 +39891,7 @@
     votesmart: 178070
     ballotpedia: Luz Maria Rivas
     google_entity_id: kg:/g/11f66696qy
+    icpsr: 22550
   name:
     first: Luz
     middle: Maria
@@ -39380,6 +39911,7 @@
     office: 1319 Longworth House Office Building
     phone: 202-225-6131
     url: https://rivas.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: F000483
     fec:
@@ -39391,6 +39923,7 @@
     pictorial: 13514
     votesmart: 111792
     ballotpedia: Laura Friedman
+    icpsr: 22516
   name:
     first: Laura
     middle: Syril
@@ -39410,6 +39943,7 @@
     office: 1517 Longworth House Office Building
     phone: 202-225-4176
     url: https://friedman.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: T000491
     fec:
@@ -39422,6 +39956,7 @@
     google_entity_id: kg:/g/11vbwrj3mq
     votesmart: 213645
     ballotpedia: Derek Tran
+    icpsr: 22556
   name:
     first: Derek
     middle: Truyen
@@ -39441,6 +39976,7 @@
     office: 1127 Longworth House Office Building
     phone: 202-225-2415
     url: https://tran.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001241
     fec:
@@ -39453,6 +39989,7 @@
     votesmart: 179392
     ballotpedia: Dave Min
     google_entity_id: kg:/g/11fx8l8rg9
+    icpsr: 22541
   name:
     first: Dave
     middle: Kunnghee
@@ -39472,6 +40009,7 @@
     office: 1034 Longworth House Office Building
     phone: 202-225-5611
     url: https://min.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001100
     fec:
@@ -39483,6 +40021,7 @@
     pictorial: 13539
     votesmart: 217034
     ballotpedia: Jeff Hurd
+    icpsr: 22526
   name:
     first: Jeff
     middle: Stephen
@@ -39502,6 +40041,7 @@
     office: 1641 Longworth House Office Building
     phone: 202-225-4676
     url: https://hurd.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: C001137
     fec:
@@ -39514,6 +40054,7 @@
     google_entity_id: kg:/g/11c5b6072s
     votesmart: 66946
     ballotpedia: Jeff Crank
+    icpsr: 22509
   name:
     first: Jeff
     middle: George
@@ -39545,6 +40086,7 @@
     google_entity_id: kg:/g/11rzqxsg01
     votesmart: 206217
     ballotpedia: Gabe Evans
+    icpsr: 22513
   name:
     first: Gabe
     last: Evans
@@ -39563,6 +40105,7 @@
     office: 1229 Longworth House Office Building
     phone: 202-225-5625
     url: https://gabeevans.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001238
     fec:
@@ -39574,6 +40117,7 @@
     pictorial: 13551
     votesmart: 195142
     ballotpedia: Sarah McBride
+    icpsr: 22535
   name:
     first: Sarah
     middle: Elizabeth
@@ -39593,6 +40137,7 @@
     office: 1306 Longworth House Office Building
     phone: 202-225-4165
     url: https://mcbride.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001099
     fec:
@@ -39604,6 +40149,7 @@
     pictorial: 13557
     votesmart: 53952
     ballotpedia: Mike Haridopolos
+    icpsr: 22523
   name:
     first: Mike
     middle: John
@@ -39623,6 +40169,7 @@
     office: 1039 Longworth House Office Building
     phone: 202-225-3671
     url: https://haridopolos.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: J000311
     fec:
@@ -39635,6 +40182,7 @@
     votesmart: 215141
     ballotpedia: Brian Jack
     google_entity_id: kg:/g/11f4kg7dlk
+    icpsr: 22527
   name:
     first: Brian
     middle: Timothy
@@ -39654,6 +40202,7 @@
     office: 1320 Longworth House Office Building
     phone: 202-225-5901
     url: https://jack.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: S001229
     fec:
@@ -39665,6 +40214,7 @@
     pictorial: 13623
     votesmart: 148154
     ballotpedia: Jefferson Shreve
+    icpsr: 22552
   name:
     first: Jefferson
     middle: Scott
@@ -39684,6 +40234,7 @@
     office: 224 Cannon House Office Building
     phone: 202-225-3021
     url: https://shreve.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001233
     fec:
@@ -39695,6 +40246,7 @@
     pictorial: 13625
     ballotpedia: Mark Messmer
     votesmart: 102958
+    icpsr: 22540
   name:
     first: Mark
     last: Messmer
@@ -39713,6 +40265,7 @@
     office: 1208 Longworth House Office Building
     phone: 202-225-4636
     url: https://messmer.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: S001228
     fec:
@@ -39724,6 +40277,7 @@
     pictorial: 13628
     votesmart: 34451
     ballotpedia: Derek Schmidt
+    icpsr: 22551
   name:
     first: Derek
     middle: Larkin
@@ -39743,6 +40297,7 @@
     office: 1223 Longworth House Office Building
     phone: 202-225-6601
     url: https://schmidt.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: O000176
     fec:
@@ -39754,6 +40309,7 @@
     pictorial: 13653
     votesmart: 67095
     ballotpedia: John Olszewski Jr.
+    icpsr: 22545
   name:
     first: Johnny
     middle: Anthony
@@ -39774,6 +40330,7 @@
     office: 1339 Longworth House Office Building
     phone: 202-225-3061
     url: https://olszewski.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: E000301
     fec:
@@ -39786,6 +40343,7 @@
     votesmart: 178463
     ballotpedia: Sarah Elfreth
     google_entity_id: kg:/g/11h5snsfyt
+    icpsr: 22512
   name:
     first: Sarah
     middle: Kelly
@@ -39805,6 +40363,7 @@
     office: 1213 Longworth House Office Building
     phone: 202-225-4016
     url: https://elfreth.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001232
     fec:
@@ -39817,6 +40376,7 @@
     google_entity_id: kg:/g/11fym2333d
     votesmart: 214608
     ballotpedia: April McClain-Delaney
+    icpsr: 22536
   name:
     first: April
     middle: Lynn
@@ -39836,6 +40396,7 @@
     office: 1130 Longworth House Office Building
     phone: 202-225-2721
     url: https://mcclaindelaney.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: B001321
     fec:
@@ -39847,6 +40408,7 @@
     pictorial: 13668
     votesmart: 153540
     ballotpedia: Tom Barrett (Michigan)
+    icpsr: 22501
   name:
     first: Tom
     middle: More
@@ -39866,6 +40428,7 @@
     office: 1232 Longworth House Office Building
     phone: 202-225-4872
     url: https://barrett.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001237
     fec:
@@ -39878,6 +40441,7 @@
     google_entity_id: kg:/g/11swd0vjj8
     votesmart: 199213
     ballotpedia: Kristen McDonald Rivet
+    icpsr: 22537
   name:
     first: Kristen
     middle: Lee
@@ -39897,6 +40461,7 @@
     office: 1408 Longworth House Office Building
     phone: 202-225-3611
     url: https://mcdonaldrivet.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001234
     fec:
@@ -39909,6 +40474,7 @@
     votesmart: 183781
     ballotpedia: Kelly Morrison
     google_entity_id: kg:/g/11gzs6zmll
+    icpsr: 22544
   name:
     first: Kelly
     middle: Louise
@@ -39928,6 +40494,7 @@
     office: 1205 Longworth House Office Building
     phone: 202-225-2871
     url: https://morrison.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: B001324
     fec:
@@ -39940,6 +40507,7 @@
     google_entity_id: kg:/g/11g234cdqy
     votesmart: 217416
     ballotpedia: Wesley Bell
+    icpsr: 22504
   name:
     first: Wesley
     middle: Jonell-Cleavon
@@ -39959,6 +40527,7 @@
     office: 1429 Longworth House Office Building
     phone: 202-225-2406
     url: https://bell.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: O000177
     fec:
@@ -39972,6 +40541,7 @@
     google_entity_id: kg:/g/11c1tl91ch
     votesmart: 66719
     ballotpedia: Bob Onder
+    icpsr: 22546
   name:
     first: Robert
     middle: F.
@@ -39992,6 +40562,7 @@
     office: 1113 Longworth House Office Building
     phone: 202-225-2956
     url: https://onder.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: K000404
     fec:
@@ -40001,6 +40572,7 @@
     wikidata: Q130942218
     pictorial: 13691
     google_entity_id: kg:/g/11ldv50j57
+    icpsr: 22561
   name:
     first: Kimberlyn
     middle: Kay
@@ -40032,6 +40604,7 @@
     google_entity_id: kg:/g/11m_kv__8j
     votesmart: 178611
     ballotpedia: Troy Downing
+    icpsr: 22511
   name:
     first: Troy
     middle: Bryan
@@ -40051,6 +40624,7 @@
     office: 1529 Longworth House Office Building
     phone: 202-225-3211
     url: https://downing.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001240
     fec:
@@ -40062,6 +40636,7 @@
     pictorial: 13703
     votesmart: 213685
     ballotpedia: Addison McDowell
+    icpsr: 22538
   name:
     first: Addison
     middle: Parker
@@ -40081,6 +40656,7 @@
     office: 1032 Longworth House Office Building
     phone: 202-225-3065
     url: https://mcdowell.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001102
     fec:
@@ -40094,6 +40670,7 @@
     votesmart: 146230
     ballotpedia: Mark Harris (North Carolina)
     google_entity_id: kg:/g/11f6156x_t
+    icpsr: 22525
   name:
     first: Mark
     middle: Everette
@@ -40113,6 +40690,7 @@
     office: 126 Cannon House Office Building
     phone: 202-225-1976
     url: https://markharris.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001101
     fec:
@@ -40124,6 +40702,7 @@
     pictorial: 13707
     votesmart: 202557
     ballotpedia: Pat Harrigan
+    icpsr: 22524
   name:
     first: Pat
     last: Harrigan
@@ -40142,6 +40721,7 @@
     office: 1233 Longworth House Office Building
     phone: 202-225-2576
     url: https://harrigan.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: K000405
     fec:
@@ -40153,6 +40733,7 @@
     pictorial: 13710
     votesmart: 213703
     ballotpedia: Brad Knott
+    icpsr: 22530
   name:
     first: Brad
     last: Knott
@@ -40171,6 +40752,7 @@
     office: 1239 Longworth House Office Building
     phone: 202-225-4531
     url: https://knott.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001236
     fec:
@@ -40182,6 +40764,7 @@
     pictorial: 13711
     votesmart: 41316
     ballotpedia: Timothy K. Moore
+    icpsr: 22542
   name:
     first: Tim
     middle: Keith
@@ -40201,6 +40784,7 @@
     office: 1424 Longworth House Office Building
     phone: 202-225-5634
     url: https://timmoore.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: F000482
     fec:
@@ -40213,6 +40797,7 @@
     votesmart: 144276
     ballotpedia: Julie Fedorchak
     google_entity_id: kg:/g/11f06k2mb2
+    icpsr: 22514
   name:
     first: Julie
     middle: Ann
@@ -40232,6 +40817,7 @@
     office: 1607 Longworth House Office Building
     phone: 202-225-2611
     url: https://fedorchak.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: G000604
     fec:
@@ -40244,6 +40830,7 @@
     google_entity_id: kg:/g/11c31t9glt
     votesmart: 218522
     ballotpedia: Maggie Goodlander
+    icpsr: 22520
   name:
     first: Maggie
     middle: Vivian
@@ -40263,6 +40850,7 @@
     office: 223 Cannon House Office Building
     phone: 202-225-5206
     url: https://goodlander.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: C001136
     fec:
@@ -40274,6 +40862,7 @@
     pictorial: 13720
     votesmart: 24716
     ballotpedia: Herbert Conaway Jr.
+    icpsr: 22508
   name:
     first: Herbert
     middle: Clark Hoover
@@ -40294,6 +40883,7 @@
     office: 1022 Longworth House Office Building
     phone: 202-225-4765
     url: https://conaway.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: P000621
     fec:
@@ -40305,6 +40895,7 @@
     pictorial: 13726
     votesmart: 15181
     ballotpedia: Nellie Pou
+    icpsr: 22547
   name:
     first: Nellie
     middle: Avila
@@ -40324,6 +40915,7 @@
     office: 1007 Longworth House Office Building
     phone: 202-225-5751
     url: https://pou.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: G000602
     fec:
@@ -40336,6 +40928,7 @@
     google_entity_id: kg:/g/11sqq7tb5k
     votesmart: 208621
     ballotpedia: Laura Gillen
+    icpsr: 22518
   name:
     first: Laura
     middle: Anne
@@ -40355,6 +40948,7 @@
     office: 428 Cannon House Office Building
     phone: 202-225-5516
     url: https://gillen.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: L000606
     fec:
@@ -40366,6 +40960,7 @@
     pictorial: 13752
     votesmart: 44173
     ballotpedia: George Latimer (New York)
+    icpsr: 22531
   name:
     first: George
     middle: Stephen
@@ -40385,6 +40980,7 @@
     office: 1507 Longworth House Office Building
     phone: 202-225-2464
     url: https://latimer.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: R000622
     fec:
@@ -40396,6 +40992,7 @@
     pictorial: 13755
     votesmart: 205997
     ballotpedia: Josh Riley
+    icpsr: 22549
   name:
     first: Josh
     middle: Paul
@@ -40415,6 +41012,7 @@
     office: 128 Cannon House Office Building
     phone: 202-225-5441
     url: https://riley.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001231
     fec:
@@ -40427,6 +41025,7 @@
     google_entity_id: kg:/g/11j384z6dz
     votesmart: 185053
     ballotpedia: John Mannion
+    icpsr: 22534
   name:
     first: John
     middle: W.
@@ -40446,6 +41045,7 @@
     office: 1516 Longworth House Office Building
     phone: 202-225-3701
     url: https://mannion.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: T000490
     fec:
@@ -40457,6 +41057,7 @@
     pictorial: 13764
     votesmart: 213920
     ballotpedia: David Taylor (Ohio)
+    icpsr: 22555
   name:
     first: David
     middle: J.
@@ -40476,6 +41077,7 @@
     office: 325 Cannon House Office Building
     phone: 202-225-3164
     url: https://taylor.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: D000635
     fec:
@@ -40488,6 +41090,7 @@
     votesmart: 190844
     ballotpedia: Maxine Dexter
     google_entity_id: kg:/g/11f0x2q9dn
+    icpsr: 22510
   name:
     first: Maxine
     middle: Elizabeth
@@ -40507,6 +41110,7 @@
     office: 1207 Longworth House Office Building
     phone: 202-225-4811
     url: https://dexter.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: B001326
     fec:
@@ -40519,6 +41123,7 @@
     votesmart: 168102
     ballotpedia: Janelle Bynum
     google_entity_id: kg:/g/11c311drkv
+    icpsr: 22507
   name:
     first: Janelle
     middle: S.
@@ -40538,6 +41143,7 @@
     office: 1508 Longworth House Office Building
     phone: 202-225-5711
     url: https://bynum.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001230
     fec:
@@ -40549,6 +41155,7 @@
     pictorial: 13795
     votesmart: 136465
     ballotpedia: Ryan Mackenzie
+    icpsr: 22533
   name:
     first: Ryan
     middle: Edward
@@ -40568,6 +41175,7 @@
     office: 121 Cannon House Office Building
     phone: 202-225-6411
     url: https://mackenzie.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: B001327
     fec:
@@ -40580,6 +41188,7 @@
     google_entity_id: kg:/g/11l388y1tr
     votesmart: 214735
     ballotpedia: Rob Bresnahan Jr.
+    icpsr: 22506
   name:
     first: Robert
     middle: P.
@@ -40600,6 +41209,7 @@
     office: 1133 Longworth House Office Building
     phone: 202-225-5546
     url: https://bresnahan.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: H001103
     fec:
@@ -40610,6 +41220,7 @@
     wikidata: Q130997176
     google_entity_id: kg:/g/11k9b2cmvf
     ballotpedia: Pablo Jose Hernandez Rivera
+    icpsr: 22560
   name:
     first: Pablo José
     last: Hernández Rivera
@@ -40639,6 +41250,7 @@
     pictorial: 13811
     votesmart: 216183
     ballotpedia: Sheri Biggs
+    icpsr: 22505
   name:
     first: Sheri
     middle: Lynn
@@ -40658,6 +41270,7 @@
     office: 1530 Longworth House Office Building
     phone: 202-225-5301
     url: https://sheribiggs.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: G000601
     fec:
@@ -40667,6 +41280,7 @@
     wikipedia: Craig Goldman
     wikidata: Q16199453
     pictorial: 13837
+    icpsr: 22519
   name:
     first: Craig
     middle: A.
@@ -40697,6 +41311,8 @@
     pictorial: 13851
     ballotpedia: Brandon Gill
     google_entity_id: kg:/g/11l7366d8s
+    icpsr: 22517
+    votesmart: 213266
   name:
     first: Brandon
     middle: Gene
@@ -40716,6 +41332,7 @@
     office: 1305 Longworth House Office Building
     phone: 202-225-7772
     url: https://gill.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: J000310
     fec:
@@ -40728,6 +41345,7 @@
     votesmart: 177532
     ballotpedia: Julie Johnson
     google_entity_id: kg:/g/11h3qrpcmw
+    icpsr: 22528
   name:
     first: Julie
     middle: Elizabeth
@@ -40747,6 +41365,7 @@
     office: 221 Cannon House Office Building
     phone: 202-225-2231
     url: https://juliejohnson.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: K000403
     fec:
@@ -40757,6 +41376,7 @@
     wikidata: Q16730723
     pictorial: 13866
     votesmart: 137469
+    icpsr: 22529
   name:
     first: Mike
     middle: Steven
@@ -40776,6 +41396,7 @@
     office: 1626 Longworth House Office Building
     phone: 202-225-7751
     url: https://mikekennedy.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001239
     fec:
@@ -40789,6 +41410,7 @@
     votesmart: 176388
     ballotpedia: John McGuire
     google_entity_id: kg:/g/11f3w6hjlp
+    icpsr: 22539
   name:
     first: John
     middle: J.
@@ -40809,6 +41431,7 @@
     office: 1013 Longworth House Office Building
     phone: 202-225-4711
     url: https://mcguire.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: V000138
     fec:
@@ -40821,6 +41444,7 @@
     google_entity_id: kg:/g/11s1y2g_4c
     votesmart: 216844
     ballotpedia: Eugene Vindman
+    icpsr: 22558
   name:
     first: Eugene
     middle: Simon
@@ -40840,6 +41464,7 @@
     office: 1005 Longworth House Office Building
     phone: 202-225-2815
     url: https://vindman.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: S001230
     fec:
@@ -40852,6 +41477,7 @@
     votesmart: 186400
     ballotpedia: Suhas Subramanyam
     google_entity_id: kg:/g/11dxq46slq
+    icpsr: 22554
   name:
     first: Suhas
     last: Subramanyam
@@ -40870,6 +41496,7 @@
     office: 1009 Longworth House Office Building
     phone: 202-225-5136
     url: https://subramanyam.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: B001322
     fec:
@@ -40880,6 +41507,7 @@
     wikidata: Q6828508
     pictorial: 13885
     votesmart: 126301
+    icpsr: 22502
   name:
     first: Michael
     middle: James
@@ -40899,6 +41527,7 @@
     office: 124 Cannon House Office Building
     phone: 202-225-2006
     url: https://baumgartner.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: R000621
     fec:
@@ -40911,6 +41540,7 @@
     votesmart: 183038
     ballotpedia: Emily Randall
     google_entity_id: kg:/g/11gyb032d1
+    icpsr: 22548
   name:
     first: Emily
     middle: Elissa
@@ -40930,6 +41560,7 @@
     office: 1531 Longworth House Office Building
     phone: 202-225-5916
     url: https://randall.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: M001235
     fec:
@@ -40940,6 +41571,7 @@
     wikidata: Q93769958
     pictorial: 13900
     google_entity_id: kg:/g/11c506zp3v
+    icpsr: 22543
   name:
     first: Riley
     middle: M.
@@ -40959,6 +41591,7 @@
     office: 1337 Longworth House Office Building
     phone: 202-225-2711
     url: https://rileymoore.house.gov
+    contact_form: stubforcwc
 - id:
     bioguide: J000312
     lis: S437
@@ -40969,6 +41602,7 @@
     wikipedia: Jim Justice
     wikidata: Q20684288
     pictorial: 13927
+    icpsr: 42504
   name:
     first: Jim
     middle: Conley
@@ -40990,6 +41624,7 @@
     address: 509 Hart Senate Office Building Washington DC 20510
     office: 509 Hart Senate Office Building
     phone: 202-224-3954
+    contact_form: https://www.justice.senate.gov/share-your-opinion/
 - id:
     bioguide: H001104
     lis: S438
@@ -41001,6 +41636,7 @@
     pictorial: 14025
     votesmart: 45796
     ballotpedia: Jon Husted
+    icpsr: 42505
   name:
     first: Jon
     middle: Allen
@@ -41023,6 +41659,7 @@
     address: 304 Russell Senate Office Building Washington DC 20510
     office: 304 Russell Senate Office Building
     phone: 202-224-3353
+    contact_form: https://www.husted.senate.gov/contact-jon/
 - id:
     bioguide: M001244
     lis: S439
@@ -41035,6 +41672,7 @@
     votesmart: 183198
     ballotpedia: Ashley B. Moody
     google_entity_id: kg:/g/11gzrp7jtr
+    icpsr: 42506
   name:
     first: Ashley
     middle: Brooke
@@ -41057,6 +41695,7 @@
     address: 387 Russell Senate Office Building Washington DC 20510
     office: 387 Russell Senate Office Building
     phone: 202-224-3041
+    contact_form: https://www.moody.senate.gov/contact-us/
 - id:
     bioguide: P000622
     fec:
@@ -41070,6 +41709,7 @@
     house_history: 36507226671
     google_entity_id: kg:/m/03d5p39
     pictorial: 14039
+    icpsr: 22563
   name:
     first: Jimmy
     middle: Theo
@@ -41103,6 +41743,7 @@
     house_history: 36507226672
     google_entity_id: kg:/g/11fhvxds1p
     pictorial: 14040
+    icpsr: 22562
   name:
     first: Randall
     middle: Adam
@@ -41133,6 +41774,7 @@
     wikidata: Q135132001
     ballotpedia: James Walkinshaw
     votesmart: 196546
+    icpsr: 22564
   name:
     first: James
     middle: R.
@@ -41152,6 +41794,7 @@
     address: 2265 Rayburn House Office Building Washington DC 20515-4611
     office: 2265 Rayburn House Office Building
     phone: 202-225-1492
+    contact_form: stubforcwc
 - id:
     bioguide: G000606
     fec:
@@ -41162,6 +41805,8 @@
     ballotpedia: Adelita Grijalva
     house_history: 36507227802
     votesmart: 196554
+    icpsr: 22565
+    pictorial: 12912
   name:
     first: Adelita
     middle: S.
@@ -41181,6 +41826,7 @@
     address: 1203 Longworth House Office Building Washington DC 20515-0307
     office: 1203 Longworth House Office Building
     phone: 202-225-2435
+    contact_form: stubforcwc
 - id:
     bioguide: V000139
     fec:
@@ -41191,6 +41837,7 @@
     ballotpedia: Matt Van Epps
     house_history: 36507227933
     google_entity_id: kg:/g/11yfbrb4jl
+    icpsr: 22566
   name:
     first: Matt
     last: Van Epps
@@ -41263,8 +41910,8 @@
     party: Republican
     state_rank: junior
     url: https://www.armstrong.senate.gov
-    address: G12 Dirksen Senate Office Building Washington DC 20510
-    office: G12 Dirksen Senate Office Building
+    address: 330 Hart Senate Office Building Washington DC 20510
+    office: 330 Hart Senate Office Building
     phone: 202-224-4721
     fax: 202-228-0380
 - id:
@@ -41302,6 +41949,7 @@
     wikipedia: Analilia Mejia
     wikidata: Q138142530
     ballotpedia: Analilia Mejia
+    votesmart: 231029
   name:
     first: Analilia
     last: Mejia
@@ -41326,6 +41974,10 @@
     fec:
     - H6CA01285
     govtrack: 457043
+    wikipedia: James Gallagher (California politician)
+    votesmart: 114778
+    ballotpedia: James Gallagher (California)
+    wikidata: Q18686250
   name:
     first: James
     last: Gallagher
@@ -41343,3 +41995,4 @@
     address: 408 Cannon House Office Building Washington DC 20515-0501
     office: 408 Cannon House Office Building
     phone: 202-225-3076
+    url: https://gallagher.house.gov

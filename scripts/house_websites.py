@@ -85,8 +85,13 @@ def run():
       # directory to have the current active subdomain. As an example,
       # the directory lists randyforbes.house.gov, which redirects to
       # forbes.house.gov.
-      resp = urllib.request.urlopen(url)
-      url = resp.geturl()
+      try:
+        resp = urllib.request.urlopen(url, timeout=30)
+        url = resp.geturl()
+      except (urllib.error.URLError, TimeoutError) as e:
+        # A dead member site (e.g. 410 right after a departure) shouldn't
+        # abort the run; fall back to the URL the directory listed.
+        print("Error following %s (%s); using directory URL" % (url, e))
 
       # kill everything after the domain
       url = re.sub(".gov/.*$", ".gov", url)
