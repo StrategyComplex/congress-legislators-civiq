@@ -23,6 +23,76 @@ File | Download | Description
 
 The data formats are documented below.
 
+### Direct JSON build CLI
+
+With Python 3.9+ and PyYAML already installed, run from any working directory:
+
+```sh
+python3 /path/to/congress-legislators-civiq/scripts/alternate_bulk_formats.py \
+  --input-dir /path/to/congress-legislators-civiq \
+  --output-dir /path/to/fresh-national-json \
+  --json-only --force-refresh
+```
+
+`--output-dir` is the JSON root itself (no additional `json` subdirectory), must
+be outside `--input-dir`, and requires `--json-only` to prevent accidental CSV
+generation in the checkout. Relative arguments use the caller's working directory;
+omitted paths use the script's checkout. Inputs are sorted root-level `*.yaml`.
+JSON-only conversion does not require the historical-legislator input used by CSV.
+It uses safe YAML loading, does not import legacy scraping utilities, ignores
+pickle caches and never writes them. Direct CLI execution suppresses bytecode
+caches as well. YAML dates/timestamps serialize to ISO strings; Twitter IDs
+serialize to strings to avoid loss of precision.
+
+The strict `SafeLoader` subclass rejects duplicate mapping keys at every depth,
+including safely constructed keys that compare equal (`true` and `1`). All YAML
+merge directives (`<<`) are rejected before flattening, even disjoint merges;
+spell out mappings instead of relying on implicit override precedence. Ordinary
+nonrecursive aliases remain supported; recursive aliases fail explicitly.
+
+Output paths must have no symlink components, including root ancestors, existing
+files and dangling links. Existing output trees are checked before generation,
+even when files would normally be skipped. Supply physical paths, not symlink
+aliases (including platform temporary-dir aliases). POSIX no-follow directory
+descriptors and fresh sibling inode replacement prevent writes through links,
+including force-refresh truncation of hard-linked sources. This applies to JSON
+and legacy CSV output. Normal skip/force behavior is unchanged. Earlier files can
+remain if a later conversion fails: a nonzero exit must never authorize dataset
+publication. Use a caller-owned staging directory without concurrent writers.
+Source bytes and modification times are untouched; reads may update access times
+according to filesystem policy. Source snapshot/digest binding and independent
+consistency validation belong to the build coordinator.
+
+The five backend artifacts retain their names and top-level shapes:
+
+| JSON file | Shape |
+| --- | --- |
+| `legislators-current.json` | array |
+| `legislators-district-offices.json` | array |
+| `legislators-social-media.json` | array |
+| `committees-current.json` | array |
+| `committee-membership-current.json` | object keyed by committee ID |
+
+Other available YAML sources still produce their corresponding JSON files.
+Explicit destinations skip existing files unless `--force-refresh` is present.
+No-argument legacy execution continues to regenerate both CSV and JSON under
+`alternate_formats/{csv,json}`. The Python `generate_legislator_json` API accepts
+`input_dir`, `output_dir` and keyword `force_refresh` (default `True` for legacy
+callers). This is conversion, not atomic publication or coverage validation:
+use a fresh destination and validate before publication; stale files are not pruned.
+
+Run focused synthetic tests from the repository root (no production regeneration):
+
+```sh
+PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s scripts -p 'test_alternate_bulk_formats.py' -v
+```
+
+Tests copy the converter and safety helper into temporary checkouts and invoke the real CLI
+with synthetic YAML from unrelated working directories. They check the five
+output contracts, source/CSV isolation, deterministic regeneration, skip/force
+behavior, legacy defaults and rejection of unsafe YAML tags. No installation,
+network access, pickle deserialization or production-data conversion is needed.
+
 The files are maintained in [YAML](http://www.yaml.org/) format in the main branch of this project. YAML is a serialization format similar in structure to JSON but typically written with one field per line. Like JSON, it allows for nested structure. Each level of nesting is indicated by indentation or a dash. CSV and JSON formatted files are also provided in the `gh-pages` branch --- they're linked above.
 
 This database is maintained through a combination of manual edits by volunteers (from [GovTrack](https://www.govtrack.us), [ProPublica](https://projects.propublica.org/represent/), [MapLight](https://maplight.org/), [FiveThirtyEight](https://fivethirtyeight.com/), and others) and automated imports from a variety of sources including:

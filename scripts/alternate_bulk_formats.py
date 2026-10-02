@@ -1,12 +1,35 @@
+"""Generate congressional bulk formats, with an isolated JSON-only build mode."""
+
+import argparse
 import csv
 import json
-import glob
-import os
+import sys
+from io import StringIO
+from datetime import date, datetime
+from pathlib import Path
 
-import utils
+if __name__ == '__main__':
+    sys.dont_write_bytecode = True
+
+from converter_safety import check_output_tree, check_path, load_yaml, output_file
+
+ROOT = Path(__file__).resolve().parent.parent
 
 
-def generate_legislator_csv():
+def load_source_yaml(path):
+    """Load safe YAML directly, ignoring and never creating pickle caches."""
+    return load_yaml(path)
+
+
+def format_date(value):
+    """Preserve YAML calendar dates/timestamps as ISO strings in JSON."""
+    if isinstance(value, (date, datetime)):
+        return value.isoformat()
+    raise TypeError('Unsupported JSON value: ' + type(value).__name__)
+
+
+def generate_legislator_csv(input_dir=ROOT, output_dir=ROOT / 'alternate_formats' / 'csv'):
+    """Generate legacy legislator CSVs from source YAML, without pickle caches."""
 
     #yaml filenames
     yamls = ["legislators-current.yaml","legislators-historical.yaml"]
@@ -69,15 +92,16 @@ def generate_legislator_csv():
 
 
     print("Loading %s..." %yaml_social)
-    social = utils.load_data(yaml_social)
+    social = load_source_yaml(Path(input_dir) / yaml_social)
 
     for filename in yamls:
         print("Converting %s to CSV..." % filename)
 
-        legislators = utils.load_data(filename)
+        legislators = load_source_yaml(Path(input_dir) / filename)
 
         #convert yaml to csv
-        csv_output = csv.writer(open("../alternate_formats/csv/" + filename.replace(".yaml", ".csv"),"w"))
+        buffer = StringIO(newline='')
+        csv_output = csv.writer(buffer)
 
         head = []
         for pair in bio_fields:
@@ -139,17 +163,21 @@ def generate_legislator_csv():
 
             csv_output.writerow(legislator_row)
 
+        with output_file(Path(output_dir) / filename.replace('.yaml', '.csv'), newline='') as output:
+            output.write(buffer.getvalue())
 
-def generate_district_office_csv():
+
+def generate_district_office_csv(input_dir=ROOT, output_dir=ROOT / 'alternate_formats' / 'csv'):
+    """Generate the legacy district-office CSV without source-side caches."""
     filename = "legislators-district-offices.yaml"
     print("Converting %s to CSV..." % filename)
-    legislators_offices = utils.load_data(filename)
+    legislators_offices = load_source_yaml(Path(input_dir) / filename)
     fields = [
         "bioguide", "thomas", "govtrack", "id", "address", "building",
         "city", "fax", "hours", "phone", "state", "suite", "zip",
         "latitude", "longitude"]
 
-    f = open("../alternate_formats/csv/" + filename.replace(".yaml", ".csv"), "w")
+    f = StringIO(newline='')
     csv_output = csv.DictWriter(f, fieldnames=fields)
     csv_output.writeheader()
 
@@ -159,14 +187,28 @@ def generate_district_office_csv():
             office.update(legislator_ids)
             csv_output.writerow(office)
 
+    with output_file(Path(output_dir) / filename.replace('.yaml', '.csv'), newline='') as output:
+        output.write(f.getvalue())
 
-def generate_legislator_json():
-    #yaml filenames
-    yamls = list(map(os.path.basename, glob.glob("../*.yaml")))
 
-    for filename in yamls:
+def generate_legislator_json(input_dir=None, output_dir=None, *, force_refresh=True):
+    """Convert sorted root *.yaml files into a JSON destination, without CSV.
+
+    The API retains its historical refresh default. Explicit CLI destinations
+    skip existing files unless --force-refresh is supplied. Publication and
+    complete-dataset validation belong to the caller, not this converter.
+    """
+    input_dir = Path(input_dir) if input_dir is not None else ROOT
+    output_dir = Path(output_dir) if output_dir is not None else ROOT / 'alternate_formats' / 'json'
+    check_output_tree(output_dir)
+    for source in sorted(input_dir.glob('*.yaml')):
+        filename = source.name
+        destination = output_dir / (source.stem + '.json')
+        check_path(destination)
+        if destination.exists() and not force_refresh:
+            continue
         print("Converting %s to JSON..." % filename)
-        data = utils.load_data(filename)
+        data = load_source_yaml(source)
         '''handle edge case of incorrect coercion for twitter ids in social media data
             json/js can only handle maximum of 53-bit integers, so 64-bit integer twitter ids *must* be stringified
             to consistently preserve value in json. otherwise they may be rounded and malformed
@@ -177,22 +219,22 @@ def generate_legislator_json():
                     social_legislator['social']['twitter_id'] = str(social_legislator['social']['twitter_id'])
 
         #convert yaml to json
-        utils.write(
-            json.dumps(data, default=utils.format_datetime, indent=2),
-            "../alternate_formats/json/" + filename.replace(".yaml", ".json"))
+        with output_file(destination) as output:
+            output.write(json.dumps(data, default=format_date, indent=2))
 
 
-def generate_committee_membership_csv():
+def generate_committee_membership_csv(input_dir=ROOT, output_dir=ROOT / 'alternate_formats' / 'csv'):
+    """Generate the legacy membership CSV without mutating source files."""
     filename = "committee-membership-current.yaml"
     print("Converting %s to CSV..." % filename)
-    committee_membership = utils.load_data(filename)
+    committee_membership = load_source_yaml(Path(input_dir) / filename)
     fields = [
         "bioguide", "name",
         "committee_id", "committee_type", "committee_name", "committee_subcommittee_name",
         "party", "title", "rank", "chamber",
         ]
 
-    committes = utils.load_data("committees-current.yaml")
+    committes = load_source_yaml(Path(input_dir) / "committees-current.yaml")
     committes = { committee["thomas_id"]: committee
                   for committee in committes }
     for committee in list(committes.values()):
@@ -205,7 +247,7 @@ def generate_committee_membership_csv():
             committes[subcommittee["id"]] = subcommittee
     committee_keys = ["id", "type", "name", "subcommittee_name"]
 
-    f = open("../alternate_formats/csv/" + filename.replace(".yaml", ".csv"), "w")
+    f = StringIO(newline='')
     csv_output = csv.DictWriter(f, fieldnames=fields)
     csv_output.writeheader()
 
@@ -215,11 +257,39 @@ def generate_committee_membership_csv():
                 member["committee_" + key] = committes[committee_id].get(key, "")
             csv_output.writerow(member)
 
+    with output_file(Path(output_dir) / filename.replace('.yaml', '.csv'), newline='') as output:
+        output.write(f.getvalue())
+
+
+def main(argv=None):
+    """Run from any working directory; an explicit build destination is JSON-only."""
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--input-dir', type=Path, default=ROOT,
+                        help='directory containing congressional *.yaml sources')
+    parser.add_argument('--output-dir', type=Path,
+                        help='JSON destination root; requires --json-only')
+    parser.add_argument('--json-only', action='store_true',
+                        help='do not read CSV-only inputs or generate CSV')
+    parser.add_argument('--force-refresh', action='store_true',
+                        help='overwrite existing files in an explicit destination')
+    args = parser.parse_args(argv)
+    if not args.input_dir.is_dir():
+        parser.error('--input-dir must be an existing directory')
+    if args.output_dir is not None:
+        if not args.json_only:
+            parser.error('--output-dir requires --json-only to isolate build output')
+        if args.output_dir.resolve().is_relative_to(args.input_dir.resolve()):
+            parser.error('--output-dir must be outside --input-dir')
+    if not args.json_only:
+        check_output_tree(ROOT / 'alternate_formats' / 'csv')
+        check_output_tree(ROOT / 'alternate_formats' / 'json')
+        generate_legislator_csv(args.input_dir)
+        generate_district_office_csv(args.input_dir)
+    generate_legislator_json(args.input_dir, args.output_dir,
+                             force_refresh=args.force_refresh or args.output_dir is None)
+    if not args.json_only:
+        generate_committee_membership_csv(args.input_dir)
+
 
 if __name__ == '__main__':
-    os.makedirs("../alternate_formats/json", exist_ok=True)
-    os.makedirs("../alternate_formats/csv", exist_ok=True)
-    generate_legislator_csv()
-    generate_district_office_csv()
-    generate_legislator_json()
-    generate_committee_membership_csv()
+    main()
